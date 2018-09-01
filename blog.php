@@ -187,7 +187,7 @@
                 </a><!-- End /.Menu-item-->   
 
                 <!-- Start .Menu-item -->
-                <a href="/about" title="About" class="Menu-item p-3">
+                <a href="/about.php" title="About" class="Menu-item p-3">
                     About
                     <span class="line-1"></span>
                     <span class="line-2"></span>
@@ -196,7 +196,7 @@
                 </a><!-- End /.Menu-item-->   
 
                 <!-- Start .Menu-item -->
-                <a href="/gallery" title="Gallery" class="Menu-item p-3">
+                <a href="/gallery.php" title="Gallery" class="Menu-item p-3">
                     Gallery
                     <span class="line-1"></span>
                     <span class="line-2"></span>
@@ -205,7 +205,7 @@
                 </a><!-- End /.Menu-item-->   
 
                 <!-- Start .Menu-item -->
-                <a href="/blog" title="Blog" class="Menu-item p-3">
+                <a href="/blog.php" title="Blog" class="Menu-item p-3">
                     Blog
                     <span class="line-1"></span>
                     <span class="line-2"></span>
@@ -214,7 +214,7 @@
                 </a><!-- End /.Menu-item-->   
 
                 <!-- Start .Menu-item -->
-                <a href="/contact" title="Contact" class="Menu-item p-3">
+                <a href="/contact.php" title="Contact" class="Menu-item p-3">
                     Contact
                     <span class="line-1"></span>
                     <span class="line-2"></span>
@@ -267,7 +267,7 @@
         
                     <!-- Start .Blog__head -->
                     <div class="Blog__header"> 
-                        <a href="/blog-single" title="Blog1" class="link-out"></a>
+                        <a href="/blog-single.php" title="Blog1" class="link-out"></a>
                         <img src="src/assets/img/blog/Blog-1.jpg" alt="Blog" title="Blog" class="Blog__img img-fluid img100" />
                     </div><!-- End /.Blog__head -->
                     
@@ -276,7 +276,7 @@
 
                         <!-- Start .content__details -->
 <div class="content__details">
-    <h3 class="content__title"><a href="/blog-single" title="Lorem Ipsum">Lorem Ipsum</a></h3>
+    <h3 class="content__title"><a href="/blog-single.php" title="Lorem Ipsum">Lorem Ipsum</a></h3>
     <div class="content__description">January 4, 2018 / Posted Rafig</div>
     <p class="content__text">
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -286,7 +286,7 @@
 </div><!-- End /.content__details -->
 
                         <div class="Blog__footer d-flex justify-content-end">
-                            <a href="/blog-single" title="Read More" class="Blog__more">Read More</a>
+                            <a href="/blog-single.php" title="Read More" class="Blog__more">Read More</a>
                         </div>
                     </div><!-- End /.Blog__body -->
                     
@@ -298,7 +298,7 @@
         
                     <!-- Start .Blog__head -->
                     <div class="Blog__header"> 
-                        <a href="/blog-single" title="Blog1" class="link-out"></a>
+                        <a href="/blog-single.php" title="Blog1" class="link-out"></a>
                         <img src="src/assets/img/blog/Blog-1.jpg" alt="Blog" title="Blog" class="Blog__img img-fluid img100" />
                     </div><!-- End /.Blog__head -->
                     
@@ -307,7 +307,7 @@
 
                         <!-- Start .content__details -->
 <div class="content__details">
-    <h3 class="content__title"><a href="/blog-single" title="Lorem Ipsum">Lorem Ipsum</a></h3>
+    <h3 class="content__title"><a href="/blog-single.php" title="Lorem Ipsum">Lorem Ipsum</a></h3>
     <div class="content__description">January 4, 2018 / Posted Rafig</div>
     <p class="content__text">
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -317,7 +317,7 @@
 </div><!-- End /.content__details -->
 
                         <div class="Blog__footer d-flex justify-content-end">
-                            <a href="/blog-single" title="Read More" class="Blog__more">Read More</a>
+                            <a href="/blog-single.php" title="Read More" class="Blog__more">Read More</a>
                         </div>
                     </div><!-- End /.Blog__body -->
                     
@@ -329,7 +329,7 @@
         
                     <!-- Start .Blog__head -->
                     <div class="Blog__header"> 
-                        <a href="/blog-single" title="Blog1" class="link-out"></a>
+                        <a href="/blog-single.php" title="Blog1" class="link-out"></a>
                         <img src="src/assets/img/blog/Blog-1.jpg" alt="Blog" title="Blog" class="Blog__img img-fluid img100" />
                     </div><!-- End /.Blog__head -->
                     
@@ -338,7 +338,7 @@
 
                         <!-- Start .content__details -->
 <div class="content__details">
-    <h3 class="content__title"><a href="/blog-single" title="Lorem Ipsum">Lorem Ipsum</a></h3>
+    <h3 class="content__title"><a href="/blog-single.php" title="Lorem Ipsum">Lorem Ipsum</a></h3>
     <div class="content__description">January 4, 2018 / Posted Rafig</div>
     <p class="content__text">
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -348,7 +348,7 @@
 </div><!-- End /.content__details -->
 
                         <div class="Blog__footer d-flex justify-content-end">
-                            <a href="/blog-single" title="Read More" class="Blog__more">Read More</a>
+                            <a href="/blog-single.php" title="Read More" class="Blog__more">Read More</a>
                         </div>
                     </div><!-- End /.Blog__body -->
                     
@@ -360,7 +360,7 @@
         
                     <!-- Start .Blog__head -->
                     <div class="Blog__header"> 
-                        <a href="/blog-single" title="Blog1" class="link-out"></a>
+                        <a href="/blog-single.php" title="Blog1" class="link-out"></a>
                         <img src="src/assets/img/blog/Blog-1.jpg" alt="Blog" title="Blog" class="Blog__img img-fluid img100" />
                     </div><!-- End /.Blog__head -->
                     
@@ -369,7 +369,7 @@
 
                         <!-- Start .content__details -->
 <div class="content__details">
-    <h3 class="content__title"><a href="/blog-single" title="Lorem Ipsum">Lorem Ipsum</a></h3>
+    <h3 class="content__title"><a href="/blog-single.php" title="Lorem Ipsum">Lorem Ipsum</a></h3>
     <div class="content__description">January 4, 2018 / Posted Rafig</div>
     <p class="content__text">
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -379,7 +379,7 @@
 </div><!-- End /.content__details -->
 
                         <div class="Blog__footer d-flex justify-content-end">
-                            <a href="/blog-single" title="Read More" class="Blog__more">Read More</a>
+                            <a href="/blog-single.php" title="Read More" class="Blog__more">Read More</a>
                         </div>
                     </div><!-- End /.Blog__body -->
                     
@@ -422,10 +422,10 @@
     </div>
     <ul class="burger-menu__list">
         <li><a class="page-scroll" href="/" title="Home">Home</a></li>
-        <li><a class="page-scroll" href="/about" title="About">About</a></li>
-        <li><a class="page-scroll" href="/gallery" title="Gallery">Gallery</a></li>
-        <li><a class="page-scroll" href="/blog" title="Blog">Blog</a></li>
-        <li><a class="page-scroll" href="/contact" title="Contact">Contact</a></li>
+        <li><a class="page-scroll" href="/about.php" title="About">About</a></li>
+        <li><a class="page-scroll" href="/gallery.php" title="Gallery">Gallery</a></li>
+        <li><a class="page-scroll" href="/blog.php" title="Blog">Blog</a></li>
+        <li><a class="page-scroll" href="/contact.php" title="Contact">Contact</a></li>
     </ul>
     <div class="burger-menu__bottom">
         <p class="copyright">© 2018 Envato. All rights reserved. Theme by Alissio</p>

@@ -187,7 +187,7 @@
                 </a><!-- End /.Menu-item-->   
 
                 <!-- Start .Menu-item -->
-                <a href="/about" title="About" class="Menu-item p-3">
+                <a href="/about.php" title="About" class="Menu-item p-3">
                     About
                     <span class="line-1"></span>
                     <span class="line-2"></span>
@@ -196,7 +196,7 @@
                 </a><!-- End /.Menu-item-->   
 
                 <!-- Start .Menu-item -->
-                <a href="/gallery" title="Gallery" class="Menu-item p-3">
+                <a href="/gallery.php" title="Gallery" class="Menu-item p-3">
                     Gallery
                     <span class="line-1"></span>
                     <span class="line-2"></span>
@@ -205,7 +205,7 @@
                 </a><!-- End /.Menu-item-->   
 
                 <!-- Start .Menu-item -->
-                <a href="/blog" title="Blog" class="Menu-item p-3">
+                <a href="/blog.php" title="Blog" class="Menu-item p-3">
                     Blog
                     <span class="line-1"></span>
                     <span class="line-2"></span>
@@ -214,7 +214,7 @@
                 </a><!-- End /.Menu-item-->   
 
                 <!-- Start .Menu-item -->
-                <a href="/contact" title="Contact" class="Menu-item p-3">
+                <a href="/contact.php" title="Contact" class="Menu-item p-3">
                     Contact
                     <span class="line-1"></span>
                     <span class="line-2"></span>
@@ -408,10 +408,10 @@
     </div>
     <ul class="burger-menu__list">
         <li><a class="page-scroll" href="/" title="Home">Home</a></li>
-        <li><a class="page-scroll" href="/about" title="About">About</a></li>
-        <li><a class="page-scroll" href="/gallery" title="Gallery">Gallery</a></li>
-        <li><a class="page-scroll" href="/blog" title="Blog">Blog</a></li>
-        <li><a class="page-scroll" href="/contact" title="Contact">Contact</a></li>
+        <li><a class="page-scroll" href="/about.php" title="About">About</a></li>
+        <li><a class="page-scroll" href="/gallery.php" title="Gallery">Gallery</a></li>
+        <li><a class="page-scroll" href="/blog.php" title="Blog">Blog</a></li>
+        <li><a class="page-scroll" href="/contact.php" title="Contact">Contact</a></li>
     </ul>
     <div class="burger-menu__bottom">
         <p class="copyright">© 2018 Envato. All rights reserved. Theme by Alissio</p>
