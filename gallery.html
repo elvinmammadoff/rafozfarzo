@@ -47,6 +47,7 @@
 <!-- =========================
     Icons 
 ============================== -->
+
 <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" 
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
@@ -373,13 +374,10 @@
                 </div><!-- End /.filter --> 
                     
             </div>
-        </section><!-- End /.Gallery -->    
+        </section><!-- End /.Gallery -->  
+          
     </article>
 </main>
-
-<!-- =========================
-    4. Section - Footer 
-============================== --> 
 
 <!-- =========================
     Mobile - Burger Right Menu  
@@ -394,11 +392,12 @@
             <img src="src/assets/img/Logo.png" alt="Rafoz Farzo - Photography Template" title="Rafoz Farzo - Photography Template" width="199" height="45" />
         </a><!-- End /.burger-menu__logo -->
 
-        <!-- Start .cd-close-nav -->
+        <!-- Start .cd-close-nav --> 
         <div class="cd-nav-trigger cd-close-nav">
             <div class="cd-nav__divider cd-nav__divider--top"></div>
             <div class="cd-nav__divider cd-nav__divider--bottom"></div>
-        </div><!-- End /.cd-close-nav -->         
+        </div><!-- End /.cd-close-nav -->   
+              
     </div>
 
     <!-- Start .burger-menu__list -->
@@ -459,7 +458,11 @@
 </nav><!-- End /.burger-menu -->
 
 <!-- Start .cd-overlay --> 
-<div class="cd-overlay"></div><!-- End /.cd-overlay --> 
+<div class="cd-overlay"></div><!-- End /.cd-overlay -->
+
+<!-- =========================
+    4. Section - Footer 
+============================== -->  
 
 <!-- Start .Footer -->
 <footer class="Footer">

@@ -47,6 +47,7 @@
 <!-- =========================
     Icons 
 ============================== -->
+
 <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" 
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
@@ -350,10 +351,6 @@
 </main>
 
 <!-- =========================
-    5. Section - Footer 
-============================== --> 
-
-<!-- =========================
     Mobile - Burger Right Menu  
 ============================== -->
 
@@ -370,7 +367,8 @@
         <div class="cd-nav-trigger cd-close-nav">
             <div class="cd-nav__divider cd-nav__divider--top"></div>
             <div class="cd-nav__divider cd-nav__divider--bottom"></div>
-        </div><!-- End /.cd-close-nav -->         
+        </div><!-- End /.cd-close-nav -->  
+               
     </div>
 
     <!-- Start .burger-menu__list -->
@@ -432,6 +430,10 @@
 
 <!-- Start .cd-overlay --> 
 <div class="cd-overlay"></div><!-- End /.cd-overlay --> 
+
+<!-- =========================
+    5. Section - Footer 
+============================== --> 
 
 <!-- Start .Footer -->
 <footer class="Footer">

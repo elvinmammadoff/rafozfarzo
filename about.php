@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
 
-    <!-- Required meta tags -->
+    <!-- Required Meta Tags -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -46,6 +46,7 @@
 <!-- =========================
     Icons 
 ============================== -->
+
 <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
@@ -120,13 +121,13 @@
         <symbol id="icon-pinterest" viewBox="0 0 20 28">
             <title>pinterest</title>
             <path d="M0 9.328c0-5.766 5.281-9.328 10.625-9.328 4.906 0 9.375 3.375 9.375 8.547 0 4.859-2.484 10.25-8.016 10.25-1.313 0-2.969-0.656-3.609-1.875-1.188 4.703-1.094 5.406-3.719 9l-0.219 0.078-0.141-0.156c-0.094-0.984-0.234-1.953-0.234-2.938 0-3.187 1.469-7.797 2.188-10.891-0.391-0.797-0.5-1.766-0.5-2.641 0-1.578 1.094-3.578 2.875-3.578 1.313 0 2.016 1 2.016 2.234 0 2.031-1.375 3.938-1.375 5.906 0 1.344 1.109 2.281 2.406 2.281 3.594 0 4.703-5.187 4.703-7.953 0-3.703-2.625-5.719-6.172-5.719-4.125 0-7.313 2.969-7.313 7.156 0 2.016 1.234 3.047 1.234 3.531 0 0.406-0.297 1.844-0.812 1.844-0.078 0-0.187-0.031-0.266-0.047-2.234-0.672-3.047-3.656-3.047-5.703z"></path>
-        </symbol><!-- End Emdinterest Icon -->
+        </symbol><!-- End Pinterest Icon -->
         
         <!-- Start Map Icon -->
         <symbol id="icon-map-o" viewBox="0 0 32 28">
             <title>map-o</title>
             <path d="M31.563 0.172c0.266 0.187 0.438 0.5 0.438 0.828v22c0 0.406-0.25 0.781-0.625 0.922l-10 4c-0.25 0.109-0.5 0.109-0.75 0l-9.625-3.844-9.625 3.844c-0.125 0.063-0.25 0.078-0.375 0.078-0.203 0-0.391-0.063-0.562-0.172-0.266-0.187-0.438-0.5-0.438-0.828v-22c0-0.406 0.25-0.781 0.625-0.922l10-4c0.25-0.109 0.5-0.109 0.75 0l9.625 3.844 9.625-3.844c0.313-0.125 0.656-0.094 0.938 0.094zM11.5 2.281v19.844l9 3.594v-19.844zM2 5.672v19.844l8.5-3.391v-19.844zM30 22.328v-19.844l-8.5 3.391v19.844z"></path>
-        </symbol><!-- End Emdap Icon -->
+        </symbol><!-- End Map Icon -->
 
     </defs>
 </svg>
@@ -158,7 +159,7 @@
             <!-- Start .burger-icon -->
             <div class="cd-nav-trigger burger-icon burger-icon--right">
                 <div class="cd-nav__divider"></div>
-                <div class="cd-nav__divider"></div>
+                <div class="cd-nav__divider"></div> 
                 <div class="cd-nav__divider"></div>
             </div><!-- End /.burger-icon -->     
 
@@ -248,7 +249,6 @@
                     <!-- Start .content__row -->
                     <div class="content__row row">
 
-                        <!-- Start .content__col -->
                         <div class="col-sm-12 col-md-6">
 
                             <!-- Start .image-line -->
@@ -258,10 +258,12 @@
                                 </div>
                             </div><!-- End /.image-line -->
 
-                        </div><!-- End .content__col -->
+                        </div>
             
-                        <!-- Start .content__col -->
+                        <!-- Start .content__padd -->
                         <div class="col-sm-12 col-md-6 content__padd d-flex flex-wrap flex-column justify-content-between">
+
+                            <!-- Start .content__margin -->
                             <div class="content__margin">
 
                                 <!-- Start .content__details -->
@@ -275,10 +277,14 @@
                                     </p>
                                 </div><!-- End /.content__details -->
                                 
+                                <!-- =========================
+                                    Progressbar
+                                ============================== --> 
+
                                 <!-- Start .Progressbar -->
                                 <section class="Progressbar">
 
-                                    <!-- Start .Progressbar -->
+                                    <!-- Start .Progressbar__item -->
                                     <div class="Progressbar__item">
                                         <div class="Progressbar__header d-flex justify-content-between">
                                             <div class="Progressbar__title">Photoshop</div>
@@ -289,7 +295,7 @@
                                         </div>
                                     </div><!-- End /.Progressbar__item -->
 
-                                    <!-- Start .Progressbar -->
+                                    <!-- Start .Progressbar__item -->
                                     <div class="Progressbar__item">
                                         <div class="Progressbar__header d-flex justify-content-between">
                                             <div class="Progressbar__title">Design</div>
@@ -300,7 +306,7 @@
                                         </div>
                                     </div><!-- End /.Progressbar__item -->
 
-                                    <!-- Start .Progressbar -->
+                                    <!-- Start .Progressbar__item -->
                                     <div class="Progressbar__item">
                                         <div class="Progressbar__header d-flex justify-content-between">
                                             <div class="Progressbar__title">Coloring</div>
@@ -311,7 +317,7 @@
                                         </div>
                                     </div><!-- End /.Progressbar__item -->
 
-                                    <!-- Start .Progressbar -->
+                                    <!-- Start .Progressbar__item -->
                                     <div class="Progressbar__item">
                                         <div class="Progressbar__header d-flex justify-content-between">
                                             <div class="Progressbar__title">Printing</div>
@@ -324,9 +330,9 @@
 
                                 </section><!-- End /.Progressbar -->
 
-                            </div>
+                            </div><!-- End /.content__margin -->
             
-                        </div><!-- End /.content__col --> 
+                        </div><!-- End /.content__padd -->
                                 
                     </div><!-- End /.content__row -->
 
@@ -339,33 +345,40 @@
 </main>
 
 <!-- =========================
-    4. Section - Footer 
-============================== -->
-
-<!-- =========================
     Mobile - Burger Right Menu  
 ============================== -->
 
+<!-- Start .burger-menu -->
 <nav class="cd-nav-container burger-menu burger-menu--right" id="cd-nav">
     <div class="burger-menu__open">
+
+        <!-- Start .burger-menu__logo -->
         <a href="index.html" class="burger-menu__logo" title="Rafoz Farzo - Photography Template">
             <img src="src/assets/img/Logo.png" alt="Rafoz Farzo - Photography Template" title="Rafoz Farzo - Photography Template" width="199" height="45" />
-        </a>
+        </a><!-- End /.burger-menu__logo -->
 
+        <!-- Start .cd-close-nav -->
         <div class="cd-nav-trigger cd-close-nav">
             <div class="cd-nav__divider cd-nav__divider--top"></div>
             <div class="cd-nav__divider cd-nav__divider--bottom"></div>
-        </div>         
+        </div><!-- End /.cd-close-nav -->   
+              
     </div>
+
+    <!-- Start .burger-menu__list -->
     <ul class="burger-menu__list">
         <li><a class="page-scroll" href="/" title="Home">Home</a></li>
         <li><a class="page-scroll" href="/about.html" title="About">About</a></li>
         <li><a class="page-scroll" href="/gallery.html" title="Gallery">Gallery</a></li>
         <li><a class="page-scroll" href="/blog.html" title="Blog">Blog</a></li>
         <li><a class="page-scroll" href="/contact.html" title="Contact">Contact</a></li>
-    </ul>
+    </ul><!-- End /.burger-menu__list -->
+
+    <!-- Start .burger-menu__bottom -->
     <div class="burger-menu__bottom">
-        <p class="copyright">© 2018 Envato. All rights reserved. Theme by Alissio</p>
+
+        <!-- Start .copyright -->
+        <p class="copyright">© 2018 Envato. All rights reserved. Theme by Alissio</p><!-- End /.copyright -->
 
         <!-- Start .social -->
         <div class="social">
@@ -406,11 +419,15 @@
                 </a><!-- End /.social__item -->
     
             </div><!-- End /.social -->        
-    </div>
-</nav>
+    </div><!-- End /.burger-menu__bottom -->
+</nav><!-- End /.burger-menu -->
 
 <!-- Start .cd-overlay --> 
 <div class="cd-overlay"></div><!-- End /.cd-overlay --> 
+
+<!-- =========================
+    4. Section - Footer 
+============================== -->
 
 <!-- Start .Footer -->
 <footer class="Footer">

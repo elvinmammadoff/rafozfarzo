@@ -47,6 +47,7 @@
 <!-- =========================
     Icons 
 ============================== -->
+
 <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" 
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
@@ -229,6 +230,7 @@
         <!-- Start .Slider -->
         <section class="Slider">
 
+            <!-- Start .owl-carousel -->
             <div class="owl-carousel owl-theme">
 
                 <!-- Start .Slider__item -->
@@ -315,20 +317,17 @@
 
                 </div><!-- End /.Slider__item -->
 
-            </div><!-- /.owl-carousel -->
+            </div><!-- End /.owl-carousel -->
             
-        </section><!-- /.Slider -->
+        </section><!-- End /.Slider -->
+        
     </article>
 </main>
 
 <!-- =========================
-    3. Section - Footer 
-============================== --> 
-
-<!-- =========================
     Mobile - Burger Right Menu  
 ============================== -->
-
+ 
 <!-- Start .burger-menu -->
 <nav class="cd-nav-container burger-menu burger-menu--right" id="cd-nav">
     <div class="burger-menu__open">
@@ -342,7 +341,8 @@
         <div class="cd-nav-trigger cd-close-nav">
             <div class="cd-nav__divider cd-nav__divider--top"></div>
             <div class="cd-nav__divider cd-nav__divider--bottom"></div>
-        </div><!-- End /.cd-close-nav -->         
+        </div><!-- End /.cd-close-nav --> 
+                
     </div>
 
     <!-- Start .burger-menu__list -->
@@ -404,6 +404,10 @@
 
 <!-- Start .cd-overlay --> 
 <div class="cd-overlay"></div><!-- End /.cd-overlay --> 
+
+<!-- =========================
+    3. Section - Footer 
+============================== --> 
 
 <!-- Start .Footer -->
 <footer class="Footer">
