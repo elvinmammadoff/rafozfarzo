@@ -276,66 +276,63 @@
                                         Lorem Ipsum has been the industry's standard dummy text ever since. 
                                     </p>
                                 </div><!-- End /.content__details -->
+                                
+                                <!-- =========================
+                                    Progressbar
+                                ============================== --> 
+
+                                <!-- Start .Progressbar -->
+                                <section class="Progressbar">
+
+                                    <!-- Start .Progressbar__item -->
+                                    <div class="Progressbar__item">
+                                        <div class="Progressbar__header d-flex justify-content-between">
+                                            <div class="Progressbar__title">Photoshop</div>
+                                            <div class="Progressbar__count" data-percentage="90"></div>            
+                                        </div>
+                                        <div class="Progressbar__full">
+                                            <span class="Progressbar__fill"></span>
+                                        </div>
+                                    </div><!-- End /.Progressbar__item -->
+
+                                    <!-- Start .Progressbar__item -->
+                                    <div class="Progressbar__item">
+                                        <div class="Progressbar__header d-flex justify-content-between">
+                                            <div class="Progressbar__title">Design</div>
+                                            <div class="Progressbar__count" data-percentage="70"></div>            
+                                        </div>
+                                        <div class="Progressbar__full">
+                                            <span class="Progressbar__fill"></span>
+                                        </div>
+                                    </div><!-- End /.Progressbar__item -->
+
+                                    <!-- Start .Progressbar__item -->
+                                    <div class="Progressbar__item">
+                                        <div class="Progressbar__header d-flex justify-content-between">
+                                            <div class="Progressbar__title">Coloring</div>
+                                            <div class="Progressbar__count" data-percentage="50"></div>            
+                                        </div>
+                                        <div class="Progressbar__full">
+                                            <span class="Progressbar__fill"></span>
+                                        </div>
+                                    </div><!-- End /.Progressbar__item -->
+
+                                    <!-- Start .Progressbar__item -->
+                                    <div class="Progressbar__item">
+                                        <div class="Progressbar__header d-flex justify-content-between">
+                                            <div class="Progressbar__title">Printing</div>
+                                            <div class="Progressbar__count" data-percentage="40"></div>            
+                                        </div>
+                                        <div class="Progressbar__full">
+                                            <span class="Progressbar__fill"></span>
+                                        </div>
+                                    </div><!-- End /.Progressbar__item -->
+
+                                </section><!-- End /.Progressbar -->
 
                             </div><!-- End /.content__margin -->
             
                         </div><!-- End /.content__padd -->
-
-                        <div class="col-sm-12 col-md-6">
-
-                            <!-- =========================
-                                Progressbar
-                            ============================== --> 
-
-                            <!-- Start .Progressbar -->
-                            <section class="Progressbar">
-
-                                <!-- Start .Progressbar__item -->
-                                <div class="Progressbar__item">
-                                    <div class="Progressbar__header d-flex justify-content-between">
-                                        <div class="Progressbar__title">Photoshop</div>
-                                        <div class="Progressbar__count" data-percentage="90"></div>            
-                                    </div>
-                                    <div class="Progressbar__full">
-                                        <span class="Progressbar__fill"></span>
-                                    </div>
-                                </div><!-- End /.Progressbar__item -->
-
-                                <!-- Start .Progressbar__item -->
-                                <div class="Progressbar__item">
-                                    <div class="Progressbar__header d-flex justify-content-between">
-                                        <div class="Progressbar__title">Design</div>
-                                        <div class="Progressbar__count" data-percentage="70"></div>            
-                                    </div>
-                                    <div class="Progressbar__full">
-                                        <span class="Progressbar__fill"></span>
-                                    </div>
-                                </div><!-- End /.Progressbar__item -->
-
-                                <!-- Start .Progressbar__item -->
-                                <div class="Progressbar__item">
-                                    <div class="Progressbar__header d-flex justify-content-between">
-                                        <div class="Progressbar__title">Coloring</div>
-                                        <div class="Progressbar__count" data-percentage="50"></div>            
-                                    </div>
-                                    <div class="Progressbar__full">
-                                        <span class="Progressbar__fill"></span>
-                                    </div>
-                                </div><!-- End /.Progressbar__item -->
-
-                                <!-- Start .Progressbar__item -->
-                                <div class="Progressbar__item">
-                                    <div class="Progressbar__header d-flex justify-content-between">
-                                        <div class="Progressbar__title">Printing</div>
-                                        <div class="Progressbar__count" data-percentage="40"></div>            
-                                    </div>
-                                    <div class="Progressbar__full">
-                                        <span class="Progressbar__fill"></span>
-                                    </div>
-                                </div><!-- End /.Progressbar__item -->
-
-                            </section><!-- End /.Progressbar -->                            
-                        </div>
                                 
                     </div><!-- End /.content__row -->
 
