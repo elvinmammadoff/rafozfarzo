@@ -10,7 +10,7 @@
     <meta name="author" content="" />      
 
     <!-- Title -->
-    <title>Rafoz Farzo - Photography Template</title>
+    <title>Rafoz Farzo - Photography Bootstrap 4 Template</title>
 
     <!-- All Styles -->
     <link rel="stylesheet" href="src/assets/css/main.min.css">

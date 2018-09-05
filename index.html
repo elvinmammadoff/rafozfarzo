@@ -10,7 +10,7 @@
     <meta name="author" content="" />      
 
     <!-- Title -->
-    <title>Rafoz Farzo - Photography Template</title>
+    <title>Rafoz Farzo - Photography Bootstrap 4 Template</title>
 
     <!-- All Styles -->
     <link rel="stylesheet" href="src/assets/css/main.min.css">
@@ -26,6 +26,9 @@
     <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#990100" />
     <meta name="theme-color" content="#ffffff" />    
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary"></meta>    
     
 </head>
 <body class="d-flex flex-column justify-content-between">
