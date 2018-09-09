@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
-    <meta name="author" content="" />      
+    <meta name="author" content="" />         
 
     <!-- Title -->
     <title>Rafoz Farzo - Photography Bootstrap 4 Template</title>
@@ -34,7 +34,15 @@
     <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/" />
     <meta property="og:title" content="A Twitter for My Sister" />
     <meta property="og:description" content="In the early days, Twitter grew so quickly that it was almost impossible to add new features because engineers spent their time trying to keep the rocket ship from stalling." />
-    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/Logo.png" />     
+    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg" />  
+    
+    <!-- Facebook Preview -->
+    <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Rafoz Farzo Template"/>
+    <meta property="og:title" content="Rafoz Farzo - Photography Template" />
+    <meta property="og:description" content="Rafoz Farzo is a best Bootstrap 4 templete for photography website which comes with unique design and user friendly code" />
+    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg" /> 
     
 </head>
 <body class="d-flex flex-column justify-content-between">
