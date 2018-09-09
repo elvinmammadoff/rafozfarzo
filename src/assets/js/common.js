@@ -1,10 +1,10 @@
 /*********************************************************************************
 
 	Template Name: Rafoz Farzo - Multipurpose Bootstrap 4 Template
-	Template URI:   
-	Description: Rafoz Farzo is a best templete for your corporate/business website which comes with unique design and user friendly code.  
+	Template URL: https://rafoz-farzo.herokuapp.com/   
+	Description: Rafoz Farzo is a best templete for photography website which comes with unique design and user friendly code.  
 	Author: Alissio
-	Author URI: 
+	Author URL: https://themeforest.net/user/alissio
 	Version: 1.0
 
     Note: This is scripts js. All custom scripts here.
@@ -15,23 +15,30 @@
 
     [ INDEX ]
 	|
-    |___Stage Padding Owl Carousel Slider
-    |___Button Ripple Effect
-    |___Sticky Header
-    |___Form Input Focus Materialize Effect
-    |___Animate Progressbar on Scroll
+    |___ Stage Padding Owl Carousel Slider
+    |___ Button Ripple Effect
+    |___ Sticky Header
+    |___ Form Input Focus Materialize Effect
+	|___ Progressbar
+	|___ Portfolio Isotope Filter
+	|___ Images Loaded - Isotope Height Calculation
+	|___ Burger Menu Menu
+	|___ Light Gallery Popup Images
+	|___ Pre-Loader
+	|___
+	|___
     |
 	[END INDEX ]
 
 ================================================================================*/
 
 (function ($) {
-    'use strict';
+	'use strict';
+	
 
-
-
-
-    /* Stage Padding Owl Carousel Slider */
+    /* ==========================
+       Stage Padding Owl Carousel Slider
+    =============================*/
 	$('.Slider .owl-carousel').owlCarousel({
 		items: 1,
 		stagePadding: 100,
@@ -72,9 +79,9 @@
 	})	
 
 
-
-
-	/* Button Ripple Effect */
+    /* ==========================
+       Button Ripple Effect
+    =============================*/
 	$(".Slider__button").click(function (e) {
 		// Remove any old one
 		$(".ripple").remove();
@@ -104,9 +111,9 @@
 	});
 
 
-
-
-    /* Sticky Header */
+    /* ==========================
+       Sticky Header
+    =============================*/
     $(window).on('scroll', function () {
         var scrollPos = $(this).scrollTop();
         if (scrollPos > 300) {
@@ -117,9 +124,9 @@
 	});	
 	
 	
-
-
-    /* Form Input Focus Materialize Effect */
+    /* ==========================
+       Form Input Focus Materialize Effect
+    =============================*/
 	$('.Form__input').focus(function () {
 		var $field = $(this).closest('.Form__group');
 		$field.addClass('Form__group--focus');		
@@ -134,9 +141,9 @@
 	});	
 
 
-
-
-    /* Progressbar */
+    /* ==========================
+       Progressbar
+    =============================*/
     var $prg_fill = $('.Progressbar__count[data-percentage]');
 	var $queue = $({});
 	$prg_fill.each(function () {
@@ -159,9 +166,9 @@
 	})
 
 
-
-
-	/* Portfolio Isotope Filter */  
+    /* ==========================
+       Portfolio Isotope Filter
+    =============================*/
 	$('.filter__content').isotope({
 		itemSelector: '.filter__grid',
 	});
@@ -174,9 +181,9 @@
 	});
 
 	
-
-
-	/* Images Loaded - Isotope height calculation */  
+    /* ==========================
+       Images Loaded - Isotope Height Calculation
+    =============================*/
 	// init Isotope
 	var $grid = $('.filter__content').isotope({
 		itemSelector: '.filter__grid',
@@ -192,9 +199,9 @@
     }
 
 
-
-
-	/* Burger Menu Menu */ 
+    /* ==========================
+       Burger Menu Menu
+    =============================*/
     // open left menu clicking the left menu icon
     $('.burger-icon--left').on('click', function(event){
         event.preventDefault();
@@ -235,15 +242,14 @@
 	}
 
 
-
-	/* Light Gallery Popup Images */ 
+    /* ==========================
+       Light Gallery Popup Images
+    =============================*/
 	$('#lightgallery').lightGallery();
-
-
 
 	
     /* ==========================
-       PRE-LOADER
+       Pre-Loader
     =============================*/
 
     // will fade loading animation
