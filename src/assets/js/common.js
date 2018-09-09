@@ -251,11 +251,32 @@
     /* ==========================
        Pre-Loader
     =============================*/
-
     // will fade loading animation
     $("#object").delay(600).fadeOut(300);
     // will fade loading background                 
 	$("#loading").delay(1000).fadeOut(500);	
+
+
+    /* ==========================
+       ScrollUp
+    =============================*/
+	$(document).on( 'scroll', function(){
+		if ($(window).scrollTop() > 100) {
+			$('.scroll-up').addClass('show');
+		} else {
+			$('.scroll-up').removeClass('show');
+		}
+	});
+
+	$('.scroll-up').on('click', scrollToTop);
+	 
+	function scrollToTop() {
+		var verticalOffset = typeof(verticalOffset) != 'undefined' ? verticalOffset : 0,
+		element = $('body'),
+		offset = element.offset(),
+		offsetTop = offset.top;
+		$('html, body').animate({scrollTop: offsetTop}, 500, 'linear');
+	}
 	
 
 })(jQuery);
