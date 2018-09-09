@@ -519,6 +519,9 @@
     Scripts   
 ============================== --> 
  
+<!-- Popper -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script> 
+
 <!-- All Main Scripts -->
 <script src="src/assets/js/scripts.min.js"></script>
 

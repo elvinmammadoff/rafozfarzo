@@ -525,6 +525,9 @@
     Scripts   
 ============================== --> 
  
+<!-- Popper -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script> 
+
 <!-- Google Map JavaScript API -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxvP66_Xk1ts77oL2Z7EpDxhDD_jMg-D0"></script>
 <script src="src/assets/js/initGmap.js"></script>
