@@ -36,7 +36,7 @@
     <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg" /> 
 
     <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary"></meta>   
+    <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@elvin_mammadoff" />
     <meta name="twitter:creator" content="@elvin_mammadoff" /> 
     
