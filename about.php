@@ -471,6 +471,11 @@
 <!-- Start .cd-overlay --> 
 <div class="cd-overlay"></div><!-- End /.cd-overlay --> 
 
+<!-- Start .scroll-up -->
+<div class="scroll-up">
+    <div class="scroll-up__icon"></div>
+</div><!-- End /.scroll-up -->
+
 <!-- =========================
     4. Section - Footer 
 ============================== -->
@@ -531,7 +536,7 @@
 <!-- =========================
     Scripts   
 ============================== --> 
- 
+
 <!-- Popper -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script> 
 

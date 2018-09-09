@@ -451,6 +451,11 @@
 <!-- Start .cd-overlay --> 
 <div class="cd-overlay"></div><!-- End /.cd-overlay --> 
 
+<!-- Start .scroll-up -->
+<div class="scroll-up">
+    <div class="scroll-up__icon"></div>
+</div><!-- End /.scroll-up -->
+
 <!-- =========================
     3. Section - Footer 
 ============================== --> 

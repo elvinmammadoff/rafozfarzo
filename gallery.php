@@ -25,7 +25,7 @@
     <link rel="manifest" href="src/assets/img/favicon/site.webmanifest" />
     <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#990100" />
-    <meta name="theme-color" content="#ffffff" />   
+    <meta name="theme-color" content="#ffffff" />    
 
     <!-- Facebook Preview -->
     <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/" />
@@ -505,6 +505,11 @@
 
 <!-- Start .cd-overlay --> 
 <div class="cd-overlay"></div><!-- End /.cd-overlay -->
+
+<!-- Start .scroll-up -->
+<div class="scroll-up">
+    <div class="scroll-up__icon"></div>
+</div><!-- End /.scroll-up -->
 
 <!-- =========================
     4. Section - Footer 
