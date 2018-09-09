@@ -27,15 +27,6 @@
     <meta name="msapplication-TileColor" content="#990100" />
     <meta name="theme-color" content="#ffffff" />    
 
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary"></meta>   
-    <meta name="twitter:site" content="@elvin_mammadoff" />
-    <meta name="twitter:creator" content="@elvin_mammadoff" />
-    <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/" />
-    <meta property="og:title" content="A Twitter for My Sister" />
-    <meta property="og:description" content="In the early days, Twitter grew so quickly that it was almost impossible to add new features because engineers spent their time trying to keep the rocket ship from stalling." />
-    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg" />  
-    
     <!-- Facebook Preview -->
     <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/" />
     <meta property="og:type" content="article" />
@@ -43,6 +34,11 @@
     <meta property="og:title" content="Rafoz Farzo - Photography Template" />
     <meta property="og:description" content="Rafoz Farzo is a best Bootstrap 4 templete for photography website which comes with unique design and user friendly code" />
     <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg" /> 
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary"></meta>   
+    <meta name="twitter:site" content="@elvin_mammadoff" />
+    <meta name="twitter:creator" content="@elvin_mammadoff" /> 
     
 </head>
 <body class="d-flex flex-column justify-content-between">
