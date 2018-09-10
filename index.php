@@ -26,23 +26,7 @@
     <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#990100" />
     <meta name="theme-color" content="#ffffff" />    
-
-    <!-- Facebook Preview -->
-    <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/" />
-    <meta property="og:type" content="article" />
-    <meta property="og:site_name" content="Rafoz Farzo Bootstrap 4 Template"/>
-    <meta property="og:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
-    <meta property="og:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />
-    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg" /> 
-
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@elvin_mammadoff" />
-    <meta name="twitter:creator" content="@elvin_mammadoff" /> 
-    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg" />
-    <meta name="twitter:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
-    <meta name="twitter:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />    
-
+    
 </head>
 <body class="d-flex flex-column justify-content-between">
 
