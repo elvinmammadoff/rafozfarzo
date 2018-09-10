@@ -435,24 +435,41 @@
     </div>
 
     <!-- Start .burger-menu__list -->
-    <ul class="burger-menu__list">
-        <li><a class="page-scroll" href="/" title="Home">Home</a></li>
-        <li><a class="page-scroll" href="/about.html" title="About">About</a></li>
-        <li><a class="page-scroll" href="/gallery.html" title="Gallery">Gallery</a></li>
-        <li class="dropdown">
-            <a class="dropdown__link" href="/blog.html" title="Blog">Blog</a>
+    <ul class="burger-menu-list">
+
+        <!-- Start .burger-menu-list__item -->
+        <li class="burger-menu-list__item">
+            <a href="/" title="Home" class="burger-menu-list__link">Home</a>
+        </li><!-- End /.burger-menu-list__item -->
+
+        <!-- Start .burger-menu-list__item -->
+        <li class="burger-menu-list__item">
+            <a href="/about.html" title="About" class="burger-menu-list__link">About</a>
+        </li><!-- End /.burger-menu-list__item -->
+
+        <!-- Start .burger-menu-list__item -->
+        <li class="burger-menu-list__item">
+            <a href="/gallery.html" title="Gallery" class="burger-menu-list__link">Gallery</a>
+        </li><!-- End /.burger-menu-list__item -->
+
+        <!-- Start .burger-menu-list__item -->
+        <li class="burger-menu-list__item dropdown">
+            <a class="burger-menu-list__link dropdown__link" href="/blog.html" title="Blog">Blog</a>
             <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="dropdownMenuButton">
-              <svg class="icon icon-angle-down">
-                  <use xlink:href="#icon-angle-down"></use>
-              </svg>
+                <svg class="icon icon-angle-down">
+                    <use xlink:href="#icon-angle-down"></use>
+                </svg>
             </span>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Action</a>
-                <a class="dropdown-item" href="#">Another action</a>
-                <a class="dropdown-item" href="#">Something else here</a>
+                <a href="/blog-single.html" title="Blog Single" class="dropdown-item">Blog Single</a>
             </div>
-        </li>
-        <li><a class="page-scroll" href="/contact.html" title="Contact">Contact</a></li>
+        </li><!-- End /.burger-menu-list__item -->
+
+        <!-- Start .burger-menu-list__item -->
+        <li class="burger-menu-list__item">
+            <a href="/contact.html" title="Contact" class="burger-menu-list__link">Contact</a>
+        </li><!-- End /.burger-menu-list__item -->
+
     </ul><!-- End /.burger-menu__list -->
 
     <!-- Start .burger-menu__bottom -->
