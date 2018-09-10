@@ -27,15 +27,4 @@
         font-weight: bold;
         margin-bottom: 0;
     }
-    &:hover {
-        .Cover {
-            &__content {
-                &--border {
-                    &:after {
-                        animation: lineUpDown 2s ease-out infinite alternate;
-                    }
-                }
-            }
-        }
-    }
 }
