@@ -25,7 +25,7 @@
     <link rel="manifest" href="src/assets/img/favicon/site.webmanifest" />
     <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#990100" />
-    <meta name="theme-color" content="#ffffff" />     
+    <meta name="theme-color" content="#ffffff" />      
     
 </head>
 <body class="d-flex flex-column justify-content-between">
@@ -275,7 +275,7 @@
                             <!-- Start .image-line -->
                             <div class="image-line image-line--vertical">
                                 <div class="image-line__extra">
-                                    <img src="src/assets/img/about/About.jpg" class="img-fluid Blog-details__image" alt="About" title="About">                    
+                                    <img src="src/assets/img/about/About.jpg" class="img-fluid image-line__image" alt="About" title="About">                    
                                 </div>
                             </div><!-- End /.image-line -->
 

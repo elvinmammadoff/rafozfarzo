@@ -273,7 +273,7 @@
                         <!-- Start .image-line -->
                         <div class="image-line image-line">
                             <div class="image-line__extra">
-                                <img src="src/assets/img/blog/Blog-inside.jpg" class="img-fluid Blog-details__image" alt="Blog" title="Blog">                    
+                                <img src="src/assets/img/blog/Blog-inside.jpg" class="img-fluid image-line__image" alt="Blog" title="Blog">                    
                             </div>
                         </div><!-- End /.image-line -->
 

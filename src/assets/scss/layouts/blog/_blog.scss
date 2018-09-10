@@ -68,11 +68,6 @@
         }
     }
     &-details {
-        &__image {
-            position: relative;
-            transform: translateX(0);
-            @include transition03S;
-        }
         &__footer {
             padding-top: 2rem;
             border-top: 0.063rem solid $secondary-color;
