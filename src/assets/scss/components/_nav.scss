@@ -1,74 +1,119 @@
-  
 // Navigation Styles
 //== Nav menu item outline animation on hover ==//
-
 .Menu {
     @include FlexCenterBetween;
+    padding: 0;
+    margin: 0;
     &-item {
-    position: relative;
-    border: 0.063rem solid transparent;
-    color: $primary-color;
-    text-decoration: none;
-    font-family: $default-font;
-    font-weight: bold;
-    text-transform: uppercase;
-    @include transition03S;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        position: relative;
+        border: 0.063rem solid transparent;
+        @include transition03S;
 
+        //== Menu item outline animation on hover ==//    
 
-    //== Menu item outline animation on hover ==//    
-
-    &:hover {
-        color: $secondary-color;
+        &:hover {
+            .line {
+                &-1 {
+                    animation: move1 1500ms infinite ease;
+                }
+                
+                &-2 { 
+                    animation: move2 1500ms infinite ease;
+                }
+                
+                &-3 {
+                    animation: move3 1500ms infinite ease;
+                }
+                
+                &-4 {
+                    animation: move4 1500ms infinite ease;
+                }
+            }
+        }
+        &__link {
+            display: flex;
+            color: $primary-color;
+            text-decoration: none;
+            font-family: $default-font;
+            font-weight: bold;
+            text-transform: uppercase;
+            &:hover {
+                color: $secondary-color;        
+            }
+        }
+        .line {
+            &-1, &-2, &-3, &-4 {
+                content: "";
+                display: block;
+                position: absolute;
+                background-color: currentColor;
+                @include transition03S;
+            }
+        }
         .line {
             &-1 {
-                animation: move1 1500ms infinite ease;
+                width: 0.063rem;
+                left: 0;
+                bottom: 0;
             }
-            
-            &-2 { 
-                animation: move2 1500ms infinite ease;
+            &-2 {
+                height: 0.063rem;
+                left: 0;
+                top: 0;
             }
-            
-            &-3 {
-                animation: move3 1500ms infinite ease;
+            &-3 { 
+                width: 0.063rem;
+                right: 0;
+                top: 0;
             }
-            
             &-4 {
-                animation: move4 1500ms infinite ease;
+                height: 0.063rem;
+                right: 0;
+                bottom: 0;
             }
         }
     }
-
-    .line {
-        &-1, &-2, &-3, &-4 {
-            content: "";
+    .dropdown {
+        position: relative;
+        &:hover, &:focus, &:focus-within {
+            .dropdown-menu {
+                height: auto;
+                visibility: visible; 
+                opacity: 1;
+                z-index: 1;
+                transform: translateY(0);
+                transition-delay: 0s, 0s, 0.3s;    
+                color: $primary-color;  
+            }   
+        }
+        &-menu {
             display: block;
             position: absolute;
-            background-color: currentColor;
-            @include transition03S;
-        }
-    }
-
-    .line {
-        &-1 {
-            width: 0.063rem;
+            list-style: none;
+            min-width: 10rem;
+            background-color: $color-3;
+            box-shadow: 0 50px 100px rgba(50,50,93,.1), 0 15px 35px rgba(50,50,93,.15), 0 5px 15px rgba(0,0,0,.1);
+            visibility: hidden; 
+            opacity: 0;
+            top: 100%;
             left: 0;
-            bottom: 0;
-        }
-        &-2 {
-            height: 0.063rem;
-            left: 0;
-            top: 0;
-        }
-        &-3 { 
-            width: 0.063rem;
-            right: 0;
-            top: 0;
-        }
-        &-4 {
-            height: 0.063rem;
-            right: 0;
-            bottom: 0;
-        }
-    }
+            transform: translateY(-0.5rem);
+            z-index: -1;
+            transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s, z-index 0s linear 0.01s;
+            padding: 0;
+            &__link {
+                padding: 0.375rem 0.625rem;
+                display: block;
+                color: $secondary-color;
+                border: 0.063rem solid currentColor;
+                margin-top: -0.063rem;
+                &:hover {
+                    color: $primary-color;
+                }
+            }
+        } 
     }
 }

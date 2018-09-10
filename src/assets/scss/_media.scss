@@ -30,6 +30,64 @@
             margin-right: 0.625rem;
         }
     }
+    .dropdown {
+        &-menu {
+            display: none;
+            &.show {
+                position: relative!important;
+                transform: none!important;
+                opacity: 1;
+                visibility: visible;
+                display: block;
+                .dropdown {
+                    &-item {
+                        font-size: 0.938rem;
+                    }                
+                }
+            }
+        }
+        &-toggle {
+            display: block;
+            position: absolute;
+            cursor: pointer;
+            right: 0;
+            top: 0;
+            background-color: rgba($primary-color, .8);
+            color: #fff;
+            width: 2.375rem;
+            height: 2.375rem;
+            line-height: 2.125rem;
+            text-align: center;
+            font-size: 2rem;   
+            &:after {
+                content: none;
+            }
+            .icon {
+                transition: transform .2s;
+                transform: rotate(0);             
+            }   
+            &:hover {
+                background-color: $primary-color;
+            }      
+        } 
+        &.show {
+            .dropdown {
+                &__link {
+                    background-color: rgba($primary-color, .7);
+                    color: #fff;
+                }
+                &-item {
+                    &:hover {
+                        background-color: $gray-lighten4;
+                        color: $secondary-color;
+                    }
+                }
+            }    
+            .icon {
+                transform: rotate(-180deg);             
+            }    
+        }
+    }
 }
 
 @include MQ(tablet) { 
