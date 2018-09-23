@@ -220,6 +220,19 @@ only screen and (     -o-min-device-pixel-ratio: 2/1),
 only screen and (        min-device-pixel-ratio: 2),
 only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
-  
+    .Header {
+        &__logo {
+            a {
+                background: url(../img/Logo@2x.png) no-repeat center center;
+            }
+        }
+    }
+    .burger {
+        &-menu {
+            &__logo {
+                background: url(../img/Logo@2x.png) no-repeat center center;                
+            }
+        }
+    }
 }
 

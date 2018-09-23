@@ -154,9 +154,7 @@
 
             <!-- Start .Header__logo -->
             <h1 class="Header__logo">
-                <a href="/" title="Rafoz Farzo - Photography Template">
-                    <img src="src/assets/img/Logo.png" alt="Rafoz Farzo - Photography Template" title="Rafoz Farzo - Photography Template" width="199" height="45" />
-                </a>
+                <a href="/" title="Rafoz Farzo - Photography Template"></a>
             </h1><!-- End /.Header__logo-->
 
             <!-- =========================
@@ -380,9 +378,7 @@
     <div class="burger-menu__open">
 
         <!-- Start .burger-menu__logo -->
-        <a href="index.html" class="burger-menu__logo" title="Rafoz Farzo - Photography Template">
-            <img src="src/assets/img/Logo.png" alt="Rafoz Farzo - Photography Template" title="Rafoz Farzo - Photography Template" width="199" height="45" />
-        </a><!-- End /.burger-menu__logo -->
+        <a href="index.html" class="burger-menu__logo" title="Rafoz Farzo - Photography Template"></a><!-- End /.burger-menu__logo -->
 
         <!-- Start .cd-close-nav -->
         <div class="cd-nav-trigger cd-close-nav">

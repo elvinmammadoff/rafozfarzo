@@ -94,6 +94,15 @@
     transform: translateX(100%);
     @include FlexJustifyBetween;
     flex-direction: column;
+    &__logo {
+      display: inline-block;
+      width: 199px;
+      min-width: 199px;
+      height: 45px;
+      object-fit: cover;
+      background: url(../img/Logo.png) no-repeat center center;
+      background-size: contain;
+    }
     &-list {
       list-style: none;
       padding-left: 0;
