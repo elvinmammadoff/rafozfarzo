@@ -4,6 +4,15 @@
     background-color: white;
     &__logo {
         margin-bottom: 0;
+        a {
+            display: inline-block;
+            width: 199px;
+            min-width: 199px;
+            height: 45px;
+            object-fit: cover;
+            background: url(../img/Logo.png) no-repeat center center;
+            background-size: cover;
+        }
     }
     // Sticky Header Styles
     &.sticky-header {
