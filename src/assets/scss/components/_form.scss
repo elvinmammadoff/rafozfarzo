@@ -10,10 +10,8 @@
         &--focus {
             .Form {
                 &__label {
-                    opacity: 1;
                     font-size: 0.75rem;
                     transform: translateY(-0.25rem);
-                    visibility: visible;
                 }
                 &__input {
                     padding-top: 1.125rem;

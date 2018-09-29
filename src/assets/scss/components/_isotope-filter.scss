@@ -23,7 +23,7 @@
         font-size: 0.875rem;
         font-weight: 500;
         display: inline-block;
-        color: $secondary-color;
+        color: $primary-color;
         cursor: pointer;
         text-transform: uppercase;
         &:before, 
@@ -32,7 +32,7 @@
             content: "";
             width: 0;
             height: 0.125rem;
-            background: $primary-color;
+            background: $secondary-color;
             transition: all 0.3s ease;
         }    
         &:before {

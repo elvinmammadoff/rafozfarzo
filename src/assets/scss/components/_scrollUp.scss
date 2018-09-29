@@ -9,12 +9,12 @@
     z-index: 5;
     width: 45px;
     height: 45px;
-    background-color: $softBlue;
+    background-color: $secondary-color;
     @include borderRadius50;
     @include FlexCenter;
     @include transition03S;
     &:hover {
-        background-color: $hardBlue;        
+        background-color: $button-secondary-border;        
     }
     &.show {
         visibility: visible;
