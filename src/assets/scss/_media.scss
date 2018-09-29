@@ -224,13 +224,7 @@ only screen and (                min-resolution: 2dppx) {
         &__logo {
             a {
                 background: url(../img/Logo@2x.png) no-repeat center center;
-            }
-        }
-    }
-    .burger {
-        &-menu {
-            &__logo {
-                background: url(../img/Logo@2x.png) no-repeat center center;                
+                background-size: cover;
             }
         }
     }
