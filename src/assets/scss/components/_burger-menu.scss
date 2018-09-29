@@ -101,7 +101,7 @@
       height: 45px;
       object-fit: cover;
       background: url(../img/Logo.png) no-repeat center center;
-      background-size: contain;
+      background-size: cover;
     }
     &-list {
       list-style: none;
