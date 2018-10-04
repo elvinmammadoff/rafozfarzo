@@ -116,7 +116,7 @@
     =============================*/
     $(window).on('scroll', function () {
         var scrollPos = $(this).scrollTop();
-        if (scrollPos > 300) {
+        if (scrollPos > 200) {
             $('.sticky-header').addClass('is-sticky');
         } else {
             $('.sticky-header').removeClass('is-sticky');
