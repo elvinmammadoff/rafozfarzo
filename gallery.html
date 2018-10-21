@@ -13,17 +13,17 @@
     <title>Rafoz Farzo - Photography Template</title>
 
     <!-- All Styles -->
-    <link rel="stylesheet" href="css/main.min.css">
+    <link rel="stylesheet" href="src/assets/css/main.min.css">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="256x256"  href="img/favicon/android-chrome-256x256.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-chrome-192x192.png">    
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon.ico" />
-    <link rel="manifest" href="img/favicon/site.webmanifest" />
-    <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="256x256"  href="src/assets/img/favicon/android-chrome-256x256.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="src/assets/img/favicon/android-chrome-192x192.png">    
+    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/img/favicon/favicon-16x16.png" />
+    <link rel="icon" type="image/png" href="src/assets/img/favicon/favicon.ico" />
+    <link rel="manifest" href="src/assets/img/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#990100" />
     <meta name="theme-color" content="#ffffff" />    
 
@@ -34,13 +34,13 @@
     <meta property="og:site_name" content="Rafoz Farzo Bootstrap 4 Template"/>
     <meta property="og:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
     <meta property="og:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />
-    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg" /> 
+    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/src/assets/img/share/Facebook-preview.jpg" /> 
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@elvin_mammadoff" />
     <meta name="twitter:creator" content="@elvin_mammadoff" /> 
-    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg" />
+    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/src/assets/img/share/Twitter-card.jpg" />
     <meta name="twitter:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
     <meta name="twitter:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />    
     
@@ -315,10 +315,10 @@
             <div class="filter__content row" id="lightgallery">
 
                 <!-- Start .Gallery__item -->
-                <div class="Gallery__item single-content portraits lovestory lifestyle filter__grid col-sm-12 col-md-4" data-src="img/gallery/Gallery1.jpg">
+                <div class="Gallery__item single-content portraits lovestory lifestyle filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery1.jpg">
                     <a href="">
                         <figure class="effect effect-layla">
-                            <img class="effect-layla__img" alt="Street Photography" title="Street Photography" src="img/gallery/Gallery1.jpg" />
+                            <img class="effect-layla__img" alt="Street Photography" title="Street Photography" src="src/assets/img/gallery/Gallery1.jpg" />
                             <figcaption class="effect__caption effect-layla__caption">
                                 <h2 class="effect-layla__title">Street Photography</h2>
                             </figcaption>			
@@ -327,10 +327,10 @@
                 </div><!-- End /.Gallery__item -->
         
                 <!-- Start .Gallery__item -->
-                <div class="Gallery__item single-content lovestory fashion filter__grid col-sm-12 col-md-4" data-src="img/gallery/Gallery2.jpg">
+                <div class="Gallery__item single-content lovestory fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery2.jpg">
                     <a href="">
                         <figure class="effect effect-layla">
-                            <img class="effect-layla__img" alt="Beauty Female" title="Beauty Female" src="img/gallery/Gallery2.jpg" />                            
+                            <img class="effect-layla__img" alt="Beauty Female" title="Beauty Female" src="src/assets/img/gallery/Gallery2.jpg" />                            
                             <figcaption class="effect__caption effect-layla__caption">
                                 <h2 class="effect-layla__title">Beauty Female</h2>
                             </figcaption>	                            
@@ -339,10 +339,10 @@
                 </div><!-- End /.Gallery__item -->
         
                 <!-- Start .Gallery__item -->
-                <div class="Gallery__item single-content portraits nature filter__grid col-sm-12 col-md-4" data-src="img/gallery/Gallery3.jpg">
+                <div class="Gallery__item single-content portraits nature filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery3.jpg">
                     <a href="">
                         <figure class="effect effect-layla">
-                            <img class="effect-layla__img" alt="Pretty Nature" title="Pretty Nature" src="img/gallery/Gallery3.jpg" />                            
+                            <img class="effect-layla__img" alt="Pretty Nature" title="Pretty Nature" src="src/assets/img/gallery/Gallery3.jpg" />                            
                             <figcaption class="effect__caption effect-layla__caption">
                                 <h2 class="effect-layla__title">Pretty Nature</h2>
                             </figcaption>	                            
@@ -351,10 +351,10 @@
                 </div><!-- End /.Gallery__item -->
                     
                 <!-- Start .Gallery__item -->
-                <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="img/gallery/Gallery4.jpg">
+                <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery4.jpg">
                     <a href="">
                         <figure class="effect effect-layla">
-                            <img class="effect-layla__img" alt="Magic Shine" title="Magic Shine" src="img/gallery/Gallery4.jpg" />                            
+                            <img class="effect-layla__img" alt="Magic Shine" title="Magic Shine" src="src/assets/img/gallery/Gallery4.jpg" />                            
                             <figcaption class="effect__caption effect-layla__caption">
                                 <h2 class="effect-layla__title">Magic Shine</h2>
                             </figcaption>	                            
@@ -363,10 +363,10 @@
                 </div><!-- End /.Gallery__item -->
                     
                 <!-- Start .Gallery__item -->
-                <div class="Gallery__item single-content nature portraits filter__grid col-sm-12 col-md-4" data-src="img/gallery/Gallery5.jpg">
+                <div class="Gallery__item single-content nature portraits filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery5.jpg">
                     <a href="">
                         <figure class="effect effect-layla">
-                            <img class="effect-layla__img" alt="Lemon Poppy Seed Blondies" title="Lemon Poppy Seed Blondies" src="img/gallery/Gallery5.jpg" />                            
+                            <img class="effect-layla__img" alt="Lemon Poppy Seed Blondies" title="Lemon Poppy Seed Blondies" src="src/assets/img/gallery/Gallery5.jpg" />                            
                             <figcaption class="effect__caption effect-layla__caption">
                                 <h2 class="effect-layla__title">Lemon Poppy Seed Blondies</h2>
                             </figcaption>	                            
@@ -375,10 +375,10 @@
                 </div><!-- End /.Gallery__item -->
                     
                 <!-- Start .Gallery__item -->
-                <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="img/gallery/Gallery6.jpg">
+                <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery6.jpg">
                     <a href="">
                         <figure class="effect effect-layla">
-                            <img class="effect-layla__img" alt="Fashion Girl" title-"Fashion Girl" src="img/gallery/Gallery6.jpg" />                            
+                            <img class="effect-layla__img" alt="Fashion Girl" title-"Fashion Girl" src="src/assets/img/gallery/Gallery6.jpg" />                            
                             <figcaption class="effect__caption effect-layla__caption">
                                 <h2 class="effect-layla__title">Fashion Girl</h2>
                             </figcaption>	                            
@@ -387,10 +387,10 @@
                 </div><!-- End /.Gallery__item -->
                     
                 <!-- Start .Gallery__item -->
-                <div class="Gallery__item single-content lifestyle filter__grid col-sm-12 col-md-4" data-src="img/gallery/Gallery7.jpg">
+                <div class="Gallery__item single-content lifestyle filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery7.jpg">
                     <a href="">
                         <figure class="effect effect-layla">
-                            <img class="effect-layla__img" alt="Outdoor Basketball" title="Outdoor Basketball" src="img/gallery/Gallery7.jpg" />                            
+                            <img class="effect-layla__img" alt="Outdoor Basketball" title="Outdoor Basketball" src="src/assets/img/gallery/Gallery7.jpg" />                            
                             <figcaption class="effect__caption effect-layla__caption">
                                 <h2 class="effect-layla__title">Outdoor Basketball</h2>
                             </figcaption>	                            
@@ -399,10 +399,10 @@
                 </div><!-- End /.Gallery__item -->
                     
                 <!-- Start .Gallery__item -->
-                <div class="Gallery__item single-content lifestyle nature filter__grid col-sm-12 col-md-4" data-src="img/gallery/Gallery8.jpg">
+                <div class="Gallery__item single-content lifestyle nature filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery8.jpg">
                     <a href="">
                         <figure class="effect effect-layla">
-                            <img class="effect-layla__img" alt="Healthy Lifestyle" title="Healthy Lifestyle" src="img/gallery/Gallery8.jpg" />                            
+                            <img class="effect-layla__img" alt="Healthy Lifestyle" title="Healthy Lifestyle" src="src/assets/img/gallery/Gallery8.jpg" />                            
                             <figcaption class="effect__caption effect-layla__caption">
                                 <h2 class="effect-layla__title">Healthy Lifestyle</h2>
                             </figcaption>	                            
@@ -411,10 +411,10 @@
                 </div><!-- End /.Gallery__item -->
                     
                 <!-- Start .Gallery__item -->
-                <div class="Gallery__item single-content lovestory filter__grid col-sm-12 col-md-4" data-src="img/gallery/Gallery9.jpg">
+                <div class="Gallery__item single-content lovestory filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery9.jpg">
                     <a href="">
                         <figure class="effect effect-layla">
-                            <img class="effect-layla__img" alt="Christmas Lights" title="Christmas Lights" src="img/gallery/Gallery9.jpg" />                            
+                            <img class="effect-layla__img" alt="Christmas Lights" title="Christmas Lights" src="src/assets/img/gallery/Gallery9.jpg" />                            
                             <figcaption class="effect__caption effect-layla__caption">
                                 <h2 class="effect-layla__title">Christmas Lights</h2>
                             </figcaption>	                            
@@ -611,13 +611,13 @@
     
 <!-- All Main Scripts -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-<script src="js/scripts.min.js"></script>
+<script src="src/assets/js/scripts.min.js"></script>
 
 <!-- Mobile - Burger Right Menu -->
-<script src="js/burger-menu.min.js"></script>
+<script src="src/assets/js/burger-menu.min.js"></script>
 
 <!-- Common --> 
-<script src="js/common.js"></script>
+<script src="src/assets/js/common.js"></script>
 
 
 

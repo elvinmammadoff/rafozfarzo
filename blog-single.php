@@ -13,17 +13,17 @@
     <title>Rafoz Farzo - Photography Template</title>
 
     <!-- All Styles -->
-    <link rel="stylesheet" href="css/main.min.css">
+    <link rel="stylesheet" href="src/assets/css/main.min.css">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="256x256"  href="img/favicon/android-chrome-256x256.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-chrome-192x192.png">    
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon.ico" />
-    <link rel="manifest" href="img/favicon/site.webmanifest" />
-    <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="256x256"  href="src/assets/img/favicon/android-chrome-256x256.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="src/assets/img/favicon/android-chrome-192x192.png">    
+    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/img/favicon/favicon-16x16.png" />
+    <link rel="icon" type="image/png" href="src/assets/img/favicon/favicon.ico" />
+    <link rel="manifest" href="src/assets/img/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#990100" />
     <meta name="theme-color" content="#ffffff" />    
 
@@ -34,13 +34,13 @@
     <meta property="og:site_name" content="Rafoz Farzo Bootstrap 4 Template"/>
     <meta property="og:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
     <meta property="og:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />
-    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg" /> 
+    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/src/assets/img/share/Facebook-preview.jpg" /> 
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@elvin_mammadoff" />
     <meta name="twitter:creator" content="@elvin_mammadoff" /> 
-    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg" />
+    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/src/assets/img/share/Twitter-card.jpg" />
     <meta name="twitter:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
     <meta name="twitter:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />    
     
@@ -308,7 +308,7 @@
     <!-- Start .image-line -->
     <div class="image-line image-line">
         <div class="image-line__extra">
-            <img src="img/blog/Blog-inside.jpg" class="img-fluid image-line__image" alt="Blog" title="Blog">                    
+            <img src="src/assets/img/blog/Blog-inside.jpg" class="img-fluid image-line__image" alt="Blog" title="Blog">                    
         </div>
     </div><!-- End /.image-line -->
 
@@ -623,13 +623,13 @@
     
 <!-- All Main Scripts -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-<script src="js/scripts.min.js"></script>
+<script src="src/assets/js/scripts.min.js"></script>
 
 <!-- Mobile - Burger Right Menu -->
-<script src="js/burger-menu.min.js"></script>
+<script src="src/assets/js/burger-menu.min.js"></script>
 
 <!-- Common --> 
-<script src="js/common.js"></script>
+<script src="src/assets/js/common.js"></script>
 
 
 
