@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
 
-    <!-- Required Meta Tags -->
+    <!-- Required meta tags -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -10,22 +10,39 @@
     <meta name="author" content="" />      
 
     <!-- Title -->
-    <title>Rafoz Farzo - Photography Bootstrap 4 Template</title>
+    <title>Rafoz Farzo - Photography Template</title>
 
     <!-- All Styles -->
-    <link rel="stylesheet" href="src/assets/css/main.min.css">
+    <link rel="stylesheet" href="css/main.min.css">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="256x256"  href="src/assets/img/favicon/android-chrome-256x256.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="src/assets/img/favicon/android-chrome-192x192.png">    
-    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/img/favicon/favicon-16x16.png" />
-    <link rel="icon" type="image/png" href="src/assets/img/favicon/favicon.ico" />
-    <link rel="manifest" href="src/assets/img/favicon/site.webmanifest" />
-    <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="256x256"  href="img/favicon/android-chrome-256x256.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-chrome-192x192.png">    
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png" />
+    <link rel="icon" type="image/png" href="img/favicon/favicon.ico" />
+    <link rel="manifest" href="img/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#990100" />
     <meta name="theme-color" content="#ffffff" />    
+
+    <!-- Facebook Preview -->
+    <meta property="fb:app_id" content="262469534475317" />
+    <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Rafoz Farzo Bootstrap 4 Template"/>
+    <meta property="og:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
+    <meta property="og:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />
+    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg" /> 
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@elvin_mammadoff" />
+    <meta name="twitter:creator" content="@elvin_mammadoff" /> 
+    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg" />
+    <meta name="twitter:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
+    <meta name="twitter:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />    
     
 </head>
 <body class="d-flex flex-column justify-content-between">
@@ -43,12 +60,13 @@
     </div>
 </div>
 <!-- End /.loading -->
-                         
+              
+
 <!-- =========================
     Icons 
 ============================== -->
 
-<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" 
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
 
@@ -136,15 +154,21 @@
             <path d="M16.797 11.5c0 0.125-0.063 0.266-0.156 0.359l-7.281 7.281c-0.094 0.094-0.234 0.156-0.359 0.156s-0.266-0.063-0.359-0.156l-7.281-7.281c-0.094-0.094-0.156-0.234-0.156-0.359s0.063-0.266 0.156-0.359l0.781-0.781c0.094-0.094 0.219-0.156 0.359-0.156 0.125 0 0.266 0.063 0.359 0.156l6.141 6.141 6.141-6.141c0.094-0.094 0.234-0.156 0.359-0.156s0.266 0.063 0.359 0.156l0.781 0.781c0.094 0.094 0.156 0.234 0.156 0.359z"></path>
         </symbol><!-- End Angle Down Icon -->
 
+        <!-- Start Angle Up Icon -->
+        <symbol id="icon-angle-up" viewBox="0 0 18 28">
+            <title>angle-up</title>
+            <path d="M16.797 18.5c0 0.125-0.063 0.266-0.156 0.359l-0.781 0.781c-0.094 0.094-0.219 0.156-0.359 0.156-0.125 0-0.266-0.063-0.359-0.156l-6.141-6.141-6.141 6.141c-0.094 0.094-0.234 0.156-0.359 0.156s-0.266-0.063-0.359-0.156l-0.781-0.781c-0.094-0.094-0.156-0.234-0.156-0.359s0.063-0.266 0.156-0.359l7.281-7.281c0.094-0.094 0.234-0.156 0.359-0.156s0.266 0.063 0.359 0.156l7.281 7.281c0.094 0.094 0.156 0.234 0.156 0.359z"></path>
+        </symbol><!-- End Angle Up Icon -->        
+
     </defs>
 </svg>
 
 <!-- =========================
-1. Section - Header 
+    1. Section - Header 
 ============================== -->
 
 <!-- Start .Header -->
-<header class="Header sticky-header">
+<header class="Header sticky-header">   
 
     <!-- Start .Header__nav -->
     <nav class="Header__nav">
@@ -159,12 +183,12 @@
 
             <!-- =========================
                 Burger Right Menu Icon
-            ============================== -->   
+            ============================== -->                
 
             <!-- Start .burger-icon -->
             <div class="cd-nav-trigger burger-icon burger-icon--right">
                 <div class="cd-nav__divider"></div>
-                <div class="cd-nav__divider"></div>
+                <div class="cd-nav__divider"></div> 
                 <div class="cd-nav__divider"></div>
             </div><!-- End /.burger-icon -->     
 
@@ -231,139 +255,146 @@
                   </a>
                 </li><!-- End /.Menu-item--> 
 
-            </ul><!-- End /.Menu-->  
+            </ul><!-- End /.Menu-->       
 
-        </div><!-- End /.container-->
+        </u><!-- End /.container-->
 
     </nav><!-- End /.Header__nav-->
 
 </header><!-- End /.Header-->
 
+
 <main> 
     <article>
-
-        <!-- =========================
-            2. Section - Cover 
-        ============================== --> 
         
-        <!-- Start .Cover -->
-        <section class="Cover d-flex align-items-center">
-            <div class="container">
-                <div class="Cover__content Cover__content--border">
-                    <h2 class="Cover__title">Contact</h2>
-                </div>
+        
+    <!-- =========================
+        2. Section - Cover 
+    ============================== -->        
+    
+    <!-- Start .Cover -->
+    <section class="Cover d-flex align-items-center">
+        <div class="container">
+            <div class="Cover__content Cover__content--border">
+                <h2 class="Cover__title">Contact</h2>
             </div>
-        </section><!-- End /.Cover -->
+        </div>
+    </section><!-- End /.Cover -->
 
+
+
+
+
+
+
+
+
+    
         <!-- =========================
-            3. Section - Contact Info 
-        ============================== -->   
+    3. Section - Contact Info 
+============================== --> 
 
-        <!-- Start .Contact-info -->
-        <section class="Contact-info">
-            <div class="container">
+<!-- Start .Contact-info -->
+<section class="Contact-info">
+    <div class="container">
 
-                <h2 class="title text-center">Contact Us</h2>
+        <h2 class="title text-center">Contact Us</h2>
 
-                <!-- Start .Contact-info__wrap -->
-                <div class="Contact-info__wrap row">
+        <!-- Start .Contact-info__wrap -->
+        <div class="Contact-info__wrap row">
 
-                    <div class="col-sm-12 col-md-4">
+            <div class="col-sm-12 col-md-4">
 
-                        <!-- Start .Contact-info__item -->
-                        <div class="Contact-info__item">
-                            <a href="callto: +001 225 45 65" title="+001 225 45 65" class="Contact-info__icon rounded-circle">
-                                <svg class="icon icon-mobile"><use xlink:href="#icon-mobile"></use></svg>
-                            </a>
-                            <a href="callto: +001 225 45 65" title="+001 225 45 65" class="Contact-info__text">+001 225 45 65</a>
-                        </div><!-- End /.Contact-info__item -->  
-
-                    </div>
-
-                    <div class="col-sm-12 col-md-4">
-
-                        <!-- Start .Contact-info__item -->
-                        <div class="Contact-info__item">
-                            <a href="mailto:info@rafozfarzo.com" title="info@rafozfarzo.com" class="Contact-info__icon rounded-circle">
-                                <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
-                            </a>
-                            <a href="mailto:info@rafozfarzo.com" title="info@rafozfarzo.com" class="Contact-info__text">info@rafozfarzo.com</a>
-                        </div><!-- End /.Contact-info__item -->  
-
-                    </div>
-
-                    <div class="col-sm-12 col-md-4">
-
-                        <!-- Start .Contact-info__item -->
-                        <div class="Contact-info__item">
-                            <a href="#google-map" title="Colorado, Oba Street 120" class="Contact-info__icon Contact-info__map rounded-circle">
-                                <svg class="icon icon-map-o"><use xlink:href="#icon-map-o"></use></svg>
-                            </a>
-                            <span class="Contact-info__text">Colorado, Oba Street 120</span>
-                        </div><!-- End /.Contact-info__item -->  
-
-                    </div>    
-
-                </div><!-- End /.Contact-info__wrap -->
-
+                <!-- Start .Contact-info__item -->
+                <div class="Contact-info__item">
+                    <a href="callto: +001 225 45 65" title="+001 225 45 65" class="Contact-info__icon rounded-circle">
+                        <svg class="icon icon-mobile"><use xlink:href="#icon-mobile"></use></svg>
+                    </a>
+                    <a href="callto: +001 225 45 65" title="+001 225 45 65" class="Contact-info__text">+001 225 45 65</a>
+                </div><!-- End /.Contact-info__item -->  
             </div>
-        </section><!-- End /.Contact-info -->
 
+            <div class="col-sm-12 col-md-4">
+
+                <!-- Start .Contact-info__item -->
+                <div class="Contact-info__item">
+                    <a href="mailto:info@rafozfarzo.com" title="info@rafozfarzo.com" class="Contact-info__icon rounded-circle">
+                        <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
+                    </a>
+                    <a href="mailto:info@rafozfarzo.com" title="info@rafozfarzo.com" class="Contact-info__text">info@rafozfarzo.com</a>
+                </div><!-- End /.Contact-info__item -->  
+            </div>
+            <div class="col-sm-12 col-md-4">
+                
+                <!-- Start .Contact-info__item -->
+                <div class="Contact-info__item">
+                    <a href="#google-map" title="Colorado, Oba Street 120" class="Contact-info__icon Contact-info__map rounded-circle">
+                        <svg class="icon icon-map-o"><use xlink:href="#icon-map-o"></use></svg>
+                    </a>
+                    <span class="Contact-info__text">Colorado, Oba Street 120</span>
+                </div><!-- End /.Contact-info__item -->  
+            </div>    
+
+        </div><!-- End /.Contact-info__wrap -->
+
+    </div>
+</section><!-- End /.Contact-info -->
+    
         <!-- =========================
             4. Section - Contact Methods 
-        ============================== --> 
-
+        ============================== -->  
+        
         <!-- Start .Contact__methods -->
         <section class="Contact__methods">
             <div class="container">
-
+                
                 <!-- Start .Contact-form -->
-                <div class="Contact__form">
-                    
-                    <h3 class="title--mini text-center">Send Message</h3>
+<div class="Contact__form">
+    
+    <h3 class="title--mini text-center">Send Message</h3>
 
-                    <!-- Start .Form -->
-                    <form action="" method="POST" class="Form d-flex justify-content-between flex-wrap" autocomplete="off" >
-                        
-                        <!-- Start .Form__group -->
-                        <div class="Form__group">
-                            <input type="text" class="Form__input" id="name" spellcheck="false" autocapitalize="off" autofocus required>
-                            <label for="name" class="Form__label">Name</label>
-                        </div><!-- End /.Form__group -->
-                        
-                        <!-- Start .Form__group -->
-                        <div class="Form__group">
-                            <input type="email" class="Form__input" id="email" spellcheck="false" autocapitalize="off" required>
-                            <label for="email" class="Form__label">Email</label>
-                        </div><!-- End /.Form__group -->
-                        
-                        <!-- Start .Form__group -->
-                        <div class="Form__group">
-                            <input type="text" class="Form__input" id="subject" spellcheck="false" autocapitalize="off" required>
-                            <label for="subject" class="Form__label">Subject</label>
-                        </div><!-- End /.Form__group -->
-                        
-                        <!-- Start .Form__group -->
-                        <div class="Form__group">
-                            <textarea rows="5" id="message" class="Form__input Form__input--textarea" spellcheck="false" autocapitalize="off" required></textarea>
-                            <label for="message" class="Form__label">Message</label>
-                        </div><!-- End /.Form__group -->
-                        
-                        <!-- Start .Form__group -->
-                        <div class="Form__group">
-                            <button type="submit" class="btn btn-primary btn-lg btn-block button button--orange button--lg">Send</button>
-                        </div><!-- End /.Form__group -->
-                        
-                    </form><!-- End /.Form -->   
+    <!-- Start .Form -->
+    <form action="" method="POST" class="Form d-flex justify-content-between flex-wrap" autocomplete="off" >
+        
+        <!-- Start .Form__group -->
+        <div class="Form__group">
+            <input type="text" class="Form__input" id="name" spellcheck="false" autocapitalize="off" autofocus required>
+            <label for="name" class="Form__label">Name</label>
+        </div><!-- End /.Form__group -->
+        
+        <!-- Start .Form__group -->
+        <div class="Form__group">
+            <input type="email" class="Form__input" id="email" spellcheck="false" autocapitalize="off" required>
+            <label for="email" class="Form__label">Email</label>
+        </div><!-- End /.Form__group -->
+        
+        <!-- Start .Form__group -->
+        <div class="Form__group">
+            <input type="text" class="Form__input" id="subject" spellcheck="false" autocapitalize="off" required>
+            <label for="subject" class="Form__label">Subject</label>
+        </div><!-- End /.Form__group -->
+        
+        <!-- Start .Form__group -->
+        <div class="Form__group">
+            <textarea rows="5" id="message" class="Form__input Form__input--textarea" spellcheck="false" autocapitalize="off" required></textarea>
+            <label for="message" class="Form__label">Message</label>
+        </div><!-- End /.Form__group -->
+        
+        <button type="submit" class="btn btn-primary btn-block button button--orange">Send</button>
+        
+    </form><!-- End /.Form -->   
 
-                </div><!-- End /.Contact-form -->
-            </div>
-
-            <!-- Start .Map -->
-            <div class="Map">
-                <div class="Map__container" id="google-map"></div>
-            </div><!-- End /.Map -->
+</div><!-- End /.Contact-form -->
    
+
+            </div>
+    
+            <!-- Start .Map -->
+<div class="Map">
+    <div class="Map__container" id="google-map"></div>
+</div><!-- End /.Map -->
+ 
+              
         </section><!-- End /.Contact__methods -->
 
     </article>
@@ -384,8 +415,8 @@
         <div class="cd-nav-trigger cd-close-nav">
             <div class="cd-nav__divider cd-nav__divider--top"></div>
             <div class="cd-nav__divider cd-nav__divider--bottom"></div>
-        </div><!-- End /.cd-close-nav -->  
-               
+        </div><!-- End /.cd-close-nav -->
+
     </div>
 
     <!-- Start .burger-menu__list -->
@@ -410,9 +441,9 @@
         <li class="burger-menu-list__item dropdown">
             <a class="burger-menu-list__link dropdown__link" href="/blog.html" title="Blog">Blog</a>
             <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="dropdownMenuButton">
-                <svg class="icon icon-angle-down">
-                    <use xlink:href="#icon-angle-down"></use>
-                </svg>
+              <svg class="icon icon-angle-down">
+                  <use xlink:href="#icon-angle-down"></use>
+              </svg>
             </span>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a href="/blog-single.html" title="Blog Single" class="dropdown-item">Blog Single</a>
@@ -481,10 +512,7 @@
 <div class="scroll-up">
     <div class="scroll-up__icon"></div>
 </div><!-- End /.scroll-up -->
-
-<!-- =========================
-    5. Section - Footer 
-============================== --> 
+    
 
 <!-- Start .Footer -->
 <footer class="Footer">
@@ -492,48 +520,53 @@
     <!-- Start .container -->
     <div class="container">
 
-        <!-- Start .copyright -->
-        <p class="copyright copyright--white">© 2018 Envato. All rights reserved. Theme by Alissio</p><!-- End /.copyright -->
+        <div class="Footer__content">
 
-        <!-- Start .social -->
-        <div class="social social--white">
+            <!-- Start .Footer__copyright -->
+            <p class="copyright copyright--white">© 2018 All rights reserved. Theme by Alissio</p>
+            <!-- End /.container -->
+    
+            <!-- Start .social -->
+            <div class="social social--white">
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Facebook" class="social__item">
+                    <svg class="icon icon-facebook-square">
+                        <use xlink:href="#icon-facebook-square"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Google-Plus" class="social__item">
+                    <svg class="icon icon-google-plus">
+                        <use xlink:href="#icon-google-plus"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Flickr" class="social__item">
+                    <svg class="icon icon-flickr">
+                        <use xlink:href="#icon-flickr"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Instagram" class="social__item">
+                    <svg class="icon icon-instagram">
+                        <use xlink:href="#icon-instagram"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Pinterest" class="social__item">
+                    <svg class="icon icon-pinterest-square">
+                        <use xlink:href="#icon-pinterest-square"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+            </div><!-- End /.social -->
 
-            <!-- Start .social__item -->
-            <a href="#" title="Facebook" class="social__item">
-                <svg class="icon icon-facebook-square">
-                    <use xlink:href="#icon-facebook-square"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Google-Plus" class="social__item">
-                <svg class="icon icon-google-plus">
-                    <use xlink:href="#icon-google-plus"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Flickr" class="social__item">
-                <svg class="icon icon-flickr">
-                    <use xlink:href="#icon-flickr"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Instagram" class="social__item">
-                <svg class="icon icon-instagram">
-                    <use xlink:href="#icon-instagram"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Pinterest" class="social__item">
-                <svg class="icon icon-pinterest-square">
-                    <use xlink:href="#icon-pinterest-square"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-        </div><!-- End /.social -->
+        </div>
 
     </div><!-- End /.container -->
 
@@ -542,22 +575,24 @@
 <!-- =========================
     Scripts   
 ============================== --> 
- 
-<!-- Popper -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script> 
 
-<!-- Google Map JavaScript API -->
+
+
+
+<!-- Google Map JavaScript API -->    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxvP66_Xk1ts77oL2Z7EpDxhDD_jMg-D0"></script>
-<script src="src/assets/js/initGmap.js"></script>
+<script src="js/initGmap.js"></script>
 
 <!-- All Main Scripts -->
-<script src="src/assets/js/scripts.min.js"></script>
+<script src="js/scripts.min.js"></script>
 
 <!-- Mobile - Burger Right Menu -->
-<script src="src/assets/js/burger-menu.min.js"></script>
+<script src="js/burger-menu.min.js"></script>
 
 <!-- Common --> 
-<script src="src/assets/js/common.js"></script>
+<script src="js/common.js"></script>
+
 
 </body>
 </html>

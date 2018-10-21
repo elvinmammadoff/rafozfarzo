@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
 
-    <!-- Required Meta Tags -->
+    <!-- Required meta tags -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -10,22 +10,39 @@
     <meta name="author" content="" />      
 
     <!-- Title -->
-    <title>Rafoz Farzo - Photography Bootstrap 4 Template</title>
+    <title>Rafoz Farzo - Photography Template</title>
 
     <!-- All Styles -->
-    <link rel="stylesheet" href="src/assets/css/main.min.css">
+    <link rel="stylesheet" href="css/main.min.css">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="256x256"  href="src/assets/img/favicon/android-chrome-256x256.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="src/assets/img/favicon/android-chrome-192x192.png">    
-    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/img/favicon/favicon-16x16.png" />
-    <link rel="icon" type="image/png" href="src/assets/img/favicon/favicon.ico" />
-    <link rel="manifest" href="src/assets/img/favicon/site.webmanifest" />
-    <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="256x256"  href="img/favicon/android-chrome-256x256.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-chrome-192x192.png">    
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png" />
+    <link rel="icon" type="image/png" href="img/favicon/favicon.ico" />
+    <link rel="manifest" href="img/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#990100" />
     <meta name="theme-color" content="#ffffff" />    
+
+    <!-- Facebook Preview -->
+    <meta property="fb:app_id" content="262469534475317" />
+    <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Rafoz Farzo Bootstrap 4 Template"/>
+    <meta property="og:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
+    <meta property="og:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />
+    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg" /> 
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@elvin_mammadoff" />
+    <meta name="twitter:creator" content="@elvin_mammadoff" /> 
+    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg" />
+    <meta name="twitter:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
+    <meta name="twitter:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />    
     
 </head>
 <body class="d-flex flex-column justify-content-between">
@@ -44,6 +61,7 @@
 </div>
 <!-- End /.loading -->
               
+
 <!-- =========================
     Icons 
 ============================== -->
@@ -136,6 +154,12 @@
             <path d="M16.797 11.5c0 0.125-0.063 0.266-0.156 0.359l-7.281 7.281c-0.094 0.094-0.234 0.156-0.359 0.156s-0.266-0.063-0.359-0.156l-7.281-7.281c-0.094-0.094-0.156-0.234-0.156-0.359s0.063-0.266 0.156-0.359l0.781-0.781c0.094-0.094 0.219-0.156 0.359-0.156 0.125 0 0.266 0.063 0.359 0.156l6.141 6.141 6.141-6.141c0.094-0.094 0.234-0.156 0.359-0.156s0.266 0.063 0.359 0.156l0.781 0.781c0.094 0.094 0.156 0.234 0.156 0.359z"></path>
         </symbol><!-- End Angle Down Icon -->
 
+        <!-- Start Angle Up Icon -->
+        <symbol id="icon-angle-up" viewBox="0 0 18 28">
+            <title>angle-up</title>
+            <path d="M16.797 18.5c0 0.125-0.063 0.266-0.156 0.359l-0.781 0.781c-0.094 0.094-0.219 0.156-0.359 0.156-0.125 0-0.266-0.063-0.359-0.156l-6.141-6.141-6.141 6.141c-0.094 0.094-0.234 0.156-0.359 0.156s-0.266-0.063-0.359-0.156l-0.781-0.781c-0.094-0.094-0.156-0.234-0.156-0.359s0.063-0.266 0.156-0.359l7.281-7.281c0.094-0.094 0.234-0.156 0.359-0.156s0.266 0.063 0.359 0.156l7.281 7.281c0.094 0.094 0.156 0.234 0.156 0.359z"></path>
+        </symbol><!-- End Angle Up Icon -->        
+
     </defs>
 </svg>
 
@@ -144,7 +168,7 @@
 ============================== -->
 
 <!-- Start .Header -->
-<header class="Header sticky-header">
+<header class="Header sticky-header">   
 
     <!-- Start .Header__nav -->
     <nav class="Header__nav">
@@ -159,14 +183,14 @@
 
             <!-- =========================
                 Burger Right Menu Icon
-            ============================== -->   
-            
+            ============================== -->                
+
             <!-- Start .burger-icon -->
             <div class="cd-nav-trigger burger-icon burger-icon--right">
                 <div class="cd-nav__divider"></div>
+                <div class="cd-nav__divider"></div> 
                 <div class="cd-nav__divider"></div>
-                <div class="cd-nav__divider"></div>
-            </div><!-- End /.burger-icon -->    
+            </div><!-- End /.burger-icon -->     
 
             <!-- Start .Menu -->
             <ul class="Menu">
@@ -231,178 +255,191 @@
                   </a>
                 </li><!-- End /.Menu-item--> 
 
-            </ul><!-- End /.Menu-->  
+            </ul><!-- End /.Menu-->       
 
-        </div><!-- End /.container-->
+        </u><!-- End /.container-->
 
     </nav><!-- End /.Header__nav-->
 
 </header><!-- End /.Header-->
 
+
 <main>
     <article>
-
-        <!-- =========================
-            2. Section - Cover 
-        ============================== --> 
         
-        <!-- Start .Cover -->
-        <section class="Cover Cover--blog d-flex align-items-center">
-            <div class="container">
-                <div class="Cover__content Cover__content--border">
-                    <h2 class="Cover__title">Blog Single</h2>
+        
+
+
+
+
+    <!-- =========================
+        2. Section - Cover 
+    ============================== -->        
+    
+    <!-- Start .Cover -->
+    <section class="Cover Cover--blog d-flex align-items-center">
+        <div class="container">
+            <div class="Cover__content Cover__content--border">
+                <h2 class="Cover__title">Blog Single</h2>
+            </div>
+        </div>
+    </section><!-- End /.Cover -->
+
+
+
+
+
+        
+        <!-- =========================
+    3. Section - Blog Details 
+============================== --> 
+
+<!-- Start .Blog-details -->
+<section class="Blog-details">
+    <div class="container">
+
+        <!-- Start .content__row -->
+        <div class="content__row row">
+
+            <div class="col-sm-12 col-md-6">
+
+                
+
+    <!-- Start .image-line -->
+    <div class="image-line image-line">
+        <div class="image-line__extra">
+            <img src="img/blog/Blog-inside.jpg" class="img-fluid image-line__image" alt="Blog" title="Blog">                    
+        </div>
+    </div><!-- End /.image-line -->
+
+
+
+                
+            </div>
+
+            <!-- Start .content__padd -->
+            <div class="col-sm-12 col-md-6 content__padd d-flex flex-wrap flex-column justify-content-between">
+
+                <!-- Start .content__margin -->
+                <div class="content__margin">
+
+                    <!-- Start .content__details -->
+<div class="content__details">
+    <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">Lorem Ipsum</a></h3>
+    <div class="content__description">January 4, 2018 / Posted Rafig</div>
+    <p class="content__text">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+        Lorem Ipsum has been the industry's standard dummy text ever since. 
+        Lorem Ipsum has been the industry's standard dummy text ever since. 
+    </p>
+</div><!-- End /.content__details -->
+
+                </div><!-- End /.content__margin --> 
+
+                <!-- Start .Blog-details__footer -->
+                <div class="Blog-details__footer">
+                    <div class="Blog-details-category">
+
+                        <!-- Start .Blog-details-category__icon -->
+                        <div class="Blog-details-category__icon">
+                            <svg class="icon icon-tags">
+                                <use xlink:href="#icon-tags"></use>
+                            </svg>
+                        </div><!-- End /.Blog-details-category__icon-->
+
+                        <!-- Start .Blog-details__tag -->
+                        <div class="Blog-details__tag">
+                            <a href="#" title="">wedding</a>,
+                            <a href="#" title=""> nature</a>,
+                            <a href="#" title="">sunset</a>,
+                            <a href="#" title="">sky</a>
+                        </div><!-- End /.Blog-details__tag -->
+
+                    </div>
+
+                    <!-- Start .social -->
+                    <div class="social social--blue">
+            
+                        <!-- Start .social__item -->
+                        <a href="#" title="Facebook" class="social__item">
+                            <svg class="icon icon-facebook">
+                                <use xlink:href="#icon-facebook"></use>
+                            </svg>
+                        </a><!-- End /.social__item -->
+            
+                        <!-- Start .social__item -->
+                        <a href="#" title="Twitter" class="social__item">
+                            <svg class="icon icon-twitter">
+                                <use xlink:href="#icon-twitter"></use>
+                            </svg>
+                        </a><!-- End /.social__item -->
+            
+                        <!-- Start .social__item -->
+                        <a href="#" title="Pinterest" class="social__item">
+                            <svg class="icon icon-pinterest">
+                                <use xlink:href="#icon-pinterest"></use>
+                            </svg>
+                        </a><!-- End /.social__item -->
+            
+                    </div><!-- End /.social -->
+
+                </div><!-- End /.Blog-details__footer -->
+
+            </div><!-- End /.content__padd --> 
+                    
+        </div><!-- End /.content__row -->
+
+    </div>
+</section><!-- End /.Blog-details -->
+    
+        <!-- =========================
+    4. Section - Blog Comment 
+============================== --> 
+
+<!-- Start .Blog__comment -->
+<section class="Blog__comment">
+    <div class="container">
+
+        <h3 class="title--mini">Leave a Comment</h3>
+        
+        <!-- Start .Form -->
+        <form action="" method="POST" class="Form" autocomplete="off" >
+
+            <div class="row">
+                <div class="col-sm-12 col-md-6">
+
+                    <!-- Start .Form__group -->
+                    <div class="Form__group">
+                        <input type="text" class="Form__input" id="name" spellcheck="false" autocapitalize="off" required>
+                        <label for="name" class="Form__label">Name</label>
+                    </div><!-- End /.Form__group -->
+                    
+                    <!-- Start .Form__group -->
+                    <div class="Form__group">
+                        <input type="email" class="Form__input" id="email" spellcheck="false" autocapitalize="off" required>
+                        <label for="email" class="Form__label">Email</label>
+                    </div><!-- End /.Form__group -->
+                </div>
+    
+                <div class="col-sm-12 col-md-6">
+                    
+                    <!-- Start .Form__group -->
+                    <div class="Form__group">
+                        <textarea rows="1" id="message" class="Form__input Form__input--textarea" spellcheck="false" autocapitalize="off" required></textarea>
+                        <label for="message" class="Form__label">Your Comment</label>
+                    </div><!-- End /.Form__group -->
+                    
+                    <!-- Start .Form__group -->
+                    <div class="d-flex justify-content-end">
+                        <button type="submit" class="btn btn-primary button button--orange">Send Message</button>
+                    </div><!-- End /.Form__group -->
                 </div>
             </div>
-        </section><!-- End /.Cover -->
-
-        <!-- =========================
-            3. Section - Blog Details 
-        ============================== -->   
-
-        <!-- Start .Blog-details -->
-        <section class="Blog-details">
-            <div class="container">
-
-                <!-- Start .content__row -->
-                <div class="content__row row">
-
-                    <div class="col-sm-12 col-md-6">
-
-                        <!-- Start .image-line -->
-                        <div class="image-line image-line">
-                            <div class="image-line__extra">
-                                <img src="src/assets/img/blog/Blog-inside.jpg" class="img-fluid image-line__image" alt="Blog" title="Blog">                    
-                            </div>
-                        </div><!-- End /.image-line -->
-
-                    </div>
-
-                    <!-- Start .content__padd -->
-                    <div class="col-sm-12 col-md-6 content__padd d-flex flex-wrap flex-column justify-content-between">
-
-                        <!-- Start .content__margin -->
-                        <div class="content__margin">
-
-                            <!-- Start .content__details -->
-                            <div class="content__details">
-                                <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">Lorem Ipsum</a></h3>
-                                <div class="content__description">January 4, 2018 / Posted Rafig</div>
-                                <p class="content__text">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                                    Lorem Ipsum has been the industry's standard dummy text ever since. 
-                                    Lorem Ipsum has been the industry's standard dummy text ever since. 
-                                </p>
-                            </div><!-- End /.content__details -->
-
-                        </div><!-- End /.content__margin --> 
-
-                        <!-- Start .Blog-details__footer -->
-                        <div class="Blog-details__footer">
-
-                            <!-- Start .Blog-details-category -->
-                            <div class="Blog-details-category">
-
-                                <!-- Start .Blog-details-category__icon -->
-                                <div class="Blog-details-category__icon">
-                                    <svg class="icon icon-tags">
-                                        <use xlink:href="#icon-tags"></use>
-                                    </svg>
-                                </div><!-- End /.Blog-details-category__icon-->
-
-                                <!-- Start .Blog-details__tag -->
-                                <div class="Blog-details__tag">
-                                    <a href="#" title="">wedding</a>,
-                                    <a href="#" title=""> nature</a>,
-                                    <a href="#" title="">sunset</a>,
-                                    <a href="#" title="">sky</a>
-                                </div><!-- End /.Blog-details__tag -->
-
-                            </div><!-- End /.Blog-details-category -->
-
-                            <!-- Start .social -->
-                            <div class="social social--blue">
-                    
-                                <!-- Start .social__item -->
-                                <a href="#" title="Facebook" class="social__item">
-                                    <svg class="icon icon-facebook">
-                                        <use xlink:href="#icon-facebook"></use>
-                                    </svg>
-                                </a><!-- End /.social__item -->
-                    
-                                <!-- Start .social__item -->
-                                <a href="#" title="Twitter" class="social__item">
-                                    <svg class="icon icon-twitter">
-                                        <use xlink:href="#icon-twitter"></use>
-                                    </svg>
-                                </a><!-- End /.social__item -->
-                    
-                                <!-- Start .social__item -->
-                                <a href="#" title="Pinterest" class="social__item">
-                                    <svg class="icon icon-pinterest">
-                                        <use xlink:href="#icon-pinterest"></use>
-                                    </svg>
-                                </a><!-- End /.social__item -->
-                    
-                            </div><!-- End /.social -->
-
-                        </div><!-- End /.Blog-details__footer -->
-
-                    </div><!-- End /.content__padd --> 
-                            
-                </div><!-- End /.content__row -->
-
-            </div>
-        </section><!-- End /.Blog-details -->
-    
-
-        <!-- =========================
-            4. Section - Blog Comment 
-        ============================== --> 
-
-        <!-- Start .Blog__comment -->
-        <section class="Blog__comment">
-            <div class="container">
-
-                <h3 class="title--mini">Leave a Comment</h3>
-                
-                <!-- Start .Form -->
-                <form action="" method="POST" class="Form" autocomplete="off" >
-
-                    <div class="row">
-                        <div class="col-sm-12 col-md-6">
-
-                            <!-- Start .Form__group -->
-                            <div class="Form__group">
-                                <input type="text" class="Form__input" id="name" spellcheck="false" autocapitalize="off" required>
-                                <label for="name" class="Form__label">Name</label>
-                            </div><!-- End /.Form__group -->
-                            
-                            <!-- Start .Form__group -->
-                            <div class="Form__group">
-                                <input type="email" class="Form__input" id="email" spellcheck="false" autocapitalize="off" required>
-                                <label for="email" class="Form__label">Email</label>
-                            </div><!-- End /.Form__group -->
-                        </div>
             
-                        <div class="col-sm-12 col-md-6">
-
-                            <!-- Start .Form__group -->
-                            <div class="Form__group">
-                                <textarea rows="1" id="message" class="Form__input Form__input--textarea" spellcheck="false" autocapitalize="off" required></textarea>
-                                <label for="message" class="Form__label">Your Comment</label>
-                            </div><!-- End /.Form__group -->
-                            
-                            <!-- Start .Form__group -->
-                            <div class="Form__group d-flex justify-content-end">
-                                <button type="submit" class="btn btn-primary btn-lg button button--orange button--default">Send Message</button>
-                            </div><!-- End /.Form__group -->
-                        </div>
-                    </div>
-                    
-                </form><!-- End /.Form --> 
-                        
-            </div>
-        </section><!-- End /.Blog__comment -->
+        </form><!-- End /.Form --> 
+                  
+    </div>
+</section><!-- End /.Blog__comment -->
         
     </article>
 </main>
@@ -422,8 +459,8 @@
         <div class="cd-nav-trigger cd-close-nav">
             <div class="cd-nav__divider cd-nav__divider--top"></div>
             <div class="cd-nav__divider cd-nav__divider--bottom"></div>
-        </div><!-- End /.cd-close-nav -->    
-             
+        </div><!-- End /.cd-close-nav -->
+
     </div>
 
     <!-- Start .burger-menu__list -->
@@ -448,9 +485,9 @@
         <li class="burger-menu-list__item dropdown">
             <a class="burger-menu-list__link dropdown__link" href="/blog.html" title="Blog">Blog</a>
             <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="dropdownMenuButton">
-                <svg class="icon icon-angle-down">
-                    <use xlink:href="#icon-angle-down"></use>
-                </svg>
+              <svg class="icon icon-angle-down">
+                  <use xlink:href="#icon-angle-down"></use>
+              </svg>
             </span>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a href="/blog-single.html" title="Blog Single" class="dropdown-item">Blog Single</a>
@@ -519,10 +556,7 @@
 <div class="scroll-up">
     <div class="scroll-up__icon"></div>
 </div><!-- End /.scroll-up -->
-
-<!-- =========================
-    5. Section - Footer 
-============================== --> 
+    
 
 <!-- Start .Footer -->
 <footer class="Footer">
@@ -530,48 +564,53 @@
     <!-- Start .container -->
     <div class="container">
 
-        <!-- Start .copyright -->
-        <p class="copyright copyright--white">© 2018 Envato. All rights reserved. Theme by Alissio</p><!-- End /.copyright -->
+        <div class="Footer__content">
 
-        <!-- Start .social -->
-        <div class="social social--white">
+            <!-- Start .Footer__copyright -->
+            <p class="copyright copyright--white">© 2018 All rights reserved. Theme by Alissio</p>
+            <!-- End /.container -->
+    
+            <!-- Start .social -->
+            <div class="social social--white">
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Facebook" class="social__item">
+                    <svg class="icon icon-facebook-square">
+                        <use xlink:href="#icon-facebook-square"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Google-Plus" class="social__item">
+                    <svg class="icon icon-google-plus">
+                        <use xlink:href="#icon-google-plus"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Flickr" class="social__item">
+                    <svg class="icon icon-flickr">
+                        <use xlink:href="#icon-flickr"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Instagram" class="social__item">
+                    <svg class="icon icon-instagram">
+                        <use xlink:href="#icon-instagram"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Pinterest" class="social__item">
+                    <svg class="icon icon-pinterest-square">
+                        <use xlink:href="#icon-pinterest-square"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+            </div><!-- End /.social -->
 
-            <!-- Start .social__item -->
-            <a href="#" title="Facebook" class="social__item">
-                <svg class="icon icon-facebook-square">
-                    <use xlink:href="#icon-facebook-square"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Google-Plus" class="social__item">
-                <svg class="icon icon-google-plus">
-                    <use xlink:href="#icon-google-plus"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Flickr" class="social__item">
-                <svg class="icon icon-flickr">
-                    <use xlink:href="#icon-flickr"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Instagram" class="social__item">
-                <svg class="icon icon-instagram">
-                    <use xlink:href="#icon-instagram"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Pinterest" class="social__item">
-                <svg class="icon icon-pinterest-square">
-                    <use xlink:href="#icon-pinterest-square"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-        </div><!-- End /.social -->
+        </div>
 
     </div><!-- End /.container -->
 
@@ -580,18 +619,20 @@
 <!-- =========================
     Scripts   
 ============================== --> 
- 
-<!-- Popper -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script> 
 
+    
 <!-- All Main Scripts -->
-<script src="src/assets/js/scripts.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="js/scripts.min.js"></script>
 
 <!-- Mobile - Burger Right Menu -->
-<script src="src/assets/js/burger-menu.min.js"></script>
+<script src="js/burger-menu.min.js"></script>
 
 <!-- Common --> 
-<script src="src/assets/js/common.js"></script>
+<script src="js/common.js"></script>
+
+
+
 
 </body>
 </html>

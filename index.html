@@ -2,30 +2,47 @@
 <html lang="en" dir="ltr">
 <head>
 
-    <!-- Required Meta Tags -->
+    <!-- Required meta tags -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
-    <meta name="author" content="" />         
+    <meta name="author" content="" />      
 
     <!-- Title -->
-    <title>Rafoz Farzo - Photography Bootstrap 4 Template for Photography</title>
+    <title>Rafoz Farzo - Photography Template</title>
 
     <!-- All Styles -->
-    <link rel="stylesheet" href="src/assets/css/main.min.css">
+    <link rel="stylesheet" href="css/main.min.css">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="256x256"  href="src/assets/img/favicon/android-chrome-256x256.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="src/assets/img/favicon/android-chrome-192x192.png">    
-    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/img/favicon/favicon-16x16.png" />
-    <link rel="icon" type="image/png" href="src/assets/img/favicon/favicon.ico" />
-    <link rel="manifest" href="src/assets/img/favicon/site.webmanifest" />
-    <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="256x256"  href="img/favicon/android-chrome-256x256.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-chrome-192x192.png">    
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png" />
+    <link rel="icon" type="image/png" href="img/favicon/favicon.ico" />
+    <link rel="manifest" href="img/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#990100" />
     <meta name="theme-color" content="#ffffff" />    
+
+    <!-- Facebook Preview -->
+    <meta property="fb:app_id" content="262469534475317" />
+    <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Rafoz Farzo Bootstrap 4 Template"/>
+    <meta property="og:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
+    <meta property="og:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />
+    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg" /> 
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@elvin_mammadoff" />
+    <meta name="twitter:creator" content="@elvin_mammadoff" /> 
+    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg" />
+    <meta name="twitter:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
+    <meta name="twitter:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />    
     
 </head>
 <body class="d-flex flex-column justify-content-between">
@@ -43,12 +60,13 @@
     </div>
 </div>
 <!-- End /.loading -->
-                      
+              
+
 <!-- =========================
     Icons 
 ============================== -->
 
-<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" 
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
 
@@ -136,15 +154,21 @@
             <path d="M16.797 11.5c0 0.125-0.063 0.266-0.156 0.359l-7.281 7.281c-0.094 0.094-0.234 0.156-0.359 0.156s-0.266-0.063-0.359-0.156l-7.281-7.281c-0.094-0.094-0.156-0.234-0.156-0.359s0.063-0.266 0.156-0.359l0.781-0.781c0.094-0.094 0.219-0.156 0.359-0.156 0.125 0 0.266 0.063 0.359 0.156l6.141 6.141 6.141-6.141c0.094-0.094 0.234-0.156 0.359-0.156s0.266 0.063 0.359 0.156l0.781 0.781c0.094 0.094 0.156 0.234 0.156 0.359z"></path>
         </symbol><!-- End Angle Down Icon -->
 
+        <!-- Start Angle Up Icon -->
+        <symbol id="icon-angle-up" viewBox="0 0 18 28">
+            <title>angle-up</title>
+            <path d="M16.797 18.5c0 0.125-0.063 0.266-0.156 0.359l-0.781 0.781c-0.094 0.094-0.219 0.156-0.359 0.156-0.125 0-0.266-0.063-0.359-0.156l-6.141-6.141-6.141 6.141c-0.094 0.094-0.234 0.156-0.359 0.156s-0.266-0.063-0.359-0.156l-0.781-0.781c-0.094-0.094-0.156-0.234-0.156-0.359s0.063-0.266 0.156-0.359l7.281-7.281c0.094-0.094 0.234-0.156 0.359-0.156s0.266 0.063 0.359 0.156l7.281 7.281c0.094 0.094 0.156 0.234 0.156 0.359z"></path>
+        </symbol><!-- End Angle Up Icon -->        
+
     </defs>
 </svg>
 
 <!-- =========================
-1. Section - Header 
+    1. Section - Header 
 ============================== -->
 
 <!-- Start .Header -->
-<header class="Header sticky-header">
+<header class="Header sticky-header">   
 
     <!-- Start .Header__nav -->
     <nav class="Header__nav">
@@ -159,12 +183,12 @@
 
             <!-- =========================
                 Burger Right Menu Icon
-            ============================== -->   
+            ============================== -->                
 
             <!-- Start .burger-icon -->
             <div class="cd-nav-trigger burger-icon burger-icon--right">
                 <div class="cd-nav__divider"></div>
-                <div class="cd-nav__divider"></div>
+                <div class="cd-nav__divider"></div> 
                 <div class="cd-nav__divider"></div>
             </div><!-- End /.burger-icon -->     
 
@@ -231,122 +255,123 @@
                   </a>
                 </li><!-- End /.Menu-item--> 
 
-            </ul><!-- End /.Menu-->  
+            </ul><!-- End /.Menu-->       
 
-        </div><!-- End /.container-->
+        </u><!-- End /.container-->
 
     </nav><!-- End /.Header__nav-->
 
 </header><!-- End /.Header-->
 
+
 <main>
     <article>
-
-        <!-- =========================
-            2. Section - Slider 
-        ============================== --> 
-
-        <!-- Start .Slider -->
-        <section class="Slider">
-
-            <!-- Start .owl-carousel -->
-            <div class="owl-carousel owl-theme">
-
-                <!-- Start .Slider__item -->
-                <div class="Slider__item item">  
-
-                    <!-- Start .Slider__effect -->  
-                    <figure class="Slider__effect effect effect-prolly">
-                        <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img"  />
-                        <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                            <h2 class="Slider__title effect-prolly__title">Wedding</h2>
-                            <a href="#" title="View more" class="Slider__button effect-prolly__button">View more</a>
-                        </figcaption>			
-                    </figure><!-- End /.Slider__effect -->    
-
-                </div><!-- End /.Slider__item -->
-
-                <!-- Start .Slider__item -->
-                <div class="Slider__item item">  
-
-                    <!-- Start .Slider__effect -->  
-                    <figure class="Slider__effect effect effect-prolly">
-                        <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img"  />
-                        <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                            <h2 class="Slider__title effect-prolly__title">Marco</h2>
-                            <a href="#" title="View more" class="Slider__button effect-prolly__button">View more</a>
-                        </figcaption>			
-                    </figure><!-- End /.Slider__effect -->  
-
-                </div><!-- End /.Slider__item -->
-
-                <!-- Start .Slider__item -->
-                <div class="Slider__item item"> 
-
-                    <!-- Start .Slider__effect -->  
-                    <figure class="Slider__effect effect effect-prolly">
-                        <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img"  />
-                        <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                            <h2 class="Slider__title effect-prolly__title">Summer</h2>
-                            <a href="#" title="View more" class="Slider__button effect-prolly__button">View more</a>
-                        </figcaption>			
-                    </figure><!-- End /.Slider__effect -->   
-
-                </div><!-- End /.Slider__item -->
-
-                <!-- Start .Slider__item -->
-                <div class="Slider__item item">   
-
-                    <!-- Start .Slider__effect -->  
-                    <figure class="Slider__effect effect effect-prolly">
-                        <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img"  />
-                        <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                            <h2 class="Slider__title effect-prolly__title">Wedding</h2>
-                            <a href="#" title="View more" class="Slider__button effect-prolly__button">View more</a>
-                        </figcaption>			
-                    </figure><!-- End /.Slider__effect -->      
-
-                </div><!-- End /.Slider__item -->
-
-                <!-- Start .Slider__item -->
-                <div class="Slider__item item">  
-
-                    <!-- Start .Slider__effect -->    
-                    <figure class="Slider__effect effect effect-prolly">
-                        <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img"  />
-                        <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                            <h2 class="Slider__title effect-prolly__title">Marco</h2>
-                            <a href="#" title="View more" class="Slider__button effect-prolly__button">View more</a>
-                        </figcaption>			
-                    </figure><!-- End /.Slider__effect -->  
-
-                </div><!-- End /.Slider__item -->
-                
-                <!-- Start .Slider__item -->
-                <div class="Slider__item item"> 
-
-                    <!-- Start .Slider__effect -->   
-                    <figure class="Slider__effect effect effect-prolly">
-                        <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img"  />
-                        <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                            <h2 class="Slider__title effect-prolly__title">Summer</h2>
-                            <a href="#" title="View more" class="Slider__button effect-prolly__button">View more</a>
-                        </figcaption>			
-                    </figure><!-- End /.Slider__effect -->  
-
-                </div><!-- End /.Slider__item -->
-
-            </div><!-- End /.owl-carousel -->
-            
-        </section><!-- End /.Slider -->
         
+        <!-- =========================
+    2. Section - Slider 
+============================== --> 
+
+<!-- Start .Slider -->
+<section class="Slider">
+
+    <!-- Start .owl-carousel -->
+    <div class="owl-carousel owl-theme">
+
+        <!-- Start .Slider__item -->
+        <div class="Slider__item item">  
+
+            <!-- Start .Slider__effect -->  
+            <figure class="Slider__effect effect effect-prolly">
+                <img src="img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img"  />
+                <figcaption class="Slider__caption effect__caption effect-prolly__caption">
+                    <h2 class="Slider__title effect-prolly__title">Wedding</h2>
+                    <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View more</a>
+                </figcaption>			
+            </figure><!-- End /.Slider__effect -->   
+
+        </div><!-- End /.Slider__item -->
+
+        <!-- Start .Slider__item -->
+        <div class="Slider__item item">   
+
+            <!-- Start .Slider__effect -->  
+            <figure class="Slider__effect effect effect-prolly">
+                <img src="img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img"  />
+                <figcaption class="Slider__caption effect__caption effect-prolly__caption">
+                    <h2 class="Slider__title effect-prolly__title">Marco</h2>
+                    <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View more</a>
+                </figcaption>			
+            </figure><!-- End /.Slider__effect -->   
+
+        </div><!-- End /.Slider__item -->
+
+        <!-- Start .Slider__item -->
+        <div class="Slider__item item"> 
+
+            <!-- Start .Slider__effect -->  
+            <figure class="Slider__effect effect effect-prolly">
+                <img src="img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img"  />
+                <figcaption class="Slider__caption effect__caption effect-prolly__caption">
+                    <h2 class="Slider__title effect-prolly__title">Summer</h2>
+                    <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View more</a>
+                </figcaption>			
+            </figure><!-- End /.Slider__effect -->       
+
+        </div><!-- End /.Slider__item -->
+
+        <!-- Start .Slider__item -->
+        <div class="Slider__item item">    
+
+            <!-- Start .Slider__effect -->  
+            <figure class="Slider__effect effect effect-prolly">
+                <img src="img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img"  />
+                <figcaption class="Slider__caption effect__caption effect-prolly__caption">
+                    <h2 class="Slider__title effect-prolly__title">Wedding</h2>
+                    <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View more</a>
+                </figcaption>			
+            </figure><!-- End /.Slider__effect -->       
+
+        </div><!-- End /.Slider__item -->
+
+        <!-- Start .Slider__item -->
+        <div class="Slider__item item">  
+
+            <!-- Start .Slider__effect -->    
+            <figure class="Slider__effect effect effect-prolly">
+                <img src="img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img"  />
+                <figcaption class="Slider__caption effect__caption effect-prolly__caption">
+                    <h2 class="Slider__title effect-prolly__title">Marco</h2>
+                    <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View more</a>
+                </figcaption>			
+            </figure><!-- End /.Slider__effect -->    
+
+        </div><!-- End /.Slider__item -->
+        
+        <!-- Start .Slider__item -->
+        <div class="Slider__item item">  
+
+            <!-- Start .Slider__effect -->   
+            <figure class="Slider__effect effect effect-prolly">
+                <img src="img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img"  />
+                <figcaption class="Slider__caption effect__caption effect-prolly__caption">
+                    <h2 class="Slider__title effect-prolly__title">Summer</h2>
+                    <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View more</a>
+                </figcaption>			
+            </figure><!-- End /.Slider__effect -->  
+
+        </div><!-- End /.Slider__item -->
+
+    </div><!-- End /.owl-carousel -->
+    
+</section><!-- End /.Slider -->
+
     </article>
 </main>
 
 <!-- =========================
     Mobile - Burger Right Menu  
 ============================== -->
- 
+
 <!-- Start .burger-menu -->
 <nav class="cd-nav-container burger-menu burger-menu--right" id="cd-nav">
     <div class="burger-menu__open">
@@ -358,8 +383,8 @@
         <div class="cd-nav-trigger cd-close-nav">
             <div class="cd-nav__divider cd-nav__divider--top"></div>
             <div class="cd-nav__divider cd-nav__divider--bottom"></div>
-        </div><!-- End /.cd-close-nav --> 
-                
+        </div><!-- End /.cd-close-nav -->
+
     </div>
 
     <!-- Start .burger-menu__list -->
@@ -384,9 +409,9 @@
         <li class="burger-menu-list__item dropdown">
             <a class="burger-menu-list__link dropdown__link" href="/blog.html" title="Blog">Blog</a>
             <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="dropdownMenuButton">
-                <svg class="icon icon-angle-down">
-                    <use xlink:href="#icon-angle-down"></use>
-                </svg>
+              <svg class="icon icon-angle-down">
+                  <use xlink:href="#icon-angle-down"></use>
+              </svg>
             </span>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a href="/blog-single.html" title="Blog Single" class="dropdown-item">Blog Single</a>
@@ -455,10 +480,7 @@
 <div class="scroll-up">
     <div class="scroll-up__icon"></div>
 </div><!-- End /.scroll-up -->
-
-<!-- =========================
-    3. Section - Footer 
-============================== --> 
+    
 
 <!-- Start .Footer -->
 <footer class="Footer">
@@ -466,48 +488,53 @@
     <!-- Start .container -->
     <div class="container">
 
-        <!-- Start .copyright -->
-        <p class="copyright copyright--white">© 2018 Envato. All rights reserved. Theme by Alissio</p><!-- End /.copyright -->
+        <div class="Footer__content">
 
-        <!-- Start .social -->
-        <div class="social social--white">
+            <!-- Start .Footer__copyright -->
+            <p class="copyright copyright--white">© 2018 All rights reserved. Theme by Alissio</p>
+            <!-- End /.container -->
+    
+            <!-- Start .social -->
+            <div class="social social--white">
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Facebook" class="social__item">
+                    <svg class="icon icon-facebook-square">
+                        <use xlink:href="#icon-facebook-square"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Google-Plus" class="social__item">
+                    <svg class="icon icon-google-plus">
+                        <use xlink:href="#icon-google-plus"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Flickr" class="social__item">
+                    <svg class="icon icon-flickr">
+                        <use xlink:href="#icon-flickr"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Instagram" class="social__item">
+                    <svg class="icon icon-instagram">
+                        <use xlink:href="#icon-instagram"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+                <!-- Start .social__item -->
+                <a href="#" title="Pinterest" class="social__item">
+                    <svg class="icon icon-pinterest-square">
+                        <use xlink:href="#icon-pinterest-square"></use>
+                    </svg>
+                </a><!-- End /.social__item -->
+    
+            </div><!-- End /.social -->
 
-            <!-- Start .social__item -->
-            <a href="#" title="Facebook" class="social__item">
-                <svg class="icon icon-facebook-square">
-                    <use xlink:href="#icon-facebook-square"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Google-Plus" class="social__item">
-                <svg class="icon icon-google-plus">
-                    <use xlink:href="#icon-google-plus"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Flickr" class="social__item">
-                <svg class="icon icon-flickr">
-                    <use xlink:href="#icon-flickr"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Instagram" class="social__item">
-                <svg class="icon icon-instagram">
-                    <use xlink:href="#icon-instagram"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-            <!-- Start .social__item -->
-            <a href="#" title="Pinterest" class="social__item">
-                <svg class="icon icon-pinterest-square">
-                    <use xlink:href="#icon-pinterest-square"></use>
-                </svg>
-            </a><!-- End /.social__item -->
-
-        </div><!-- End /.social -->
+        </div>
 
     </div><!-- End /.container -->
 
@@ -516,18 +543,20 @@
 <!-- =========================
     Scripts   
 ============================== --> 
- 
-<!-- Popper -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script> 
 
+    
 <!-- All Main Scripts -->
-<script src="src/assets/js/scripts.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="js/scripts.min.js"></script>
 
 <!-- Mobile - Burger Right Menu -->
-<script src="src/assets/js/burger-menu.min.js"></script>
+<script src="js/burger-menu.min.js"></script>
 
 <!-- Common --> 
-<script src="src/assets/js/common.js"></script>
+<script src="js/common.js"></script>
+
+
+
 
 </body>
 </html>
