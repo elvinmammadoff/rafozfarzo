@@ -43,8 +43,8 @@
 		items: 1,
 		stagePadding: 100,
 		loop: true,
-		dots: true,
-		autoplay: false,
+		dots: false,
+		autoplay: true,
 		autoplaySpeed: 2000,	
 		autoplayTimeout: 4000,
 		autoplayHoverPause: true,
@@ -116,7 +116,7 @@
     =============================*/
     $(window).on('scroll', function () {
         var scrollPos = $(this).scrollTop();
-        if (scrollPos > 200) {
+        if (scrollPos > 1) {
             $('.sticky-header').addClass('is-sticky');
         } else {
             $('.sticky-header').removeClass('is-sticky');
