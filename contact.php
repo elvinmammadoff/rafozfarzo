@@ -177,9 +177,9 @@
             <div class="container d-flex justify-content-between align-items-center">
 
                 <!-- Start .Header__logo -->
-                <h1 class="Header__logo">
+                <div class="Header__logo">
                     <a href="/" title="Rafoz Farzo - Photography Template"></a>
-                </h1><!-- End /.Header__logo-->
+                </div><!-- End /.Header__logo-->
 
                 <!-- =========================
                     Burger Right Menu Icon
@@ -264,7 +264,6 @@
     </header><!-- End /.Header-->
 
     <main>
-        <article>
 
             <!-- =========================
                 2. Section - Cover 
@@ -396,7 +395,6 @@
 
             </section><!-- End /.Contact__methods -->
 
-        </article>
     </main>
 
     <!-- =========================
