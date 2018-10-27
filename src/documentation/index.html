@@ -385,7 +385,7 @@
                     </section>
 
                     <footer>
-                      <p>© Rafoz Farzo Photography HTML Template</p>
+                      <p>© Rafoz Farzo - Photography Template</p>
                     </footer>
 
                 </div>
