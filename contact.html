@@ -390,7 +390,7 @@
 
                 <!-- Start .Map -->
                 <div class="Map">
-                    <div class="Map__container" id="google-map"></div>
+                    <div class="Map__container" id="map"></div>
                 </div><!-- End /.Map -->
 
             </section><!-- End /.Contact__methods -->
