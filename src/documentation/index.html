@@ -336,12 +336,12 @@
 
 
                 <ul>
-                    <li><a href="https://jquery.com/" target="_blank">jQuery</a></li>
-                    <li><a href="https://getbootstrap.com/" target="_blank">Bootstrap 4</a></li>
-                    <li><a href="https://isotope.metafizzy.co/layout-modes.html" target="_blank">Isotope Layout</a></li>
-                    <li><a href="https://owlcarousel2.github.io/OwlCarousel2/" target="_blank">Owl Carousel 2</a></li>
-                    <li><a href="https://imagesloaded.desandro.com/" target="_blank">Images Loaded</a></li>
-                    <li><a href="http://sachinchoolur.github.io/lightGallery/" target="_blank">Light Gallery</a></li>
+                <li>jQuery v3.3.1 – <a href="https://jquery.com" rel="nofollow">jQuery v3.3.1</a></li>
+                <li>Bootstrap v4.0.0 – <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" rel="nofollow">Bootstrap v4.0.0</a></li>
+                <li>Owl Carousel v2.3.4 – <a href="https://owlcarousel2.github.io/OwlCarousel2/" rel="nofollow">Owl Carousel v2.3.4</a></li>
+                <li>lightgallery v1.6.11 – <a href="https://sachinchoolur.github.io/lightGallery/" rel="nofollow">Light Gallery v1.6.11</a></li>
+                <li>Isotope v3.0.6 – <a href="https://isotope.metafizzy.co/layout-modes.html" rel="nofollow">Isotope Layout v3.0.6</a></li>
+                <li>imagesLoaded v4.1.4 – <a href="https://imagesloaded.desandro.com/" rel="nofollow">imagesLoaded v4.1.4</a></li>
                     <li> <strong>Fonts used</strong>
                         <ul>
                             <li><a href="https://fonts.google.com/specimen/Montserrat" target="_blank">Montserrat</a></li>
