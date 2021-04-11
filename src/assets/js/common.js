@@ -25,6 +25,7 @@
 	|___ Burger Menu Menu
 	|___ Light Gallery Popup Images
 	|___ Pre-Loader
+	|___ Init Yandex Map
 	|___
 	|___
     |
@@ -277,6 +278,43 @@
 		offsetTop = offset.top;
 		$('html, body').animate({scrollTop: offsetTop}, 500, 'linear');
 	}
+
+
+	//======= START Init Yandex Map ========
+
+	ymaps.ready(init);
+	var myMap,
+		myPlacemark;
+
+	var iconBase = 'src/assets/img/map-marker.png';
+
+	function init(){
+		myMap = new ymaps.Map("map", {
+			center: [40.372488, 49.954121],
+			zoom: 13,
+		});
+
+		myPlacemark = new ymaps.Placemark([40.372488, 49.954121], {
+			// hintContent: 'Moscow!',
+			// balloonContent: 'Capital of Russia'
+		},{
+			iconLayout: 'default#image',
+			iconImageHref: 'src/assets/img/map-marker.png',
+			iconImageSize: [26, 40],
+		});
+
+		myMap.geoObjects.add(myPlacemark);
+		// myMap.controls.remove('zoomControl');
+		myMap.controls.remove('rulerControl');
+		myMap.controls.remove('geolocationControl');
+		myMap.controls.remove('searchControl');
+		myMap.controls.remove('trafficControl');
+		myMap.controls.remove('typeSelector');
+		myMap.controls.remove('fullscreenControl');
+		myMap.behaviors.disable('scrollZoom');
+	}
+
+	//======= END Init Yandex Map ========
 	
 
 })(jQuery);

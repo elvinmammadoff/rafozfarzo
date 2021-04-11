@@ -577,9 +577,8 @@
     <!-- Popper -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 
-    <!-- Google Map JavaScript API -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxvP66_Xk1ts77oL2Z7EpDxhDD_jMg-D0"></script>
-    <script src="src/assets/js/initGmap.js"></script>
+    <!-- Yandex Map JavaScript API -->
+    <script src="https://api-maps.yandex.ru/2.1/?apikey=pdct.1.1.20181030T175834Z.133bc6bb41576943.2897484581a2a12fea17740a34279c270c29ac48&lang=en_US"></script>
 
     <!-- All Main Scripts -->
     <script src="src/assets/js/scripts.min.js"></script>
