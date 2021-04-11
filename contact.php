@@ -321,7 +321,7 @@
 
                             <!-- Start .Contact-info__item -->
                             <div class="Contact-info__item">
-                                <a href="#google-map" title="Colorado, Oba Street 120" class="Contact-info__icon Contact-info__map rounded-circle">
+                                <a href="#map" title="Colorado, Oba Street 120" class="Contact-info__icon Contact-info__map rounded-circle">
                                     <svg class="icon icon-map-o">
                                         <use xlink:href="#icon-map-o"></use>
                                     </svg>
