@@ -25,6 +25,7 @@
 	|___ Burger Menu Menu
 	|___ Light Gallery Popup Images
 	|___ Pre-Loader
+	|___ Scroll Up
 	|___ Init Yandex Map
 	|___
 	|___
