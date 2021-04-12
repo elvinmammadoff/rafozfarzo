@@ -126,7 +126,7 @@
                 <p>This theme is a responsive landing page which built with Bootstrap fraemwork and you can customize it very easily. All of the information within the main
                     content area is nested within a div with an class of "sections". The general
                     <code>template</code> structure is the same throughout the template. Here is the general
-                    structure. Note that for brevity, I'm not including content that isn’t relevant to the
+                    structure. Note that for brevity, I am not including content that isn’t relevant to the
                     technique.</p>
 
 <pre data-language="HTML Skeleton">
@@ -383,7 +383,7 @@
 
                 <pre>
 
-  V. 1.0.3 – 10.04.2021
+  V. 1.1.2 – 10.04.2021
   - Added: Yandex Map API
   - Tweak: Improved Documentation
 
