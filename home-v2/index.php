@@ -208,7 +208,7 @@
 
                     <!-- Start .Menu-item -->
                     <li class="Menu-item">
-                        <a href="/about.html" title="About" class="Menu-item__link p-3">
+                        <a href="/home-v2/about.html" title="About" class="Menu-item__link p-3">
                             About
                             <span class="line-1"></span>
                             <span class="line-2"></span>
@@ -219,7 +219,7 @@
 
                     <!-- Start .Menu-item -->
                     <li class="Menu-item">
-                        <a href="/gallery.html" title="Gallery" class="Menu-item__link p-3">
+                        <a href="/home-v2/gallery.html" title="Gallery" class="Menu-item__link p-3">
                             Gallery
                             <span class="line-1"></span>
                             <span class="line-2"></span>
@@ -230,7 +230,7 @@
 
                     <!-- Start .Menu-item -->
                     <li class="Menu-item dropdown">
-                        <a href="/blog.html" title="Blog" class="Menu-item__link p-3">
+                        <a href="/home-v2/blog.html" title="Blog" class="Menu-item__link p-3">
                             Blog
                             <span class="line-1"></span>
                             <span class="line-2"></span>
@@ -239,14 +239,14 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-menu__item">
-                                <a href="/blog-inside.html" title="Blog Inside" class="dropdown-menu__link">Blog Inside</a>
+                                <a href="/home-v2/blog-inside.html" title="Blog Inside" class="dropdown-menu__link">Blog Inside</a>
                             </li>
                         </ul>
                     </li><!-- End /.Menu-item-->
 
                     <!-- Start .Menu-item -->
                     <li class="Menu-item">
-                        <a href="/contact.html" title="Contact" class="Menu-item__link p-3">
+                        <a href="/home-v2/contact.html" title="Contact" class="Menu-item__link p-3">
                             Contact
                             <span class="line-1"></span>
                             <span class="line-2"></span>
@@ -283,7 +283,7 @@
                             <img src="src/assets/img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Wedding</h2>
-                                <a href="/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
+                                <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
                         </figure><!-- End /.Slider__effect -->
@@ -298,7 +298,7 @@
                             <img src="src/assets/img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Marco</h2>
-                                <a href="/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
+                                <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
                         </figure><!-- End /.Slider__effect -->
@@ -313,7 +313,7 @@
                             <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Summer</h2>
-                                <a href="/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
+                                <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
                         </figure><!-- End /.Slider__effect -->
@@ -328,7 +328,7 @@
                             <img src="src/assets/img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Wedding</h2>
-                                <a href="/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
+                                <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
                         </figure><!-- End /.Slider__effect -->
@@ -343,7 +343,7 @@
                             <img src="src/assets/img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Marco</h2>
-                                <a href="/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
+                                <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
                         </figure><!-- End /.Slider__effect -->
@@ -358,7 +358,7 @@
                             <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Summer</h2>
-                                <a href="/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
+                                <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
                         </figure><!-- End /.Slider__effect -->
@@ -399,17 +399,17 @@
 
             <!-- Start .burger-menu-list__item -->
             <li class="burger-menu-list__item">
-                <a href="/about.html" title="About" class="burger-menu-list__link">About</a>
+                <a href="/home-v2/about.html" title="About" class="burger-menu-list__link">About</a>
             </li><!-- End /.burger-menu-list__item -->
 
             <!-- Start .burger-menu-list__item -->
             <li class="burger-menu-list__item">
-                <a href="/gallery.html" title="Gallery" class="burger-menu-list__link">Gallery</a>
+                <a href="/home-v2/gallery.html" title="Gallery" class="burger-menu-list__link">Gallery</a>
             </li><!-- End /.burger-menu-list__item -->
 
             <!-- Start .burger-menu-list__item -->
             <li class="burger-menu-list__item dropdown">
-                <a class="burger-menu-list__link dropdown__link" href="/blog.html" title="Blog">Blog</a>
+                <a class="burger-menu-list__link dropdown__link" href="/home-v2/blog.html" title="Blog">Blog</a>
                 <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
                     id="dropdownMenuButton">
                     <svg class="icon icon-angle-down">
@@ -417,13 +417,13 @@
                     </svg>
                 </span>
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a href="/blog-inside.html" title="Blog Inside" class="dropdown-item">Blog Inside</a>
+                    <a href="/home-v2/blog-inside.html" title="Blog Inside" class="dropdown-item">Blog Inside</a>
                 </div>
             </li><!-- End /.burger-menu-list__item -->
 
             <!-- Start .burger-menu-list__item -->
             <li class="burger-menu-list__item">
-                <a href="/contact.html" title="Contact" class="burger-menu-list__link">Contact</a>
+                <a href="/home-v2/contact.html" title="Contact" class="burger-menu-list__link">Contact</a>
             </li><!-- End /.burger-menu-list__item -->
 
         </ul><!-- End /.burger-menu__list -->

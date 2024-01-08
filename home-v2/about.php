@@ -209,7 +209,7 @@
 
                     <!-- Start .Menu-item -->
                     <li class="Menu-item">
-                        <a href="/about.html" title="About" class="Menu-item__link p-3">
+                        <a href="/home-v2/about.html" title="About" class="Menu-item__link p-3">
                             About
                             <span class="line-1"></span>
                             <span class="line-2"></span>
@@ -220,7 +220,7 @@
 
                     <!-- Start .Menu-item -->
                     <li class="Menu-item">
-                        <a href="/gallery.html" title="Gallery" class="Menu-item__link p-3">
+                        <a href="/home-v2/gallery.html" title="Gallery" class="Menu-item__link p-3">
                             Gallery
                             <span class="line-1"></span>
                             <span class="line-2"></span>
@@ -231,7 +231,7 @@
 
                     <!-- Start .Menu-item -->
                     <li class="Menu-item dropdown">
-                        <a href="/blog.html" title="Blog" class="Menu-item__link p-3">
+                        <a href="/home-v2/blog.html" title="Blog" class="Menu-item__link p-3">
                             Blog
                             <span class="line-1"></span>
                             <span class="line-2"></span>
@@ -240,14 +240,14 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-menu__item">
-                                <a href="/blog-inside.html" title="Blog Inside" class="dropdown-menu__link">Blog Inside</a>
+                                <a href="/home-v2/blog-inside.html" title="Blog Inside" class="dropdown-menu__link">Blog Inside</a>
                             </li>
                         </ul>
                     </li><!-- End /.Menu-item-->
 
                     <!-- Start .Menu-item -->
                     <li class="Menu-item">
-                        <a href="/contact.html" title="Contact" class="Menu-item__link p-3">
+                        <a href="/home-v2/contact.html" title="Contact" class="Menu-item__link p-3">
                             Contact
                             <span class="line-1"></span>
                             <span class="line-2"></span>
@@ -312,7 +312,7 @@
 
                                     <!-- Start .content__details -->
                                     <div class="content__details">
-                                        <h3 class="content__title"><a href="/blog-inside.html" title="Rafoz Farzo">Rafoz Farzo</a></h3>
+                                        <h3 class="content__title">Rafoz Farzo</h3>
                                         <div class="content__description">PRODUCT DESIGNER</div>
                                         <p class="content__text">
                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum is printing and typesetting simply dummy text.Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -414,17 +414,17 @@
 
             <!-- Start .burger-menu-list__item -->
             <li class="burger-menu-list__item">
-                <a href="/about.html" title="About" class="burger-menu-list__link">About</a>
+                <a href="/home-v2/about.html" title="About" class="burger-menu-list__link">About</a>
             </li><!-- End /.burger-menu-list__item -->
 
             <!-- Start .burger-menu-list__item -->
             <li class="burger-menu-list__item">
-                <a href="/gallery.html" title="Gallery" class="burger-menu-list__link">Gallery</a>
+                <a href="/home-v2/gallery.html" title="Gallery" class="burger-menu-list__link">Gallery</a>
             </li><!-- End /.burger-menu-list__item -->
 
             <!-- Start .burger-menu-list__item -->
             <li class="burger-menu-list__item dropdown">
-                <a class="burger-menu-list__link dropdown__link" href="/blog.html" title="Blog">Blog</a>
+                <a class="burger-menu-list__link dropdown__link" href="/home-v2/blog.html" title="Blog">Blog</a>
                 <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
                     id="dropdownMenuButton">
                     <svg class="icon icon-angle-down">
@@ -432,13 +432,13 @@
                     </svg>
                 </span>
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a href="/blog-inside.html" title="Blog Inside" class="dropdown-item">Blog Inside</a>
+                    <a href="/home-v2/blog-inside.html" title="Blog Inside" class="dropdown-item">Blog Inside</a>
                 </div>
             </li><!-- End /.burger-menu-list__item -->
 
             <!-- Start .burger-menu-list__item -->
             <li class="burger-menu-list__item">
-                <a href="/contact.html" title="Contact" class="burger-menu-list__link">Contact</a>
+                <a href="/home-v2/contact.html" title="Contact" class="burger-menu-list__link">Contact</a>
             </li><!-- End /.burger-menu-list__item -->
 
         </ul><!-- End /.burger-menu__list -->
