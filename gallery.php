@@ -374,7 +374,7 @@
                             <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery6.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Fashion Girl" title-"Fashion Girl" src="src/assets/img/gallery/Gallery6.jpg">
+                                        <img class="effect-layla__img" alt="Fashion Girl" src="src/assets/img/gallery/Gallery6.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">Fashion Girl</h2>
                                         </figcaption>
@@ -387,7 +387,7 @@
                                 data-src="src/assets/img/gallery/Gallery7.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Outdoor Basketball" title="Outdoor Basketball"
+                                        <img class="effect-layla__img" alt="Outdoor Basketball"
                                             src="src/assets/img/gallery/Gallery7.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">Outdoor Basketball</h2>
@@ -401,7 +401,7 @@
                                 data-src="src/assets/img/gallery/Gallery8.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Healthy Lifestyle" title="Healthy Lifestyle"
+                                        <img class="effect-layla__img" alt="Healthy Lifestyle"
                                             src="src/assets/img/gallery/Gallery8.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">Healthy Lifestyle</h2>
@@ -415,7 +415,7 @@
                                 data-src="src/assets/img/gallery/Gallery9.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Christmas Lights" title="Christmas Lights"
+                                        <img class="effect-layla__img" alt="Christmas Lights"
                                             src="src/assets/img/gallery/Gallery9.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">Christmas Lights</h2>

@@ -427,7 +427,7 @@
             ============================== -->
 
             <!-- Start .Pagination -->
-            <section class="Pagination">
+            <div class="Pagination">
                 <div class="container">
                     <div class="d-flex justify-content-center">
                         <a href="" title="Prev" class="Pagination__item">Prev</a>
@@ -437,7 +437,7 @@
                         <a href="" title="Next" class="Pagination__item">Next</a>
                     </div>
                 </div>
-            </section><!-- End /.Pagination-->
+            </div><!-- End /.Pagination-->
 
     </main>
 

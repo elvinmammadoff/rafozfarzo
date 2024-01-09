@@ -332,7 +332,7 @@
                                         <!-- Start .Progressbar -->
                                         <div class="Progressbar__item">
                                             <div class="Progressbar__header d-flex justify-content-between">
-                                                <div class="Progressbar__title">Photoshop</div>
+                                                <h4 class="Progressbar__title">Photoshop</h4>
                                                 <div class="Progressbar__count" data-percentage="90"></div>
                                             </div>
                                             <div class="Progressbar__full">
@@ -343,7 +343,7 @@
                                         <!-- Start .Progressbar -->
                                         <div class="Progressbar__item">
                                             <div class="Progressbar__header d-flex justify-content-between">
-                                                <div class="Progressbar__title">Design</div>
+                                                <h4 class="Progressbar__title">Design</h4>
                                                 <div class="Progressbar__count" data-percentage="70"></div>
                                             </div>
                                             <div class="Progressbar__full">
@@ -354,7 +354,7 @@
                                         <!-- Start .Progressbar -->
                                         <div class="Progressbar__item">
                                             <div class="Progressbar__header d-flex justify-content-between">
-                                                <div class="Progressbar__title">Coloring</div>
+                                                <h4 class="Progressbar__title">Coloring</h4>
                                                 <div class="Progressbar__count" data-percentage="50"></div>
                                             </div>
                                             <div class="Progressbar__full">
@@ -365,7 +365,7 @@
                                         <!-- Start .Progressbar -->
                                         <div class="Progressbar__item">
                                             <div class="Progressbar__header d-flex justify-content-between">
-                                                <div class="Progressbar__title">Printing</div>
+                                                <h4 class="Progressbar__title">Printing</h4>
                                                 <div class="Progressbar__count" data-percentage="40"></div>
                                             </div>
                                             <div class="Progressbar__full">

@@ -295,13 +295,13 @@
 
                             <!-- Start .Contact-info__item -->
                             <div class="Contact-info__item">
-                                <a href="callto: +001 225 45 65" title="+001 225 45 65" class="Contact-info__icon rounded-circle">
+                                <span class="Contact-info__icon rounded-circle">
                                     <svg class="icon icon-mobile">
                                         <use xlink:href="#icon-mobile"></use>
                                     </svg>
-                                </a>
-                                <a href="callto: +001 225 45 65" title="+001 225 45 65" class="Contact-info__text">+001
-                                    225 45 65</a>
+                                </span>
+                                <span class="Contact-info__text">+001
+                                    225 45 65</span>
                             </div><!-- End /.Contact-info__item -->
                         </div>
 
@@ -349,7 +349,7 @@
                         <h3 class="title--mini text-center">Send Message</h3>
 
                         <!-- Start .Form -->
-                        <form action="" method="POST" class="Form d-flex justify-content-between flex-wrap"
+                        <form class="Form d-flex justify-content-between flex-wrap"
                             autocomplete="off">
 
                             <!-- Start .Form__group -->
