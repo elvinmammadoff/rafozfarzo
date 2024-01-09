@@ -309,10 +309,10 @@
                                 data-src="src/assets/img/gallery/Gallery1.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Street Photography" title="Street Photography"
+                                        <img class="effect-layla__img" alt="New Mockup" title="New Mockup"
                                             src="src/assets/img/gallery/Gallery1.jpg" />
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Street Photography</h2>
+                                            <h2 class="effect-layla__title">New Mockup</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
@@ -323,9 +323,9 @@
                                 data-src="src/assets/img/gallery/Gallery2.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Beauty Female" title="Beauty Female" src="src/assets/img/gallery/Gallery2.jpg" />
+                                        <img class="effect-layla__img" alt="Disposable Mockup" title="Disposable Mockup" src="src/assets/img/gallery/Gallery2.jpg" />
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Beauty Female</h2>
+                                            <h2 class="effect-layla__title">Disposable Mockup</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
@@ -336,9 +336,9 @@
                                 data-src="src/assets/img/gallery/Gallery3.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Pretty Nature" title="Pretty Nature" src="src/assets/img/gallery/Gallery3.jpg" />
+                                        <img class="effect-layla__img" alt="Best Mockup" title="Best Mockup" src="src/assets/img/gallery/Gallery3.jpg" />
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Pretty Nature</h2>
+                                            <h2 class="effect-layla__title">Best Mockup</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
@@ -348,9 +348,9 @@
                             <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery4.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Magic Shine" title="Magic Shine" src="src/assets/img/gallery/Gallery4.jpg" />
+                                        <img class="effect-layla__img" alt="New Mockup" title="New Mockup" src="src/assets/img/gallery/Gallery4.jpg" />
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Magic Shine</h2>
+                                            <h2 class="effect-layla__title">New Mockup</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
@@ -361,10 +361,10 @@
                                 data-src="src/assets/img/gallery/Gallery5.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Lemon Poppy Seed Blondies" title="Lemon Poppy Seed Blondies"
+                                        <img class="effect-layla__img" alt="Disposable Mockup Seed Blondies" title="Disposable Mockup Seed Blondies"
                                             src="src/assets/img/gallery/Gallery5.jpg" />
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Lemon Poppy Seed Blondies</h2>
+                                            <h2 class="effect-layla__title">Disposable Mockup Seed Blondies</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
@@ -374,9 +374,9 @@
                             <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery6.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Fashion Girl" title-"Fashion Girl" src="src/assets/img/gallery/Gallery6.jpg" />
+                                        <img class="effect-layla__img" alt="Best Mockup" title-"Best Mockup" src="src/assets/img/gallery/Gallery6.jpg" />
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Fashion Girl</h2>
+                                            <h2 class="effect-layla__title">Best Mockup</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
@@ -387,10 +387,10 @@
                                 data-src="src/assets/img/gallery/Gallery7.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Outdoor Basketball" title="Outdoor Basketball"
+                                        <img class="effect-layla__img" alt="New Mockup" title="New Mockup"
                                             src="src/assets/img/gallery/Gallery7.jpg" />
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Outdoor Basketball</h2>
+                                            <h2 class="effect-layla__title">New Mockup</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
@@ -401,10 +401,10 @@
                                 data-src="src/assets/img/gallery/Gallery8.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Healthy Lifestyle" title="Healthy Lifestyle"
+                                        <img class="effect-layla__img" alt="Disposable Mockup" title="Disposable Mockup"
                                             src="src/assets/img/gallery/Gallery8.jpg" />
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Healthy Lifestyle</h2>
+                                            <h2 class="effect-layla__title">Disposable Mockup</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
@@ -415,10 +415,10 @@
                                 data-src="src/assets/img/gallery/Gallery9.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Christmas Lights" title="Christmas Lights"
+                                        <img class="effect-layla__img" alt="Best Mockup" title="Best Mockup"
                                             src="src/assets/img/gallery/Gallery9.jpg" />
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Christmas Lights</h2>
+                                            <h2 class="effect-layla__title">Best Mockup</h2>
                                         </figcaption>
                                     </figure>
                                 </a>

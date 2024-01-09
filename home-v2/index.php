@@ -282,7 +282,7 @@
                         <figure class="Slider__effect effect effect-prolly">
                             <img src="src/assets/img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Wedding</h2>
+                                <h2 class="Slider__title effect-prolly__title">New Mockup</h2>
                                 <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
@@ -297,7 +297,7 @@
                         <figure class="Slider__effect effect effect-prolly">
                             <img src="src/assets/img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Marco</h2>
+                                <h2 class="Slider__title effect-prolly__title">Disposable Mockup</h2>
                                 <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
@@ -312,7 +312,7 @@
                         <figure class="Slider__effect effect effect-prolly">
                             <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Summer</h2>
+                                <h2 class="Slider__title effect-prolly__title">Best Mockup</h2>
                                 <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
@@ -327,7 +327,7 @@
                         <figure class="Slider__effect effect effect-prolly">
                             <img src="src/assets/img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Wedding</h2>
+                                <h2 class="Slider__title effect-prolly__title">New Mockup</h2>
                                 <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
@@ -342,7 +342,7 @@
                         <figure class="Slider__effect effect effect-prolly">
                             <img src="src/assets/img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Marco</h2>
+                                <h2 class="Slider__title effect-prolly__title">Disposable Mockup</h2>
                                 <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
@@ -357,7 +357,7 @@
                         <figure class="Slider__effect effect effect-prolly">
                             <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img" />
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Summer</h2>
+                                <h2 class="Slider__title effect-prolly__title">Best Mockup</h2>
                                 <a href="/home-v2/blog-inside.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
