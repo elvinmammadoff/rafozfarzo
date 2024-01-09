@@ -361,10 +361,10 @@
                                 data-src="src/assets/img/gallery/Gallery5.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Disposable Mockup Seed Blondies" title="Disposable Mockup Seed Blondies"
+                                        <img class="effect-layla__img" alt="Disposable Mockup" title="Disposable Mockup"
                                             src="src/assets/img/gallery/Gallery5.jpg" />
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Disposable Mockup Seed Blondies</h2>
+                                            <h2 class="effect-layla__title">Disposable Mockup</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
