@@ -385,7 +385,7 @@
                     <h3 class="title--mini">Leave a Comment</h3>
 
                     <!-- Start .Form -->
-                    <form action="" method="POST" class="Form" autocomplete="off">
+                    <form class="Form" autocomplete="off">
 
                         <div class="row">
                             <div class="col-sm-12 col-md-6">

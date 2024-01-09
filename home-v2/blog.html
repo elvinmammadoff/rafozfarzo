@@ -415,7 +415,7 @@
             ============================== -->
 
             <!-- Start .Pagination -->
-            <section class="Pagination">
+            <div class="Pagination">
                 <div class="container">
                     <div class="d-flex justify-content-center">
                         <a href="" title="1" class="Pagination__item">1</a>
@@ -423,7 +423,7 @@
                         <a href="" title="3" class="Pagination__item">3</a>
                     </div>
                 </div>
-            </section><!-- End /.Pagination-->
+            </div><!-- End /.Pagination-->
 
     </main>
 

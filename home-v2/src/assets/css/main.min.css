@@ -8335,6 +8335,10 @@ figure {
     font-size: 1.063rem
 }
 
+.Progressbar__title {
+    margin-bottom: 0;
+}
+
 .Progressbar__full {
     position: relative;
     background: #e0e0e0;
