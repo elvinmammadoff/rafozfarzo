@@ -240,7 +240,7 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-menu__item">
-                                <a href="/home-v2/blog-single.html" title="Blog Single" class="dropdown-menu__link">Blog Single</a>
+                                <a href="/home-v2/blog-inside.html" title="Blog Inside" class="dropdown-menu__link">Blog Inside</a>
                             </li>
                         </ul>
                     </li><!-- End /.Menu-item-->
@@ -484,7 +484,7 @@
                     </svg>
                 </span>
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a href="/home-v2/blog-single.html" title="Blog Single" class="dropdown-item">Blog Single</a>
+                    <a href="/home-v2/blog-inside.html" title="Blog Inside" class="dropdown-item">Blog Inside</a>
                 </div>
             </li><!-- End /.burger-menu-list__item -->
 
