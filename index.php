@@ -4,11 +4,11 @@
 <head>
 
     <!-- Required meta tags -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
     <!-- Title -->
     <title>Rafoz Farzo - Photography Template</title>
@@ -17,33 +17,33 @@
     <link rel="stylesheet" href="src/assets/css/main.min.css">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="256x256" href="src/assets/img/favicon/android-chrome-256x256.png">
     <link rel="icon" type="image/png" sizes="192x192" href="src/assets/img/favicon/android-chrome-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/img/favicon/favicon-16x16.png" />
-    <link rel="icon" type="image/png" href="src/assets/img/favicon/favicon.ico" />
-    <link rel="manifest" href="src/assets/img/favicon/site.webmanifest" />
-    <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
-    <meta name="msapplication-TileColor" content="#990100" />
-    <meta name="theme-color" content="#ffffff" />
+    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/img/favicon/favicon-16x16.png">
+    <link rel="icon" type="image/png" href="src/assets/img/favicon/favicon.ico">
+    <link rel="manifest" href="src/assets/img/favicon/site.webmanifest">
+    <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#990100">
+    <meta name="theme-color" content="#ffffff">
 
     <!-- Facebook Preview -->
-    <meta property="fb:app_id" content="262469534475317" />
-    <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/" />
-    <meta property="og:type" content="article" />
-    <meta property="og:site_name" content="Rafoz Farzo Bootstrap 4 Template" />
-    <meta property="og:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
-    <meta property="og:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />
-    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg" />
+    <meta property="fb:app_id" content="262469534475317">
+    <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Rafoz Farzo Bootstrap 4 Template">
+    <meta property="og:title" content="Rafoz Farzo - Photography Bootstrap 4 Template">
+    <meta property="og:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals.">
+    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg">
 
     <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@elvin_mammadoff" />
-    <meta name="twitter:creator" content="@elvin_mammadoff" />
-    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg" />
-    <meta name="twitter:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
-    <meta name="twitter:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@elvin_mammadoff">
+    <meta name="twitter:creator" content="@elvin_mammadoff">
+    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg">
+    <meta name="twitter:title" content="Rafoz Farzo - Photography Bootstrap 4 Template">
+    <meta name="twitter:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals.">
 
 </head>
 
@@ -280,7 +280,7 @@
 
                         <!-- Start .Slider__effect -->
                         <figure class="Slider__effect effect effect-prolly">
-                            <img src="src/assets/img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img" />
+                            <img src="src/assets/img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Wedding</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
@@ -295,7 +295,7 @@
 
                         <!-- Start .Slider__effect -->
                         <figure class="Slider__effect effect effect-prolly">
-                            <img src="src/assets/img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img" />
+                            <img src="src/assets/img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Marco</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
@@ -310,7 +310,7 @@
 
                         <!-- Start .Slider__effect -->
                         <figure class="Slider__effect effect effect-prolly">
-                            <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img" />
+                            <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Summer</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
@@ -325,7 +325,7 @@
 
                         <!-- Start .Slider__effect -->
                         <figure class="Slider__effect effect effect-prolly">
-                            <img src="src/assets/img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img" />
+                            <img src="src/assets/img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Wedding</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
@@ -340,7 +340,7 @@
 
                         <!-- Start .Slider__effect -->
                         <figure class="Slider__effect effect effect-prolly">
-                            <img src="src/assets/img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img" />
+                            <img src="src/assets/img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Marco</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
@@ -355,7 +355,7 @@
 
                         <!-- Start .Slider__effect -->
                         <figure class="Slider__effect effect effect-prolly">
-                            <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img" />
+                            <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
                                 <h2 class="Slider__title effect-prolly__title">Summer</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
@@ -368,7 +368,6 @@
                 </div><!-- End /.owl-carousel -->
 
             </section><!-- End /.Slider -->
-
     </main>
 
     <!-- =========================
