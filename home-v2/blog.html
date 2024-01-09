@@ -178,7 +178,7 @@
 
                 <!-- Start .Header__logo -->
                 <div class="Header__logo">
-                    <a href="/" title="Rafoz Farzo - Photography Template"></a>
+                    <a href="/home-v2" title="Rafoz Farzo - Photography Template"></a>
                 </div><!-- End /.Header__logo-->
 
                 <!-- =========================
@@ -197,7 +197,7 @@
 
                     <!-- Start .Menu-item -->
                     <li class="Menu-item">
-                        <a href="/" title="Home" class="Menu-item__link p-3">
+                        <a href="/home-v2" title="Home" class="Menu-item__link p-3">
                             Home
                             <span class="line-1"></span>
                             <span class="line-2"></span>
@@ -451,7 +451,7 @@
 
             <!-- Start .burger-menu-list__item -->
             <li class="burger-menu-list__item">
-                <a href="/" title="Home" class="burger-menu-list__link">Home</a>
+                <a href="/home-v2" title="Home" class="burger-menu-list__link">Home</a>
             </li><!-- End /.burger-menu-list__item -->
 
             <!-- Start .burger-menu-list__item -->
