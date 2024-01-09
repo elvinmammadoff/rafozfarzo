@@ -4,11 +4,11 @@
 <head>
 
     <!-- Required meta tags -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
     <!-- Title -->
     <title>Rafoz Farzo - Photography Template</title>
@@ -17,33 +17,33 @@
     <link rel="stylesheet" href="src/assets/css/main.min.css">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="256x256" href="src/assets/img/favicon/android-chrome-256x256.png">
     <link rel="icon" type="image/png" sizes="192x192" href="src/assets/img/favicon/android-chrome-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/img/favicon/favicon-16x16.png" />
-    <link rel="icon" type="image/png" href="src/assets/img/favicon/favicon.ico" />
-    <link rel="manifest" href="src/assets/img/favicon/site.webmanifest" />
-    <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
-    <meta name="msapplication-TileColor" content="#990100" />
-    <meta name="theme-color" content="#ffffff" />
+    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/img/favicon/favicon-16x16.png">
+    <link rel="icon" type="image/png" href="src/assets/img/favicon/favicon.ico">
+    <link rel="manifest" href="src/assets/img/favicon/site.webmanifest">
+    <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#990100">
+    <meta name="theme-color" content="#ffffff">
 
     <!-- Facebook Preview -->
-    <meta property="fb:app_id" content="262469534475317" />
-    <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/" />
-    <meta property="og:type" content="article" />
-    <meta property="og:site_name" content="Rafoz Farzo Bootstrap 4 Template" />
-    <meta property="og:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
-    <meta property="og:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />
-    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg" />
+    <meta property="fb:app_id" content="262469534475317">
+    <meta property="og:url" content="https://rafoz-farzo.herokuapp.com/">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Rafoz Farzo Bootstrap 4 Template">
+    <meta property="og:title" content="Rafoz Farzo - Photography Bootstrap 4 Template">
+    <meta property="og:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals.">
+    <meta property="og:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Facebook-preview.jpg">
 
     <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@elvin_mammadoff" />
-    <meta name="twitter:creator" content="@elvin_mammadoff" />
-    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg" />
-    <meta name="twitter:title" content="Rafoz Farzo - Photography Bootstrap 4 Template" />
-    <meta name="twitter:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals." />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@elvin_mammadoff">
+    <meta name="twitter:creator" content="@elvin_mammadoff">
+    <meta name="twitter:image" content="https://rafoz-farzo.herokuapp.com/src/assets/img/share/Twitter-card.jpg">
+    <meta name="twitter:title" content="Rafoz Farzo - Photography Bootstrap 4 Template">
+    <meta name="twitter:description" content="Rafoz Farzo is the best Photography Bootstrap 4 Template which comes with unique design, user friendly code, various portfolio and blog options that are suitable for photographers, digital studios, freelancers that would like to showcase their portfolio beautifully and bloggers for having appealing journals.">
 
 </head>
 
@@ -310,7 +310,7 @@
                                 <a href="">
                                     <figure class="effect effect-layla">
                                         <img class="effect-layla__img" alt="New Mockup" title="New Mockup"
-                                            src="src/assets/img/gallery/Gallery1.jpg" />
+                                            src="src/assets/img/gallery/Gallery1.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">New Mockup</h2>
                                         </figcaption>
@@ -323,7 +323,7 @@
                                 data-src="src/assets/img/gallery/Gallery2.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Disposable Mockup" title="Disposable Mockup" src="src/assets/img/gallery/Gallery2.jpg" />
+                                        <img class="effect-layla__img" alt="Disposable Mockup" title="Disposable Mockup" src="src/assets/img/gallery/Gallery2.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">Disposable Mockup</h2>
                                         </figcaption>
@@ -336,7 +336,7 @@
                                 data-src="src/assets/img/gallery/Gallery3.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Best Mockup" title="Best Mockup" src="src/assets/img/gallery/Gallery3.jpg" />
+                                        <img class="effect-layla__img" alt="Best Mockup" title="Best Mockup" src="src/assets/img/gallery/Gallery3.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">Best Mockup</h2>
                                         </figcaption>
@@ -348,7 +348,7 @@
                             <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery4.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="New Mockup" title="New Mockup" src="src/assets/img/gallery/Gallery4.jpg" />
+                                        <img class="effect-layla__img" alt="New Mockup" title="New Mockup" src="src/assets/img/gallery/Gallery4.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">New Mockup</h2>
                                         </figcaption>
@@ -362,7 +362,7 @@
                                 <a href="">
                                     <figure class="effect effect-layla">
                                         <img class="effect-layla__img" alt="Disposable Mockup" title="Disposable Mockup"
-                                            src="src/assets/img/gallery/Gallery5.jpg" />
+                                            src="src/assets/img/gallery/Gallery5.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">Disposable Mockup</h2>
                                         </figcaption>
@@ -374,7 +374,7 @@
                             <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery6.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Best Mockup" title-"Best Mockup" src="src/assets/img/gallery/Gallery6.jpg" />
+                                        <img class="effect-layla__img" alt="Best Mockup" title-"Best Mockup" src="src/assets/img/gallery/Gallery6.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">Best Mockup</h2>
                                         </figcaption>
@@ -388,7 +388,7 @@
                                 <a href="">
                                     <figure class="effect effect-layla">
                                         <img class="effect-layla__img" alt="New Mockup" title="New Mockup"
-                                            src="src/assets/img/gallery/Gallery7.jpg" />
+                                            src="src/assets/img/gallery/Gallery7.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">New Mockup</h2>
                                         </figcaption>
@@ -402,7 +402,7 @@
                                 <a href="">
                                     <figure class="effect effect-layla">
                                         <img class="effect-layla__img" alt="Disposable Mockup" title="Disposable Mockup"
-                                            src="src/assets/img/gallery/Gallery8.jpg" />
+                                            src="src/assets/img/gallery/Gallery8.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">Disposable Mockup</h2>
                                         </figcaption>
@@ -416,7 +416,7 @@
                                 <a href="">
                                     <figure class="effect effect-layla">
                                         <img class="effect-layla__img" alt="Best Mockup" title="Best Mockup"
-                                            src="src/assets/img/gallery/Gallery9.jpg" />
+                                            src="src/assets/img/gallery/Gallery9.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
                                             <h2 class="effect-layla__title">Best Mockup</h2>
                                         </figcaption>
