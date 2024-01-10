@@ -44,7 +44,7 @@
 
             <ul class="meta">
                 <li><strong>Author:</strong> <a href="https://themeforest.net/user/alissio" target="_blank">Alissio</a></li>
-                <li><strong>Live Preview:</strong> <a href="https://rafoz-farzo.herokuapp.com/">View Demo</a></li>
+                <li><strong>Live Preview:</strong> <a href="https://meek-pegasus-08eed8.netlify.app/">View Demo</a></li>
                 <li><strong>Support:</strong> <a href="mailto:elvinmammadoff@gmail.com">Ask a Question</a></li>
             </ul>
 
@@ -382,6 +382,11 @@
                 <p>We’re always improving our skills and knowledge so we’re making changes regularly. From bug fixes to new awesome features, updates generally come at least twice a month.<p>
 
                 <pre>
+
+  V. 1.2.3 – 10.01.2024
+  - New: Home version 2 added
+  - Added: Sticky header problem
+  - Tweak: Improved Documentation
 
   V. 1.1.2 – 10.04.2021
   - Added: Yandex Map API
