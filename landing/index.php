@@ -56,20 +56,20 @@
         <div class="row">
             <div class="col-sm-6 col-md-6 col-lg-6">
                 <div class="demo">
-                    <a href="https://meek-pegasus-08eed8.netlify.app/" class="demo-item">
+                    <a href="https://rafozfarzo.netlify.app/" class="demo-item">
                         <div class="demo-inner page-1"></div>
                     </a>
                     <h4 class="demo-title">Home Version 1</h4>
-                    <a href="https://meek-pegasus-08eed8.netlify.app/" class="button">View Page</a>
+                    <a href="https://rafozfarzo.netlify.app/" class="button">View Page</a>
                 </div>
             </div>
             <div class="col-sm-6 col-md-6 col-lg-6">
                 <div class="demo">
-                    <a href="https://meek-pegasus-08eed8.netlify.app/home-v2" class="demo-item">
+                    <a href="https://rafozfarzo.netlify.app/home-v2" class="demo-item">
                         <div class="demo-inner page-2"></div>
                     </a>
                     <h4 class="demo-title">Home Version 2</h4>
-                    <a href="https://meek-pegasus-08eed8.netlify.app/home-v2" class="button">View Page</a>
+                    <a href="https://rafozfarzo.netlify.app/home-v2" class="button">View Page</a>
                 </div>
             </div>
         </div>
