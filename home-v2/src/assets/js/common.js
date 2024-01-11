@@ -78,6 +78,10 @@
 			1600 : {
 				items: 1,
 				stagePadding: 500,
+			},
+			2000 : {
+				items: 2,
+				stagePadding: 500,
 			}
 		}
 	})	
