@@ -1,0 +1,185 @@
+{
+  "Slider": [
+    {
+      "title":  "Wedding",
+      "img": "img/slider/slider1.jpg"
+    },
+    {
+      "title":  "Marco",
+      "img": "img/slider/slider2.jpg"
+    },
+    {
+      "title":  "Summer",
+      "img": "img/slider/slider3.jpg"
+    },
+    {
+      "title":  "Marco",
+      "img": "img/slider/slider2.jpg"
+    },
+    {
+      "title":  "Summer",
+      "img": "img/slider/slider3.jpg"
+    }
+  ],
+  "Footer": [
+    {
+      "icon": "fa fa-facebook-square",
+      "title": "facebook",
+      "url": "https://www.facebook.com/"
+    },
+    {
+      "icon": "fa fa-google-plus-g",
+      "title": "google-plus",
+      "url": "https://www.google.com/"
+    },
+    {
+      "icon": "fa fa-flickr",
+      "title": "flickr",
+      "url": "https://www.flickr.com/"
+    },
+    {
+      "icon": "fa fa-instagram",
+      "title": "instagram",
+      "url": "https://www.instagram.com/"
+    },
+    {
+      "icon": "fa fa-pinterest",
+      "title": "pinterest",
+      "url": "https://www.pinterest.com/"
+    }
+  ],
+  "About": {
+    "title": "Lorem Ipsum",
+    "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry's standard dummy text ever since.",
+    "date": "January 4, 2024",
+    "author": "Rafig",
+    "Progressbar": [
+      {
+        "title": "Photoshop",
+        "percentage": "90"
+      },
+      {
+        "title": "Design",
+        "percentage": "70"
+      },
+      {
+        "title": "Coloring",
+        "percentage": "50"
+      },
+      {
+        "title": "Printing",
+        "percentage": "40"
+      }
+    ]
+  },
+  "Gallery": {
+    "Filter": ["All", "Fashion", "LifeStyle", "Nature", "Love Story", "Portraits"],
+    "List": [
+      {
+        "title": "Street Photography",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Beauty Female",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Pretty Nature",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Lemon Poppy Seed Blondy",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Magic Shine",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Fashion Girl",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+        "title": "Outdoor Basketball",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+        "title": "Healthy LifeStyle",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+        "title": "Christmas Lights",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+      }
+    ]
+  },
+  "Blog": [
+    {
+      "image": "img/portfolio/09-large.jpg",
+      "title": "Lorem ipsum",
+      "date": "January 4, 2024",
+      "author": "Rafig",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry's standard dummy text ever since."
+    },
+    {
+      "image": "img/portfolio/09-large.jpg",
+      "title": "Lorem ipsum",
+      "date": "January 4, 2024",
+      "author": "Rafig",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry's standard dummy text ever since."
+    },
+    {
+      "image": "img/portfolio/09-large.jpg",
+      "title": "Lorem ipsum",
+      "date": "January 4, 2024",
+      "author": "Rafig",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry's standard dummy text ever since."
+    },
+    {
+      "image": "img/portfolio/09-large.jpg",
+      "title": "Lorem ipsum",
+      "date": "January 4, 2024",
+      "author": "Rafig",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry's standard dummy text ever since."
+    }
+  ],
+  "BlogSingle": {
+    "image": "img/portfolio/09-large.jpg",
+    "title": "Lorem ipsum",
+    "date": "January 4, 2024",
+    "author": "Rafig",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry's standard dummy text ever since.",
+    "tags": ["wedding", "nature", "sunset", "sky"],
+    "social": ["fa fa-facebook-f", "fa fa-twitter", "fa fa-pinterest-p"],
+    "Form": {
+      "input1": "name",
+      "input2": "email",
+      "input4": "your comment",
+      "submit": "send message"
+    }
+  },
+  "Contact": {
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "address": "4321 California St, San Francisco, CA 12345",
+    "icon1": "fa fa-mobile-alt",
+    "icon2": "fa fa-envelope",
+    "icon3": "fa fa-map",
+    "Form": {
+      "input1": "name",
+      "input2": "email",
+      "input3": "subject",
+      "input4": "message",
+      "submit": "send"
+    }
+  }
+}
