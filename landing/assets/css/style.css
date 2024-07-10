@@ -235,10 +235,13 @@ a:focus {
     margin-bottom: 20px;
 }
 .demo-inner.page-1 {
-    background-image: url('https://s3.envato.com/files/480390571/Preview/02_Home%20v1.jpg');
+    background-image: url('../img/preview/Home-v1.jpg');
 }
 .demo-inner.page-2 {
-    background-image: url('https://s3.envato.com/files/480390571/Preview/02_Home%20v2.jpg');
+    background-image: url('../img/preview/Home-v2.jpg');
+}
+.demo-inner.page-3 {
+    background-image: url('../img/preview/Home-v3.jpg');
 }
 .demo-title {
     font-size: 26px;

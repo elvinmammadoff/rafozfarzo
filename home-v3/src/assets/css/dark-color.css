@@ -34,29 +34,29 @@ input, button, select, textarea{
   color: rgba(16, 15, 15, 0.5);
 }
 
-.photoghor-form-inner .photoghor-form-input input::-webkit-input-placeholder, 
-.photoghor-form-inner .photoghor-form-input textarea::-webkit-input-placeholder, 
-.photoghor-form-inner .photoghor-form-input select::-webkit-input-placeholder{
+.rafozfarzo-form-inner .rafozfarzo-form-input input::-webkit-input-placeholder, 
+.rafozfarzo-form-inner .rafozfarzo-form-input textarea::-webkit-input-placeholder, 
+.rafozfarzo-form-inner .rafozfarzo-form-input select::-webkit-input-placeholder{
   color: rgba(16, 15, 15, 0.5);
 }
-.photoghor-form-inner .photoghor-form-input input:-webkit-placeholder, 
-.photoghor-form-inner .photoghor-form-input textarea:-webkit-placeholder, 
-.photoghor-form-inner .photoghor-form-input select:-webkit-placeholder{
+.rafozfarzo-form-inner .rafozfarzo-form-input input:-webkit-placeholder, 
+.rafozfarzo-form-inner .rafozfarzo-form-input textarea:-webkit-placeholder, 
+.rafozfarzo-form-inner .rafozfarzo-form-input select:-webkit-placeholder{
   color: rgba(16, 15, 15, 0.5);
 }
-.photoghor-form-inner .photoghor-form-input input:-moz-placeholder, 
-.photoghor-form-inner .photoghor-form-input textarea:-moz-placeholder, 
-.photoghor-form-inner .photoghor-form-input select:-moz-placeholder{
+.rafozfarzo-form-inner .rafozfarzo-form-input input:-moz-placeholder, 
+.rafozfarzo-form-inner .rafozfarzo-form-input textarea:-moz-placeholder, 
+.rafozfarzo-form-inner .rafozfarzo-form-input select:-moz-placeholder{
   color: rgba(16, 15, 15, 0.5);
 }
-.photoghor-form-inner .photoghor-form-input input::-moz-placeholder, 
-.photoghor-form-inner .photoghor-form-input textarea::-moz-placeholder, 
-.photoghor-form-inner .photoghor-form-input select::-moz-placeholder{
+.rafozfarzo-form-inner .rafozfarzo-form-input input::-moz-placeholder, 
+.rafozfarzo-form-inner .rafozfarzo-form-input textarea::-moz-placeholder, 
+.rafozfarzo-form-inner .rafozfarzo-form-input select::-moz-placeholder{
   color: rgba(16, 15, 15, 0.5);
 }
-.photoghor-form-inner .photoghor-form-input input:-ms-input-placeholder, 
-.photoghor-form-inner .photoghor-form-input textarea:-ms-input-placeholder, 
-.photoghor-form-inner .photoghor-form-input select:-ms-input-placeholder{
+.rafozfarzo-form-inner .rafozfarzo-form-input input:-ms-input-placeholder, 
+.rafozfarzo-form-inner .rafozfarzo-form-input textarea:-ms-input-placeholder, 
+.rafozfarzo-form-inner .rafozfarzo-form-input select:-ms-input-placeholder{
   color: rgba(16, 15, 15, 0.5);
 }
 

@@ -1,0 +1,330 @@
+<div class="user-html user-html__with-lazy-load"><p><a href="https://rafozfarzo.netlify.app/src/documentation/" rel="nofollow"><img src="https://camo.envatousercontent.com/2bd8063c161d20a5e0e1eeb8779187efc18a027a/68747470733a2f2f63616d6f2e656e7661746f75736572636f6e74656e742e636f6d2f373465383238386462613533666465643166313434303235383530623231643735663631363539372f3638373437343730373333613266326636333631366436663265363536653736363137343666373537333635373236333666366537343635366537343265363336663664326636353633333636333331333633383331333836353636333236323336333936343334333233393332333633353336363533343338333633393332333333323338363633303332363233383333333736323266333633383337333433373334333733303337333333333631333236363332363633363339333236353337333033363636333733333337333433363339333636343336333733323635333633333336333333323636333533393333333933363334333633373334333733373336333333383337333733323636333636363336363533363633333633393336363533363335333236343336333433363636333633333337333533363634333633353336363533373334333633313337333433363339333636363336363533323635333636313337333033363337" alt="Rafoz Farzo - Online Documentation"></a>
+                <a href="https://themeforest.net/item/rafoz-photography-html-template/22656827/support/contact"><img src="https://camo.envatousercontent.com/96e9d47372ae67b6092df3ee3091d59e616a4f62/68747470733a2f2f63616d6f2e656e7661746f75736572636f6e74656e742e636f6d2f616439623239636462643633363535636233323138626164643163616331333231623433643136332f36383734373437303733336132663266363336313664366632653635366537363631373436663735373336353732363336663665373436353665373432653633366636643266333133303330333333323336333233393339363433343636333436313631333433373631363633373332333036313331333433303338333336363635333336353336333033343632363533323631333432663336333833373334333733343337333033373333333336313332363633323636333633393332363533373330333636363337333333373334333633393336363433363337333236353336333333363333333236363334363133363635333436353333333633333339333333353333333133333335333236363337333433363335333636343337333033363633333633313337333433363335333236343337333333373335333733303337333033363636333733323337333433323635333636313337333033363337" alt="Rafoz Farzo - Template Support"></a></p>          
+
+<h3 id="item-description__rafoz-farzo">Rafoz Farzo</h3>
+
+    <p>Rafoz Farzo is the <strong>best</strong> photography template <strong>on the market</strong> to help photographers, bloggers. </p>
+
+    <p>Rafoz Farzo was built with awesome <strong>Twitter Bootstrap 4</strong> and it features huge number of cool HTML5 pages. <strong>Beautiful design</strong> will help make your site better. Customization allows to <strong>customize</strong> any element of the website under you. We’ve done absolutely <strong>clean code</strong> for you.</p>
+
+    <p>Since the template is <strong>responsive</strong>, the layout will adapt to <strong>different screen sizes</strong> which will make your website compatible with <strong>any device</strong> such as smart phones, tablets and desktop computers.</p>
+
+            <h3 id="item-description__why-choose-butazzo-pizza">Overview</h3>
+
+            <p>
+<strong>Fully Responsive</strong><br>
+                    Maximize the visibility of your website by making it fully responsive and compatible with all kinds of devices and resolutions.
+                </p>
+                <p>
+                    <strong>Semantic</strong><br>
+                    Maximum readable, well-structured and reusable HTML code structure, with clear, descriptive data for the contents.</p>
+                <p>
+                    <strong>Performance</strong><br>
+                    Achieve a one-of-a-kind website performance with a boosted loading speed and the removal of any bootlenecks.</p><p>
+                    <strong>Well-written Code</strong><br>SEO-ready HTML5 files featuring well-written code, commented to make the editing much easier.</p><p>
+                    <strong>SEO-Friendly Content</strong><br>Coded carefully to be SEO-optimized in order to rank your site higher in search engines for high traffic.</p>
+
+<p><strong>Cross Browser Compatible</strong><br>
+Although there are only a couple of browsers that dominate the market, we had to make sure our theme runs properly on all of them.</p><p>
+                    <strong>Top-Notch Support &amp; Free Updates</strong><br>Best possible solutions to faced issues regarding included features within 24 hours on weekdays.</p><p>
+                    <strong>Clean and Professional Design</strong><br>Rafoz Farzo has a clean and professional design which will be a great solution for your business.</p><p>
+                    <strong>Retina-Ready graphics</strong><br>Since Brailie is retina-ready your website will look stunning on retina devices. You will just upload the HD versions of your images and Brailie will take care of the rest.</p>
+
+     
+
+<h3 id="item-description__3rd-party-libraries-used">3rd Party Libraries used:</h3>
+<ul>
+<li>jQuery v3.3.1 – <a href="https://jquery.com" rel="nofollow">jQuery v3.3.1</a>
+</li>
+<li>Bootstrap v4.0.0 – <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" rel="nofollow">Bootstrap v4.0.0</a>
+</li>
+<li>Owl Carousel v2.3.4 – <a href="https://owlcarousel2.github.io/OwlCarousel2/" rel="nofollow">Owl Carousel v2.3.4</a>
+</li>
+<li>lightgallery v1.6.11 – <a href="https://sachinchoolur.github.io/lightGallery/" rel="nofollow">Light Gallery v1.6.11</a>
+</li>
+<li>Isotope v3.0.6 – <a href="https://isotope.metafizzy.co/layout-modes.html" rel="nofollow">Isotope Layout v3.0.6</a>
+</li>
+<li>imagesLoaded v4.1.4 – <a href="https://imagesloaded.desandro.com/" rel="nofollow">imagesLoaded v4.1.4</a>
+</li>
+</ul>
+
+<h3 id="item-description__other-features">Other Features</h3>
+
+<ul>
+    <li>Based on Bootstrap 4</li>
+    <li>Fully Responsive</li>
+<li>Unique, Clean and Modern design</li>
+<li>Blog page and Blog single</li>
+    <li>Fixed Header</li>
+<li>Amazing Hamburger Menu</li>
+<li>Valid HTML5 – CSS3 files</li>
+    <li>Fast Page Load</li>
+    <li>Code Easy to Customize</li>
+<li>Mobile and Tablet optimized</li>
+<li>W3C HTML valid code</li>
+
+    <li>Cross Browsers Support</li>
+<li>SEO Optimized</li>
+    <li>Full width layouts</li>
+<li>Retina ready</li>
+<li>Styled Google Maps</li>
+<li>Google Fonts</li>
+    <li>SVG Icons</li>
+    <li>Better Support (response within 24 hours)</li>
+    <li>Free Regular Updates</li>
+    <li>Well, Extensive Documentation</li>
+</ul>
+
+<h3 id="item-description__files-included">Files Included</h3>
+
+<ul>
+    <li>HTML File</li>
+    <li>Supporting CSS Files</li>
+    <li>Supporting SCSS Files</li>
+<li>Supporting JS Files</li>
+
+    <li>Fonts in eot, svg, woff and ttf</li>
+    <li>Images in PNG, GIF, SVG and JPG</li>
+    <li>Image folder included files: 
+        <ul>
+            <li>LightGallery plugin images (lightgallery folder)</li>
+            <li>Favicon images (favicon folder)</li>
+            <li>Logo</li>
+
+        </ul>
+    </li>
+    <li>Documentation in HTML</li>
+</ul>
+
+<h3 id="item-description__icons">Icons:</h3>
+<ul>
+<li>Font Awesome – <a href="http://fontawesome.io/" rel="nofollow">Font Awesome</a>
+</li>
+</ul>
+<h3 id="item-description__fonts-used">Fonts used:</h3>
+<ul>
+<li>Montserrat – <a href="https://fonts.google.com/specimen/Montserrat" rel="nofollow">Montserrat</a>
+</li>
+<li>Roboto – <a href="https://fonts.google.com/specimen/Roboto" rel="nofollow">Roboto</a>
+</li>
+</ul>
+<h3 id="item-description__images">Images:</h3>
+<ul>
+<li>Photodune – <a href="https://photodune.net">Photodune</a>
+</li>
+<li>Unsplash – <a href="https://unsplash.com" rel="nofollow">Unsplash</a>
+</li>
+<li>Pixabay – <a href="https://pixabay.com" rel="nofollow">Pixabay</a>
+</li>
+<li>Freepik – <a href="https://www.freepik.com" rel="nofollow">Freepik</a>
+</li>
+</ul>
+<h3 id="item-description__documentation">Documentation</h3>
+<a href="https://rafozfarzo.netlify.app/src/documentation/" rel="nofollow">Check the docs here</a>
+<h3 id="item-description__sources-and-credits">Sources and Credits</h3>
+<p><strong> PLEASE NOTE: Any media — Images and used in the preview are not included in Template you dowload. Images are only for demo purpose. Used images are replaced with placeholder. But included documentation file for full instruction. <br><br>Also, keep in mind that is purely an HTML/CSS template and not an WordPress theme. </strong></p><h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated. Please don’t forget RATE for us.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
+</p><p>We are grateful to you.
+</p><p><strong>– Alissio –</strong></p>
+
+<h3 id="item-description__change-log">Change Log:</h3>
+
+<p>V. 1.3.3 – 10.07.2024</p>
+<pre>- New: Home version 3 added
+ - Tweak: Improved Documentation
+</pre>
+
+<p>V. 1.2.3 – 10.01.2024</p>
+<pre>- New: Home version 2 added
+ - Fix: Sticky header problem
+ - Tweak: Improved Documentation
+</pre>
+<p>V. 1.1.2 – 10.04.2021</p>
+<pre>- Added: Yandex Map API
+ - Tweak: Improved Documentation
+</pre>
+
+<p>V. 1.0.2 – 2.09.2018</p>
+<pre>- Fix: Burger mobile menu UI changes
+ - Tweak: Improved Documentation
+</pre>
+
+<p>V. 1.0.1 – 21.07.2018</p>
+<pre>- Fix: Owl Slider responsive view problems
+ - Tweak: Improved Documentation
+</pre>
+
+<p>V. 1.0.0 – 20.06.2018</p>
+<pre>- Initial release
+</pre>
+<p>If you love our product, Don’t forget to rate it 5 stars 
+
+    </p>
+<div class="user-html user-html__with-lazy-load"><p><a href="https://rafozfarzo.netlify.app/src/documentation/" rel="nofollow"><img src="https://camo.envatousercontent.com/2bd8063c161d20a5e0e1eeb8779187efc18a027a/68747470733a2f2f63616d6f2e656e7661746f75736572636f6e74656e742e636f6d2f373465383238386462613533666465643166313434303235383530623231643735663631363539372f3638373437343730373333613266326636333631366436663265363536653736363137343666373537333635373236333666366537343635366537343265363336663664326636353633333636333331333633383331333836353636333236323336333936343334333233393332333633353336363533343338333633393332333333323338363633303332363233383333333736323266333633383337333433373334333733303337333333333631333236363332363633363339333236353337333033363636333733333337333433363339333636343336333733323635333633333336333333323636333533393333333933363334333633373334333733373336333333383337333733323636333636363336363533363633333633393336363533363335333236343336333433363636333633333337333533363634333633353336363533373334333633313337333433363339333636363336363533323635333636313337333033363337" alt="Rafoz Farzo - Online Documentation"></a>
+                <a href="https://themeforest.net/item/rafoz-photography-html-template/22656827/support/contact"><img src="https://camo.envatousercontent.com/96e9d47372ae67b6092df3ee3091d59e616a4f62/68747470733a2f2f63616d6f2e656e7661746f75736572636f6e74656e742e636f6d2f616439623239636462643633363535636233323138626164643163616331333231623433643136332f36383734373437303733336132663266363336313664366632653635366537363631373436663735373336353732363336663665373436353665373432653633366636643266333133303330333333323336333233393339363433343636333436313631333433373631363633373332333036313331333433303338333336363635333336353336333033343632363533323631333432663336333833373334333733343337333033373333333336313332363633323636333633393332363533373330333636363337333333373334333633393336363433363337333236353336333333363333333236363334363133363635333436353333333633333339333333353333333133333335333236363337333433363335333636343337333033363633333633313337333433363335333236343337333333373335333733303337333033363636333733323337333433323635333636313337333033363337" alt="Rafoz Farzo - Template Support"></a></p>          
+
+<h3 id="item-description__rafoz-farzo">Rafoz Farzo</h3>
+
+    <p>Rafoz Farzo is the <strong>best</strong> photography template <strong>on the market</strong> to help photographers, bloggers. </p>
+
+    <p>Rafoz Farzo was built with awesome <strong>Twitter Bootstrap 4</strong> and it features huge number of cool HTML5 pages. <strong>Beautiful design</strong> will help make your site better. Customization allows to <strong>customize</strong> any element of the website under you. We’ve done absolutely <strong>clean code</strong> for you.</p>
+
+    <p>Since the template is <strong>responsive</strong>, the layout will adapt to <strong>different screen sizes</strong> which will make your website compatible with <strong>any device</strong> such as smart phones, tablets and desktop computers.</p>
+
+            <h3 id="item-description__why-choose-butazzo-pizza">Overview</h3>
+
+            <p>
+<strong>Fully Responsive</strong><br>
+                    Maximize the visibility of your website by making it fully responsive and compatible with all kinds of devices and resolutions.
+                </p>
+                <p>
+                    <strong>Semantic</strong><br>
+                    Maximum readable, well-structured and reusable HTML code structure, with clear, descriptive data for the contents.</p>
+                <p>
+                    <strong>Performance</strong><br>
+                    Achieve a one-of-a-kind website performance with a boosted loading speed and the removal of any bootlenecks.</p><p>
+                    <strong>Well-written Code</strong><br>SEO-ready HTML5 files featuring well-written code, commented to make the editing much easier.</p><p>
+                    <strong>SEO-Friendly Content</strong><br>Coded carefully to be SEO-optimized in order to rank your site higher in search engines for high traffic.</p>
+
+<p><strong>Cross Browser Compatible</strong><br>
+Although there are only a couple of browsers that dominate the market, we had to make sure our theme runs properly on all of them.</p><p>
+                    <strong>Top-Notch Support &amp; Free Updates</strong><br>Best possible solutions to faced issues regarding included features within 24 hours on weekdays.</p><p>
+                    <strong>Clean and Professional Design</strong><br>Rafoz Farzo has a clean and professional design which will be a great solution for your business.</p><p>
+                    <strong>Retina-Ready graphics</strong><br>Since Brailie is retina-ready your website will look stunning on retina devices. You will just upload the HD versions of your images and Brailie will take care of the rest.</p>
+
+     
+
+<h3 id="item-description__3rd-party-libraries-used">3rd Party Libraries used:</h3>
+<ul>
+<li>jQuery v3.3.1 – <a href="https://jquery.com" rel="nofollow">jQuery v3.3.1</a>
+</li>
+<li>Bootstrap v4.0.0 – <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" rel="nofollow">Bootstrap v4.0.0</a>
+</li>
+<li>Owl Carousel v2.3.4 – <a href="https://owlcarousel2.github.io/OwlCarousel2/" rel="nofollow">Owl Carousel v2.3.4</a>
+</li>
+<li>lightgallery v1.6.11 – <a href="https://sachinchoolur.github.io/lightGallery/" rel="nofollow">Light Gallery v1.6.11</a>
+</li>
+<li>Isotope v3.0.6 – <a href="https://isotope.metafizzy.co/layout-modes.html" rel="nofollow">Isotope Layout v3.0.6</a>
+</li>
+<li>imagesLoaded v4.1.4 – <a href="https://imagesloaded.desandro.com/" rel="nofollow">imagesLoaded v4.1.4</a>
+</li>
+</ul>
+
+<h3 id="item-description__other-features">Other Features</h3>
+
+<ul>
+    <li>Based on Bootstrap 4</li>
+    <li>Fully Responsive</li>
+<li>Unique, Clean and Modern design</li>
+<li>Blog page and Blog single</li>
+    <li>Fixed Header</li>
+<li>Amazing Hamburger Menu</li>
+<li>Valid HTML5 – CSS3 files</li>
+    <li>Fast Page Load</li>
+    <li>Code Easy to Customize</li>
+<li>Mobile and Tablet optimized</li>
+<li>W3C HTML valid code</li>
+
+    <li>Cross Browsers Support</li>
+<li>SEO Optimized</li>
+    <li>Full width layouts</li>
+<li>Retina ready</li>
+<li>Styled Google Maps</li>
+<li>Google Fonts</li>
+    <li>SVG Icons</li>
+    <li>Better Support (response within 24 hours)</li>
+    <li>Free Regular Updates</li>
+    <li>Well, Extensive Documentation</li>
+</ul>
+
+<h3 id="item-description__files-included">Files Included</h3>
+
+<ul>
+    <li>HTML File</li>
+    <li>Supporting CSS Files</li>
+    <li>Supporting SCSS Files</li>
+<li>Supporting JS Files</li>
+
+    <li>Fonts in eot, svg, woff and ttf</li>
+    <li>Images in PNG, GIF, SVG and JPG</li>
+    <li>Image folder included files: 
+        <ul>
+            <li>LightGallery plugin images (lightgallery folder)</li>
+            <li>Favicon images (favicon folder)</li>
+            <li>Logo</li>
+
+        </ul>
+    </li>
+    <li>Documentation in HTML</li>
+</ul>
+
+<h3 id="item-description__icons">Icons:</h3>
+<ul>
+<li>Font Awesome – <a href="http://fontawesome.io/" rel="nofollow">Font Awesome</a>
+</li>
+</ul>
+<h3 id="item-description__fonts-used">Fonts used:</h3>
+<ul>
+<li>Montserrat – <a href="https://fonts.google.com/specimen/Montserrat" rel="nofollow">Montserrat</a>
+</li>
+<li>Roboto – <a href="https://fonts.google.com/specimen/Roboto" rel="nofollow">Roboto</a>
+</li>
+</ul>
+<h3 id="item-description__images">Images:</h3>
+<ul>
+<li>Photodune – <a href="https://photodune.net">Photodune</a>
+</li>
+<li>Unsplash – <a href="https://unsplash.com" rel="nofollow">Unsplash</a>
+</li>
+<li>Pixabay – <a href="https://pixabay.com" rel="nofollow">Pixabay</a>
+</li>
+<li>Freepik – <a href="https://www.freepik.com" rel="nofollow">Freepik</a>
+</li>
+</ul>
+<h3 id="item-description__documentation">Documentation</h3>
+<a href="https://rafozfarzo.netlify.app/src/documentation/" rel="nofollow">Check the docs here</a>
+<h3 id="item-description__sources-and-credits">Sources and Credits</h3>
+<p><strong> PLEASE NOTE: Any media — Images and used in the preview are not included in Template you dowload. Images are only for demo purpose. Used images are replaced with placeholder. But included documentation file for full instruction. <br><br>Also, keep in mind that is purely an HTML/CSS template and not an WordPress theme. </strong></p><h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated. Please don’t forget RATE for us.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
+</p><p>We are grateful to you.
+</p><p><strong>– Alissio –</strong></p>
+
+<h3 id="item-description__change-log">Change Log:</h3>
+
+<p>V. 1.3.3 – 10.07.2024</p>
+<pre>- New: Home version 3 added
+ - Tweak: Improved Documentation
+</pre>
+
+<p>V. 1.2.3 – 10.01.2024</p>
+<pre>- New: Home version 2 added
+ - Fix: Sticky header problem
+ - Tweak: Improved Documentation
+</pre>
+<p>V. 1.1.2 – 10.04.2021</p>
+<pre>- Added: Yandex Map API
+ - Tweak: Improved Documentation
+</pre>
+
+<p>V. 1.0.2 – 2.09.2018</p>
+<pre>- Fix: Burger mobile menu UI changes
+ - Tweak: Improved Documentation
+</pre>
+
+<p>V. 1.0.1 – 21.07.2018</p>
+<pre>- Fix: Owl Slider responsive view problems
+ - Tweak: Improved Documentation
+</pre>
+
+<p>V. 1.0.0 – 20.06.2018</p>
+<pre>- Initial release
+</pre>
+<p>If you love our product, Don’t forget to rate it 5 stars 
+
+    </p>
+<p><span data-src="https://camo.envatousercontent.com/5a64198bfb28640bd4bcdf350a545fe6d8621065/68747470733a2f2f63616d6f2e656e7661746f75736572636f6e74656e742e636f6d2f376163386334323061306664666632626336613364336337613839383065393136643132633163372f363837343734373037333361326632663633363136643666326536353665373636313734366637353733363537323633366636653734363536653734326536333666366432663337363236333635333333383633333936323633333733323339333133313635333133353338333036363635333633343332333333373331363536313331333936333633333533363338333533333339326633363338333733343337333433373330333733333333363133323636333236363336363433363335333733343336333133363337333633313336363433363335333733323332363533363635333633353337333433363633333633393336333633373339333236353336333133373330333733303332363633363334333633353336363433363636333236363337333333373332333633333332363633363331333733333337333333363335333733343337333333323636333633393336363433363337333236363337333333373334333633313337333233323635333733303336363533363337" data-alt="star" class="lazy-load-img"></span>
+<span data-src="https://camo.envatousercontent.com/5a64198bfb28640bd4bcdf350a545fe6d8621065/68747470733a2f2f63616d6f2e656e7661746f75736572636f6e74656e742e636f6d2f376163386334323061306664666632626336613364336337613839383065393136643132633163372f363837343734373037333361326632663633363136643666326536353665373636313734366637353733363537323633366636653734363536653734326536333666366432663337363236333635333333383633333936323633333733323339333133313635333133353338333036363635333633343332333333373331363536313331333936333633333533363338333533333339326633363338333733343337333433373330333733333333363133323636333236363336363433363335333733343336333133363337333633313336363433363335333733323332363533363635333633353337333433363633333633393336333633373339333236353336333133373330333733303332363633363334333633353336363433363636333236363337333333373332333633333332363633363331333733333337333333363335333733343337333333323636333633393336363433363337333236363337333333373334333633313337333233323635333733303336363533363337" data-alt="star" class="lazy-load-img"></span>
+<span data-src="https://camo.envatousercontent.com/5a64198bfb28640bd4bcdf350a545fe6d8621065/68747470733a2f2f63616d6f2e656e7661746f75736572636f6e74656e742e636f6d2f376163386334323061306664666632626336613364336337613839383065393136643132633163372f363837343734373037333361326632663633363136643666326536353665373636313734366637353733363537323633366636653734363536653734326536333666366432663337363236333635333333383633333936323633333733323339333133313635333133353338333036363635333633343332333333373331363536313331333936333633333533363338333533333339326633363338333733343337333433373330333733333333363133323636333236363336363433363335333733343336333133363337333633313336363433363335333733323332363533363635333633353337333433363633333633393336333633373339333236353336333133373330333733303332363633363334333633353336363433363636333236363337333333373332333633333332363633363331333733333337333333363335333733343337333333323636333633393336363433363337333236363337333333373334333633313337333233323635333733303336363533363337" data-alt="star" class="lazy-load-img"></span>
+<span data-src="https://camo.envatousercontent.com/5a64198bfb28640bd4bcdf350a545fe6d8621065/68747470733a2f2f63616d6f2e656e7661746f75736572636f6e74656e742e636f6d2f376163386334323061306664666632626336613364336337613839383065393136643132633163372f363837343734373037333361326632663633363136643666326536353665373636313734366637353733363537323633366636653734363536653734326536333666366432663337363236333635333333383633333936323633333733323339333133313635333133353338333036363635333633343332333333373331363536313331333936333633333533363338333533333339326633363338333733343337333433373330333733333333363133323636333236363336363433363335333733343336333133363337333633313336363433363335333733323332363533363635333633353337333433363633333633393336333633373339333236353336333133373330333733303332363633363334333633353336363433363636333236363337333333373332333633333332363633363331333733333337333333363335333733343337333333323636333633393336363433363337333236363337333333373334333633313337333233323635333733303336363533363337" data-alt="star" class="lazy-load-img"></span><span data-src="https://camo.envatousercontent.com/5a64198bfb28640bd4bcdf350a545fe6d8621065/68747470733a2f2f63616d6f2e656e7661746f75736572636f6e74656e742e636f6d2f376163386334323061306664666632626336613364336337613839383065393136643132633163372f363837343734373037333361326632663633363136643666326536353665373636313734366637353733363537323633366636653734363536653734326536333666366432663337363236333635333333383633333936323633333733323339333133313635333133353338333036363635333633343332333333373331363536313331333936333633333533363338333533333339326633363338333733343337333433373330333733333333363133323636333236363336363433363335333733343336333133363337333633313336363433363335333733323332363533363635333633353337333433363633333633393336333633373339333236353336333133373330333733303332363633363334333633353336363433363636333236363337333333373332333633333332363633363331333733333337333333363335333733343337333333323636333633393336363433363337333236363337333333373334333633313337333233323635333733303336363533363337" data-alt="star" class="lazy-load-img"></span> 
+and let us know your feedback for a better update. Thank you
+<span data-src="https://camo.envatousercontent.com/fbb8000cc6e1a476efe0048fab9925a3261f421f/68747470733a2f2f63616d6f2e656e7661746f75736572636f6e74656e742e636f6d2f663061343566643437386135653932663664333237396365383634353930333634656433643331342f36383734373437303733336132663266363336313664366632653635366537363631373436663735373336353732363336663665373436353665373432653633366636643266333033303335333236343636363336343636333133373636363633343631333236363336363333383339363636333337363536323339363133353334333933343332333736363632363333363636333232663336333833373334333733343337333033373333333336313332363633323636333636343336333533373334333633313336333733363331333636343336333533373332333236353336363533363335333733343336363333363339333633363337333933323635333633313337333033373330333236363336333433363335333636343336363633323636333733333337333233363333333236363336333133373333333733333336333533373334333733333332363633363339333636343336333733323636333633383336333133373330333733303337333933323635333733303336363533363337" data-alt="happy" class="lazy-load-img"></span>
+</p></div>
+</div>

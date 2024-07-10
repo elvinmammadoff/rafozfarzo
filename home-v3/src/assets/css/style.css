@@ -3309,7 +3309,7 @@ nav.main-navigation ul li:hover > ul {
 /**
  * Forms
  */
-.photoghor-form-inner {
+.rafozfarzo-form-inner {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -3319,7 +3319,7 @@ nav.main-navigation ul li:hover > ul {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
-.photoghor-form-inner .photoghor-form-input {
+.rafozfarzo-form-inner .rafozfarzo-form-input {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 100%;
           flex: 0 0 100%;
@@ -3327,16 +3327,16 @@ nav.main-navigation ul li:hover > ul {
   margin-top: 25px;
   overflow: hidden;
 }
-.photoghor-form-inner .photoghor-form-input.photoghor-form-input-half {
+.rafozfarzo-form-inner .rafozfarzo-form-input.rafozfarzo-form-input-half {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 calc(50% - 15px);
           flex: 0 0 calc(50% - 15px);
   width: calc(50% - 15px);
 }
-.photoghor-form-inner .photoghor-form-input textarea {
+.rafozfarzo-form-inner .rafozfarzo-form-input textarea {
   min-height: 150px;
 }
-.photoghor-form-inner .photoghor-form-input input, .photoghor-form-inner .photoghor-form-input textarea, .photoghor-form-inner .photoghor-form-input select {
+.rafozfarzo-form-inner .rafozfarzo-form-input input, .rafozfarzo-form-inner .rafozfarzo-form-input textarea, .rafozfarzo-form-inner .rafozfarzo-form-input select {
   font-family: "IBM Plex Sans", sans-serif;
   border: none;
   background: transparent;
@@ -3344,24 +3344,24 @@ nav.main-navigation ul li:hover > ul {
   border-bottom: 1px solid #d5d5d5;
   padding: 0;
 }
-.photoghor-form-inner .photoghor-form-input input:focus, .photoghor-form-inner .photoghor-form-input input:active, .photoghor-form-inner .photoghor-form-input textarea:focus, .photoghor-form-inner .photoghor-form-input textarea:active, .photoghor-form-inner .photoghor-form-input select:focus, .photoghor-form-inner .photoghor-form-input select:active {
+.rafozfarzo-form-inner .rafozfarzo-form-input input:focus, .rafozfarzo-form-inner .rafozfarzo-form-input input:active, .rafozfarzo-form-inner .rafozfarzo-form-input textarea:focus, .rafozfarzo-form-inner .rafozfarzo-form-input textarea:active, .rafozfarzo-form-inner .rafozfarzo-form-input select:focus, .rafozfarzo-form-inner .rafozfarzo-form-input select:active {
   border-bottom: 1px solid #fa325e;
 }
-.photoghor-form-inner .photoghor-form-input input:-webkit-autofill, .photoghor-form-inner .photoghor-form-input input:-webkit-autofill:hover, .photoghor-form-inner .photoghor-form-input input:-webkit-autofill:focus, .photoghor-form-inner .photoghor-form-input input:-webkit-autofill:active, .photoghor-form-inner .photoghor-form-input textarea:-webkit-autofill, .photoghor-form-inner .photoghor-form-input textarea:-webkit-autofill:hover, .photoghor-form-inner .photoghor-form-input textarea:-webkit-autofill:focus, .photoghor-form-inner .photoghor-form-input textarea:-webkit-autofill:active, .photoghor-form-inner .photoghor-form-input select:-webkit-autofill, .photoghor-form-inner .photoghor-form-input select:-webkit-autofill:hover, .photoghor-form-inner .photoghor-form-input select:-webkit-autofill:focus, .photoghor-form-inner .photoghor-form-input select:-webkit-autofill:active {
+.rafozfarzo-form-inner .rafozfarzo-form-input input:-webkit-autofill, .rafozfarzo-form-inner .rafozfarzo-form-input input:-webkit-autofill:hover, .rafozfarzo-form-inner .rafozfarzo-form-input input:-webkit-autofill:focus, .rafozfarzo-form-inner .rafozfarzo-form-input input:-webkit-autofill:active, .rafozfarzo-form-inner .rafozfarzo-form-input textarea:-webkit-autofill, .rafozfarzo-form-inner .rafozfarzo-form-input textarea:-webkit-autofill:hover, .rafozfarzo-form-inner .rafozfarzo-form-input textarea:-webkit-autofill:focus, .rafozfarzo-form-inner .rafozfarzo-form-input textarea:-webkit-autofill:active, .rafozfarzo-form-inner .rafozfarzo-form-input select:-webkit-autofill, .rafozfarzo-form-inner .rafozfarzo-form-input select:-webkit-autofill:hover, .rafozfarzo-form-inner .rafozfarzo-form-input select:-webkit-autofill:focus, .rafozfarzo-form-inner .rafozfarzo-form-input select:-webkit-autofill:active {
   -webkit-transition: background-color 5000s ease-in-out 0s;
   transition: background-color 5000s ease-in-out 0s;
 }
-.photoghor-form-inner .photoghor-form-input [type=submit] {
+.rafozfarzo-form-inner .rafozfarzo-form-input [type=submit] {
   margin-top: 15px;
 }
 
-.photoghor-form-boxed {
+.rafozfarzo-form-boxed {
   padding: 30px;
   border: 1px solid #dddddd;
 }
 
 @media only screen and (max-width: 767px) {
-  .photoghor-form-inner .photoghor-form-input.photoghor-form-input-half {
+  .rafozfarzo-form-inner .rafozfarzo-form-input.rafozfarzo-form-input-half {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 100%;
             flex: 0 0 100%;

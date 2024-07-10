@@ -1,6 +1,6 @@
 /*********************************************************************************
 
-	Template Name: Photoghor- Photography Portfolio Bootstrap 5 Template
+	Template Name: Rafoz Farzo - Photography Portfolio Bootstrap 5 Template
 	Description: A perfect template to build beautiful and unique photography/portfolio websites. It comes with nice and clean design.
 	Version: 1.0
 
