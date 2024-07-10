@@ -13,3 +13,11 @@
 	overflow-y: clip;
 }
 
+.portfolio-tabs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+	flex-wrap: wrap;
+	row-gap: 10px;
+}
+

@@ -59,6 +59,8 @@
 		autoplaySpeed: 5000,
 		arrows: false,
 		easing: 'ease-in-out',
+		focusOnSelect: true,
+  	pauseOnHover:false,
 		dots: true,
 		dotsClass: 'hero-pagination-dots',
 		appendDots: $('.hero-pagination')
@@ -70,7 +72,7 @@
 
 	/* Testimonial Slider Active */
 	$('.testimonial-slider').slick({
-		slidesToShow: 2,
+		slidesToShow: 3,
 		autoplay: true,
 		autoplaySpeed: 3000,
 		easing: 'ease-in-out',
