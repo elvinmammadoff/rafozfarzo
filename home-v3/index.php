@@ -28,11 +28,11 @@
 	<link rel="stylesheet" href="src/assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="src/assets/css/plugins.css">
 
+	<!-- Dark Color Css -->
+	<link rel="stylesheet" href="src/assets/css/dark-color.css">
+
 	<!-- Style Css -->
 	<link rel="stylesheet" href="src/assets/css/style.css">
-
-    <!-- Dark Color Css -->
-    <link rel="stylesheet" href="src/assets/css/dark-color.css">
 
 	<!-- Custom Styles -->
 	<link rel="stylesheet" href="src/assets/css/custom.css">
@@ -102,6 +102,9 @@
 								<div class="hero-slide-text">
 									<h1>Stay With Your <br>Dream & Passion</h1>
 									<p>Photography is about capturing <br> souls not smiles </p>
+                  <a href="" class="button">
+                    <span>Know More</span>
+                  </a>
 								</div>
 							</div>
 						</div>
@@ -113,6 +116,9 @@
 								<div class="hero-slide-text">
 									<h1>Stay With Your <br>Dream & Passion</h1>
 									<p>Photography is about capturing <br> souls not smiles </p>
+                  <a href="" class="button">
+                    <span>Know More</span>
+                  </a>
 								</div>
 							</div>
 						</div>
@@ -124,6 +130,9 @@
 								<div class="hero-slide-text">
 									<h1>Stay With Your <br>Dream & Passion</h1>
 									<p>Photography is about capturing <br> souls not smiles </p>
+                  <a href="" class="button">
+                    <span>Know More</span>
+                  </a>
 								</div>
 							</div>
 						</div>
@@ -133,22 +142,7 @@
 		
 					<div class="hero-area-outer">
 						<div class="container">
-							<div class="row">
-								<div class="col-lg-6 col-md-6 col-12">
-									<div class="social-icons">
-										<ul>
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-											<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-										</ul>
-									</div>
-								</div>
-								<div class="col-lg-6 col-md-6 col-12">
-									<div class="hero-pagination"></div>
-								</div>
-							</div>
+              <div class="hero-pagination"></div>
 						</div>
 					</div>
 		
@@ -159,10 +153,15 @@
 
 			<div class="section" data-anchor="second-section">
 				
-				<section id="about-area" class="cr-section about-area section-padding-xlg bg-image-4" data-black-overlay="9.5">
+				<section id="about-area" class="cr-section about-area section-padding-xlg bg-image-4" data-white-overlay="9.5">
 					<div class="container">
 						<div class="row align-items-start align-items-xl-center">
-							<div class="col-lg-6 col-12 order-2 order-lg-1">
+							<div class="col-lg-4 offset-lg-1 col-12 order-1">
+								<div class="about-image">
+									<img src="src/assets/img/about/about.jpg" alt="about image">
+								</div>
+							</div>
+							<div class="col-lg-6 offset-lg-1 col-12 order-2">
 								<div class="about-content textblock">
 									<h5>HELLO FRIENDS</h5>
 									<h2>I am John Doe, Photographer based in USA.</h2>
@@ -170,11 +169,6 @@
 									<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
 									<span class="vertical-bar"></span>
 									<a href="#about-area" class="readmore-button">KNOW MORE</a>
-								</div>
-							</div>
-							<div class="col-lg-6 col-12 order-1 order-lg-2">
-								<div class="about-image">
-									<img src="src/assets/img/about/about.jpg" alt="about image">
 								</div>
 							</div>
 						</div>
@@ -191,68 +185,68 @@
 						<div class="g-photo-topside">
 							<div class="g-photo-topside-single">
 								<div class="row align-items-end">
-									<div class="col-xl-7 col-lg-6 col-12">
+									<div class="col-xl-5 col-lg-6 col-12 order-last order-lg-1">
+										<div class="g-photo-content textblock">
+											<h5><a href="photo-gallery.html">PHOTOGRAPHY</a></h5>
+											<h2><a href="photo-details.html">Beautiful girl behind leaves</a></h2>
+											<span class="vertical-bar"></span>
+											<a href="photo-details.html" class="readmore-button">Image Details</a>
+										</div>
+									</div>
+									<div class="col-xl-7 col-lg-6 col-12 order-first order-lg-2">
 										<div class="g-photo-image">
 											<img src="src/assets/img/portfolio/portfolio-1.jpg" alt="portfolio image">
 										</div>
 									</div>
-									<div class="col-xl-5 col-lg-6 col-12">
-										<div class="g-photo-content textblock">
-											<h5><a href="photo-gallery.html">PHOTOGRAPHY</a></h5>
-											<h2><a href="photo-details.html">Dark weather in hulyan forest</a></h2>
-											<span class="vertical-bar"></span>
-											<a href="photo-details.html" class="readmore-button">Image Details</a>
-										</div>
-									</div>
 								</div>
 							</div>
 							<div class="g-photo-topside-single">
 								<div class="row align-items-end">
-									<div class="col-xl-7 col-lg-6 col-12">
+									<div class="col-xl-5 col-lg-6 col-12 order-last order-lg-1">
+										<div class="g-photo-content textblock">
+											<h5><a href="photo-gallery.html">PHOTOGRAPHY</a></h5>
+											<h2><a href="photo-details.html">Winter weather in hulyan forest</a></h2>
+											<span class="vertical-bar"></span>
+											<a href="photo-details.html" class="readmore-button">Image Details</a>
+										</div>
+									</div>
+									<div class="col-xl-7 col-lg-6 col-12 order-first order-lg-2">
 										<div class="g-photo-image">
 											<img src="src/assets/img/portfolio/portfolio-2.jpg" alt="portfolio image">
 										</div>
 									</div>
-									<div class="col-xl-5 col-lg-6 col-12">
-										<div class="g-photo-content textblock">
-											<h5><a href="photo-gallery.html">PHOTOGRAPHY</a></h5>
-											<h2><a href="photo-details.html">Beautiful girl sleeping on home</a></h2>
-											<span class="vertical-bar"></span>
-											<a href="photo-details.html" class="readmore-button">Image Details</a>
-										</div>
-									</div>
 								</div>
 							</div>
 							<div class="g-photo-topside-single">
 								<div class="row align-items-end">
-									<div class="col-xl-7 col-lg-6 col-12">
+									<div class="col-xl-5 col-lg-6 col-12 order-last order-lg-1">
+										<div class="g-photo-content textblock">
+											<h5><a href="photo-gallery.html">PHOTOGRAPHY</a></h5>
+											<h2><a href="photo-details.html">Awesome concert view with emotions</a></h2>
+											<span class="vertical-bar"></span>
+											<a href="photo-details.html" class="readmore-button">Image Details</a>
+										</div>
+									</div>
+									<div class="col-xl-7 col-lg-6 col-12 order-first order-lg-2">
 										<div class="g-photo-image">
 											<img src="src/assets/img/portfolio/portfolio-3.jpg" alt="portfolio image">
 										</div>
 									</div>
-									<div class="col-xl-5 col-lg-6 col-12">
-										<div class="g-photo-content textblock">
-											<h5><a href="photo-gallery.html">PHOTOGRAPHY</a></h5>
-											<h2><a href="photo-details.html">Awesome hair style with sunglass</a></h2>
-											<span class="vertical-bar"></span>
-											<a href="photo-details.html" class="readmore-button">Image Details</a>
-										</div>
-									</div>
 								</div>
 							</div>
 							<div class="g-photo-topside-single">
 								<div class="row align-items-end">
-									<div class="col-xl-7 col-lg-6 col-12">
-										<div class="g-photo-image">
-											<img src="src/assets/img/portfolio/portfolio-4.jpg" alt="portfolio image">
-										</div>
-									</div>
-									<div class="col-xl-5 col-lg-6 col-12">
+									<div class="col-xl-5 col-lg-6 col-12 order-last order-lg-1">
 										<div class="g-photo-content textblock">
 											<h5><a href="photo-gallery.html">PHOTOGRAPHY</a></h5>
-											<h2><a href="photo-details.html">Exclusive art with color & creative</a></h2>
+											<h2><a href="photo-details.html">Wedding tradition with color & creative</a></h2>
 											<span class="vertical-bar"></span>
 											<a href="photo-details.html" class="readmore-button">Image Details</a>
+										</div>
+									</div>
+									<div class="col-xl-7 col-lg-6 col-12 order-first order-lg-2">
+										<div class="g-photo-image">
+											<img src="src/assets/img/portfolio/portfolio-4.jpg" alt="portfolio image">
 										</div>
 									</div>
 								</div>
@@ -261,15 +255,7 @@
 
 						<div class="g-photo-bottomside">
 							<div class="row">
-								<div class="col-lg-6 order-2 order-lg-1">
-									<div class="g-photo-triggers">
-										<a href="photo-gallery.html" class="readmore-button">Full Gallery</a>
-										<span class="vertical-bar"></span>
-										<div class="g-photo-arrows"></div>
-										<div class="g-photo-pagination"></div>
-									</div>
-								</div>
-								<div class="col-lg-6 order-1 order-lg-2">
+								<div class="col-lg-6 order-1">
 									<div class="row g-photo-thumbs">
 										<div class="col-lg-12">
 											<img src="src/assets/img/portfolio/portfolio-1.jpg" alt="portfolio thumb">
@@ -285,6 +271,13 @@
 										</div>
 									</div>
 								</div>
+								<div class="col-lg-6 order-2">
+									<div class="g-photo-triggers">
+										<a href="photo-gallery.html" class="readmore-button">Full Gallery</a>
+										<span class="vertical-bar"></span>
+										<div class="g-photo-arrows"></div>
+									</div>
+								</div>
 							</div>
 						</div>
 
@@ -295,7 +288,7 @@
 
 			<div class="section" data-anchor="fourth-section">
 
-				<section id="testimonial-area" class="cr-section testimonial-area section-padding-xlg bg-image-5" data-black-overlay="9.5">
+				<section id="testimonial-area" class="cr-section testimonial-area section-padding-xlg bg-image-5" data-white-overlay="9.5">
 					<div class="container">
 						<div class="row">
 							<div class="col-xl-5 col-lg-6 col-md-8 col-12">
@@ -311,9 +304,9 @@
 							<div class="col-12">
 								<div class="testimonial text-center">
 									<span class="testimonial-image"><img src="src/assets/img/author/author-1.jpg" alt="author image"></span>
-									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
 									<h5>LUISE HANERIKA</h5>						
 									<h6>Fashion Designer</h6>
+									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
 									<span class="testimonial-border-topleft"></span>
 									<span class="testimonial-border-topright"></span>
 									<span class="testimonial-border-bottomleft"></span>
@@ -326,9 +319,9 @@
 							<div class="col-12">
 								<div class="testimonial text-center">
 									<span class="testimonial-image"><img src="src/assets/img/author/author-2.jpg" alt="author image"></span>
-									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
 									<h5>LUISE HANERIKA</h5>						
 									<h6>Fashion Designer</h6>
+									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
 									<span class="testimonial-border-topleft"></span>
 									<span class="testimonial-border-topright"></span>
 									<span class="testimonial-border-bottomleft"></span>
@@ -341,9 +334,39 @@
 							<div class="col-12">
 								<div class="testimonial text-center">
 									<span class="testimonial-image"><img src="src/assets/img/author/author-3.jpg" alt="author image"></span>
-									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
 									<h5>LUISE HANERIKA</h5>						
 									<h6>Fashion Designer</h6>
+									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
+									<span class="testimonial-border-topleft"></span>
+									<span class="testimonial-border-topright"></span>
+									<span class="testimonial-border-bottomleft"></span>
+									<span class="testimonial-border-bottomright"></span>
+								</div>
+							</div>
+							<!--// Single Testimonial -->
+
+							<!-- Single Testimonial -->
+							<div class="col-12">
+								<div class="testimonial text-center">
+									<span class="testimonial-image"><img src="src/assets/img/author/author-4.jpg" alt="author image"></span>
+									<h5>LUISE HANERIKA</h5>						
+									<h6>Fashion Designer</h6>
+									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
+									<span class="testimonial-border-topleft"></span>
+									<span class="testimonial-border-topright"></span>
+									<span class="testimonial-border-bottomleft"></span>
+									<span class="testimonial-border-bottomright"></span>
+								</div>
+							</div>
+							<!--// Single Testimonial -->
+
+							<!-- Single Testimonial -->
+							<div class="col-12">
+								<div class="testimonial text-center">
+									<span class="testimonial-image"><img src="src/assets/img/author/author-5.jpg" alt="author image"></span>
+									<h5>LUISE HANERIKA</h5>						
+									<h6>Fashion Designer</h6>
+									<p>It is a long established fact that a reader will be has a more-or-less normal distribution of letters, as anopposed formally not using.</p>
 									<span class="testimonial-border-topleft"></span>
 									<span class="testimonial-border-topright"></span>
 									<span class="testimonial-border-bottomleft"></span>
@@ -364,34 +387,6 @@
 				<section id="contact-area" class="cr-section contact-area section-padding-xlg bg-white">
 					<div class="container">
 						<div class="row justify-content-between">
-							<div class="col-xl-6 col-lg-6">
-								<div class="section-title">
-									<h2>Contact Form</h2>
-									<p>It is a long established fact that a reader will be distracted by the readable content of a page buildup</p>
-								</div>
-								<form action="mail.php" method="POST" id="contact-form" class="photoghor-form">
-									<div class="photoghor-form-inner">
-										<div class="photoghor-form-input photoghor-form-input-half">
-											<input type="text" name="name" placeholder="Name*" required>
-										</div>
-										<div class="photoghor-form-input photoghor-form-input-half">
-											<input type="email" name="email" placeholder="Email*" required>
-										</div>
-										<div class="photoghor-form-input">
-											<input type="text" name="subject" placeholder="Subject*" required>
-										</div>
-										<div class="photoghor-form-input">
-											<textarea name="message" cols="30" rows="5" placeholder="Message"></textarea>
-										</div>
-										<div class="photoghor-form-input">
-											<button type="submit" class="button" data-content="Submit">
-												<span>Submit</span>
-											</button>
-										</div>
-									</div>
-								</form>
-								<p class="form-message"></p>
-							</div>
 							<div class="col-xl-5 col-lg-6">
 								<div class="contact-info-wrapper">
 									<div class="section-title">
@@ -420,13 +415,41 @@
 									</div>
 								</div>
 							</div>
+							<div class="col-xl-6 col-lg-6">
+								<div class="section-title">
+									<h2>Contact Form</h2>
+									<p>It is a long established fact that a reader will be distracted by the readable content of a page buildup</p>
+								</div>
+								<form action="mail.php" method="POST" id="contact-form" class="rafozfarzo-form">
+									<div class="rafozfarzo-form-inner">
+										<div class="rafozfarzo-form-input rafozfarzo-form-input-half">
+											<input type="text" name="name" placeholder="Name*" required>
+										</div>
+										<div class="rafozfarzo-form-input rafozfarzo-form-input-half">
+											<input type="email" name="email" placeholder="Email*" required>
+										</div>
+										<div class="rafozfarzo-form-input">
+											<input type="text" name="subject" placeholder="Subject*" required>
+										</div>
+										<div class="rafozfarzo-form-input">
+											<textarea name="message" cols="30" rows="5" placeholder="Message"></textarea>
+										</div>
+										<div class="rafozfarzo-form-input">
+											<button type="submit" class="button" data-content="Submit">
+												<span>Submit</span>
+											</button>
+										</div>
+									</div>
+								</form>
+								<p class="form-message"></p>
+							</div>
 						</div>
 					</div>
 				</section>
 				<!--// Contact Area -->
 
 				<!-- Footer Area -->
-				<footer id="footer-area" class="footer-area section-padding-xs bg-dark">
+				<footer id="footer-area" class="footer-area section-padding-xs bg-white">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-6">

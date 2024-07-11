@@ -2691,7 +2691,7 @@ nav.main-navigation ul li:hover > ul {
   right: 4%;
   width: 10px;
   z-index: 9;
-  display: none;
+  display: none !important;
 }
 #fp-nav ul {
   padding-left: 0;
@@ -2923,10 +2923,11 @@ nav.main-navigation ul li:hover > ul {
     margin-top: 20px;
   }
   .g-photo-triggers .g-photo-arrows {
-    text-align: center;
+    text-align: right;
   }
-  .g-photo-triggers .g-photo-arrows button:last-child {
-    margin-right: 0;
+  .g-photo-triggers .g-photo-arrows button:last-child,
+  .testimonial-slider button[class*=testimonial-arrow]:last-child {
+    margin-right: 15px;
   }
   .g-photo-triggers .g-photo-pagination {
     text-align: right;
@@ -3382,7 +3383,7 @@ nav.main-navigation ul li:hover > ul {
   top: 0; 
   height: 100%;
   width: 100%;
-  border: 40px solid rgba(0, 0, 0, 0.5);
+  border: 5px solid rgba(0, 0, 0, 0.5);
   z-index: 1;
 }
 .about-image img {
@@ -3396,12 +3397,12 @@ nav.main-navigation ul li:hover > ul {
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .about-image::before {
-    border-width: 30px;
+    border-width: 10px;
   }
 }
 @media only screen and (max-width: 767px) {
   .about-image::before {
-    border-width: 30px;
+    border-width: 10px;
   }
 }
 
@@ -3452,7 +3453,7 @@ nav.main-navigation ul li:hover > ul {
  */
 .testimonial {
   background: #ffffff;
-  padding: 65px 90px;
+  padding: 65px 60px;
   -webkit-box-shadow: 0 5px 10px rgba(85, 85, 85, 0.2);
   box-shadow: 0 5px 10px rgba(85, 85, 85, 0.2);
   -webkit-transition: all 1s ease-out 0s;
@@ -3478,13 +3479,14 @@ nav.main-navigation ul li:hover > ul {
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.5px;
+  margin-bottom: 0;
 }
 .testimonial h5 {
   margin-bottom: 10px;
   font-weight: 600;
 }
 .testimonial h6 {
-  margin-bottom: 0;
+  margin-bottom: 15px;
 }
 .testimonial .testimonial-border-topleft, .testimonial .testimonial-border-topright, .testimonial .testimonial-border-bottomleft, .testimonial .testimonial-border-bottomright {
   position: absolute;
@@ -3667,6 +3669,17 @@ nav.main-navigation ul li:hover > ul {
   background: #fa325e;
   color: #ffffff;
   border-color: #fa325e;
+}
+.testimonial-slider .slick-current .testimonial-border-topleft::before, 
+.testimonial-slider .slick-current .testimonial-border-topleft::after, 
+.testimonial-slider .slick-current .testimonial-border-topright::before, 
+.testimonial-slider .slick-current .testimonial-border-topright::after, 
+.testimonial-slider .slick-current .testimonial-border-bottomleft::before, 
+.testimonial-slider .slick-current .testimonial-border-bottomleft::after, 
+.testimonial-slider .slick-current .testimonial-border-bottomright::before, 
+.testimonial-slider .slick-current .testimonial-border-bottomright::after {
+  -webkit-transform: scale3d(1, 1, 1);
+          transform: scale3d(1, 1, 1);
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .testimonial-slider {
