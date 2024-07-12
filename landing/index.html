@@ -50,7 +50,7 @@
     <div class="container section" id="pages">
         <div class="section-subject">
             <h5 class="section-category">Home Pages</h5>
-            <h2 class="section-title">3 Unique Home Pages</h2>
+            <h2 class="section-title">2 Unique Home Pages</h2>
             <p class="section-subtitle">We built each home page with a different style so that there is something for everyone.</p>
         </div>
         <div class="row">
@@ -72,7 +72,7 @@
                     <a href="https://rafozfarzo.netlify.app/home-v2" class="button">View Page</a>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-6 col-lg-6">
+            <!-- <div class="col-sm-6 col-md-6 col-lg-6">
                 <div class="demo">
                     <a href="https://rafozfarzo.netlify.app/home-v3" class="demo-item">
                         <div class="demo-inner page-3"></div>
@@ -80,7 +80,7 @@
                     <h4 class="demo-title">Home Version 3</h4>
                     <a href="https://rafozfarzo.netlify.app/home-v3" class="button">View Page</a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     <div class="copyright">
