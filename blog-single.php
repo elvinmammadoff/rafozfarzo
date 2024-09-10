@@ -289,40 +289,54 @@
                     <!-- Start .content__row -->
                     <div class="content__row row">
 
-                        <div class="col-sm-12 col-md-6">
-
-                            <!-- Start .image-line -->
-                            <div class="image-line image-line">
-                                <div class="image-line__extra">
-                                    <img src="src/assets/img/blog/Blog-inside.jpg" class="img-fluid image-line__image" alt="Blog"
-                                        title="Blog">
-                                </div>
-                            </div><!-- End /.image-line -->
-
-                        </div>
-
                         <!-- Start .content__padd -->
-                        <div class="col-sm-12 col-md-6 content__padd d-flex flex-wrap flex-column justify-content-between">
+                        <div class="col-sm-12 col-md-12 content__padd d-flex flex-wrap flex-column justify-content-between mt-5">
 
                             <!-- Start .content__margin -->
                             <div class="content__margin">
 
                                 <!-- Start .content__details -->
                                 <div class="content__details">
-                                    <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">Lorem
-                                            Ipsum</a></h3>
-                                    <div class="content__description">January 4, 2018 / Posted Rafig</div>
+                                    <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">Beginners guide to start your photography journey</a></h3>
+                                    <div class="content__description">Mar 28, 2024 / Posted by Marina Willams</div>
+
+                                    <!-- Start .image-line -->
+                                    <div class="image-line image-line mt-4">
+                                        <div class="image-line__extra">
+                                            <img src="src/assets/img/blog/Blog-inside.jpg" class="img-fluid image-line__image" alt="Blog"
+                                                title="Blog">
+                                        </div>
+                                    </div><!-- End /.image-line -->
+
                                     <p class="content__text">
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                        Lorem Ipsum has been the industry's standard dummy text ever since.
-                                        Lorem Ipsum has been the industry's standard dummy text ever since.
+                                        Rafoz Farzo Photography is a full-service photography compa providing wedding, newborn, fashion & portfolio photograpy. 
+                                        Our portfolio of completed work include highly acclaimed and award-winning projects for clients around the country & globally also.
+                                    </p>
+
+                                    <p class="content__text">
+                                        Photographers tend not to photograph what they can’t see, which is the very reason one should try to attempt it. 
+                                        Otherwise we’re going to go on forever just photographing more faces and more rooms and more places. 
+                                        Photography has to transcend description. 
+                                        It has to go beyond description to bring insight into the subject, or reveal the subject, not as it looks, but how does it feel. 
+                                        The camera would miss it all. There are no bad pictures; that's just how your face looks sometimes. 
+                                        A picture is a secret about a secrets, the more it tells you the less you know, and feel.
+                                    </p>
+
+                                    <p class="content__text">
+                                        Photography is a magical kind of art that allows people to preserve time and moments, and to describe the world the way they see it and loves.
+                                    </p>
+
+                                    <p class="content__text">
+                                        I am a professional photographer by trade and an amateur photographer by vocation. 
+                                        If only I had thought of a Kodak! 
+                                        I could have flashed that glimpse of the Under-world in a second, and examined for more best and nice photographers.
                                     </p>
                                 </div><!-- End /.content__details -->
 
                             </div><!-- End /.content__margin -->
 
                             <!-- Start .Blog-details__footer -->
-                            <div class="Blog-details__footer">
+                            <div class="Blog-details__footer mt-5">
                                 <div class="Blog-details-category">
 
                                     <!-- Start .Blog-details-category__icon -->

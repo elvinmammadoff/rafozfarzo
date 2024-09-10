@@ -8294,7 +8294,7 @@ figure {
 }
 
 .content__title {
-    font-size: 2.125rem;
+    font-size: 1.5rem;
     text-transform: uppercase;
     color: #102747;
     margin-bottom: 0
@@ -8323,7 +8323,7 @@ figure {
 }
 
 .Progressbar__item {
-    margin-top: 1.563rem
+    margin-top: 1.9rem
 }
 
 .Progressbar__header {
@@ -8438,14 +8438,14 @@ figure {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center
+    -webkit-box-align: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: flex-start;
+    align-items: flex-start;
+    -webkit-box-pack: end;
+    -webkit-justify-content: end;
+    -ms-flex-pack: end;
+    justify-content: end
 }
 
 .effect__img {
@@ -8514,7 +8514,10 @@ figure {
 }
 
 .effect-layla__caption {
-    padding: 2rem
+    padding: 2rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .effect-layla__caption:after,
@@ -8994,7 +8997,7 @@ figure {
 }
 
 .Slider__caption {
-    padding: 2rem;
+    padding: 4rem;
     color: #fff;
     font-size: 1.25rem;
     -webkit-backface-visibility: hidden;
@@ -9012,17 +9015,18 @@ figure {
     overflow: hidden;
     font-size: .8rem;
     color: #fff;
-    background-color: transparent;
+    background-color: #fe9f38;
+    border: 1px solid transparent;
     padding: .3rem .5rem;
     text-transform: uppercase;
     font-weight: 500;
     margin-top: .5rem;
-    border: .063rem solid #fe9f38
 }
 
 .Slider__button:hover {
     color: #fff;
-    background-color: #fe9f38;
+    border-color: #fe9f38;
+    background-color: transparent;
     -webkit-transform: translateY(.188rem);
     -ms-transform: translateY(.188rem);
     transform: translateY(.188rem);
@@ -9105,7 +9109,7 @@ figure {
     height: 15.625rem;
     width: 100%;
     position: relative;
-    background: url(../img/cover/Category-photo.jpg) no-repeat top center;
+    background: url('../img/cover/Category-photo.jpg') no-repeat top center;
     -webkit-background-size: cover;
     background-size: cover;
     margin: 0 0 2.5rem
@@ -9277,7 +9281,7 @@ figure {
 }
 
 .Blog-details__tag a:hover {
-    color: #06355f
+    color: #fe9f38
 }
 
 .Blog__comment {

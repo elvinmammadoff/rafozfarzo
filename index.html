@@ -282,7 +282,7 @@
                         <figure class="Slider__effect effect effect-prolly">
                             <img src="src/assets/img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Wedding</h2>
+                                <h2 class="Slider__title effect-prolly__title">Fashion next stage</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
@@ -297,7 +297,7 @@
                         <figure class="Slider__effect effect effect-prolly">
                             <img src="src/assets/img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Marco</h2>
+                                <h2 class="Slider__title effect-prolly__title">Summer Happiness</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
@@ -312,7 +312,7 @@
                         <figure class="Slider__effect effect effect-prolly">
                             <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Summer</h2>
+                                <h2 class="Slider__title effect-prolly__title">Wedding Photoshoot</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
@@ -325,9 +325,9 @@
 
                         <!-- Start .Slider__effect -->
                         <figure class="Slider__effect effect effect-prolly">
-                            <img src="src/assets/img/slider/slider1.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img">
+                            <img src="src/assets/img/slider/slider4.jpg" alt="slider1" title="slider1" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Wedding</h2>
+                                <h2 class="Slider__title effect-prolly__title">Brand advertisement</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
@@ -340,9 +340,9 @@
 
                         <!-- Start .Slider__effect -->
                         <figure class="Slider__effect effect effect-prolly">
-                            <img src="src/assets/img/slider/slider2.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img">
+                            <img src="src/assets/img/slider/slider5.jpg" alt="slider2" title="slider2" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Marco</h2>
+                                <h2 class="Slider__title effect-prolly__title">Event Videography</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>
@@ -355,9 +355,9 @@
 
                         <!-- Start .Slider__effect -->
                         <figure class="Slider__effect effect effect-prolly">
-                            <img src="src/assets/img/slider/slider3.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img">
+                            <img src="src/assets/img/slider/slider6.jpg" alt="slider3" title="slider3" class="effect__img effect-prolly__img">
                             <figcaption class="Slider__caption effect__caption effect-prolly__caption">
-                                <h2 class="Slider__title effect-prolly__title">Summer</h2>
+                                <h2 class="Slider__title effect-prolly__title">Couple Photoshoot</h2>
                                 <a href="/blog-single.html" title="View more" class="Slider__button effect-prolly__button">View
                                     more</a>
                             </figcaption>

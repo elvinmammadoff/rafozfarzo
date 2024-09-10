@@ -297,7 +297,7 @@
                                 <!-- Start .image-line -->
                                 <div class="image-line image-line--vertical">
                                     <div class="image-line__extra">
-                                        <img src="src/assets/img/about/About.jpg" class="img-fluid image-line__image" alt="About"
+                                        <img src="src/assets/img/about/about.jpg" class="img-fluid image-line__image" alt="about"
                                             title="About">
                                     </div>
                                 </div><!-- End /.image-line -->
@@ -312,14 +312,16 @@
 
                                     <!-- Start .content__details -->
                                     <div class="content__details">
-                                        <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">Lorem
-                                                Ipsum</a></h3>
-                                        <div class="content__description">January 4, 2018 / Posted Rafig</div>
+                                        <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">About Me</a></h3>
+                                        <div class="content__description">You don't take a photograph, you make it.</div>
                                         <p class="content__text">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard dummy text ever since.
-                                            Lorem Ipsum has been the industry's standard dummy text ever since.
+                                            I am a professional photographer by trade and an amateur photographer by vocation. 
+                                            If only I had thought of a Kodak! I could have flashed that glimpse of the Under-world in a second, 
+                                            and examined for more best and nice photographers.
                                         </p>
+                                        <p class="content__text">
+                                            Photography is a magical kind of art that allows people to preserve time and moments, 
+                                            and to describe the world the way they see it and loves.</p>
                                     </div><!-- End /.content__details -->
 
                                     <!-- =========================
@@ -332,8 +334,8 @@
                                         <!-- Start .Progressbar -->
                                         <div class="Progressbar__item">
                                             <div class="Progressbar__header d-flex justify-content-between">
-                                                <h4 class="Progressbar__title">Photoshop</h4>
-                                                <div class="Progressbar__count" data-percentage="90"></div>
+                                                <h4 class="Progressbar__title">Creativity</h4>
+                                                <div class="Progressbar__count" data-percentage="94"></div>
                                             </div>
                                             <div class="Progressbar__full">
                                                 <span class="Progressbar__fill"></span>
@@ -343,8 +345,8 @@
                                         <!-- Start .Progressbar -->
                                         <div class="Progressbar__item">
                                             <div class="Progressbar__header d-flex justify-content-between">
-                                                <h4 class="Progressbar__title">Design</h4>
-                                                <div class="Progressbar__count" data-percentage="70"></div>
+                                                <h4 class="Progressbar__title">Photo editing</h4>
+                                                <div class="Progressbar__count" data-percentage="95"></div>
                                             </div>
                                             <div class="Progressbar__full">
                                                 <span class="Progressbar__fill"></span>
@@ -354,8 +356,8 @@
                                         <!-- Start .Progressbar -->
                                         <div class="Progressbar__item">
                                             <div class="Progressbar__header d-flex justify-content-between">
-                                                <h4 class="Progressbar__title">Coloring</h4>
-                                                <div class="Progressbar__count" data-percentage="50"></div>
+                                                <h4 class="Progressbar__title">Adobe Lightroom</h4>
+                                                <div class="Progressbar__count" data-percentage="83"></div>
                                             </div>
                                             <div class="Progressbar__full">
                                                 <span class="Progressbar__fill"></span>
@@ -365,8 +367,30 @@
                                         <!-- Start .Progressbar -->
                                         <div class="Progressbar__item">
                                             <div class="Progressbar__header d-flex justify-content-between">
-                                                <h4 class="Progressbar__title">Printing</h4>
-                                                <div class="Progressbar__count" data-percentage="40"></div>
+                                                <h4 class="Progressbar__title">Customer service</h4>
+                                                <div class="Progressbar__count" data-percentage="100"></div>
+                                            </div>
+                                            <div class="Progressbar__full">
+                                                <span class="Progressbar__fill"></span>
+                                            </div>
+                                        </div><!-- End /.Progressbar__item -->
+
+                                        <!-- Start .Progressbar -->
+                                        <div class="Progressbar__item">
+                                            <div class="Progressbar__header d-flex justify-content-between">
+                                                <h4 class="Progressbar__title">Computer Proficiency</h4>
+                                                <div class="Progressbar__count" data-percentage="96"></div>
+                                            </div>
+                                            <div class="Progressbar__full">
+                                                <span class="Progressbar__fill"></span>
+                                            </div>
+                                        </div><!-- End /.Progressbar__item -->
+
+                                        <!-- Start .Progressbar -->
+                                        <div class="Progressbar__item">
+                                            <div class="Progressbar__header d-flex justify-content-between">
+                                                <h4 class="Progressbar__title">Drone photography</h4>
+                                                <div class="Progressbar__count" data-percentage="88"></div>
                                             </div>
                                             <div class="Progressbar__full">
                                                 <span class="Progressbar__fill"></span>
