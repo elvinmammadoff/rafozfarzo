@@ -16,6 +16,7 @@
     [ INDEX ]
 	|
     |___ Stage Padding Owl Carousel Slider
+    |___ Swiper slider
     |___ Button Ripple Effect
     |___ Sticky Header
     |___ Form Input Focus Materialize Effect
@@ -82,6 +83,34 @@
 
 
     /* ==========================
+       Swiper: Slider
+    =============================*/
+	new Swiper('.swiper-container', {
+		loop: true,
+		slidesPerView: 1.3,
+		paginationClickable: true,
+		spaceBetween: 20,
+		center: true,
+		breakpoints: {
+			1920: {
+				slidesPerView: 1.3,
+				spaceBetween: 30, 
+				center: true
+			},
+			1028: {
+				slidesPerView: 2,
+				spaceBetween: 30
+			},
+			480: {
+				slidesPerView: 1,
+				spaceBetween: 10
+			}
+		}
+	});
+		
+
+
+    /* ==========================
        Button Ripple Effect
     =============================*/
 	$(".Slider__button").click(function (e) {
@@ -118,7 +147,7 @@
     =============================*/
     $(window).on('scroll', function () {
         var scrollPos = $(this).scrollTop();
-        if (scrollPos > 1) {
+        if (scrollPos > 400) {
             $('.sticky-header').addClass('is-sticky');
         } else {
             $('.sticky-header').removeClass('is-sticky');
@@ -316,6 +345,8 @@
 	}
 
 	//======= END Init Yandex Map ========
+
+
 	
 
 })(jQuery);
