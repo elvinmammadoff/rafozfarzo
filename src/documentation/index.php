@@ -768,8 +768,10 @@
                 <pre>
 
   V. 1.3.4 – 12.09.2024
-  - Added: Exhibition page added for Home version 1
+  - Added: Exhibition page added for Version 1
+  - Added: Swiper Slider added for Version 1
   - Fixed: Media files and some UI problems
+  - Fixed: Sticky Header js and animation problems
   - Tweak: Improved Documentation
 
   V. 1.2.3 – 10.01.2024

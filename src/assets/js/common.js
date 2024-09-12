@@ -147,12 +147,11 @@
     =============================*/
     $(window).on('scroll', function () {
         var scrollPos = $(this).scrollTop();
-        if (scrollPos > 100) {
+		var headeerHeight = $('.Header').outerHeight();
+        if (scrollPos > headeerHeight) {
             $('.Header').removeClass('sticky-header').addClass('is-sticky');
-			console.log('if', scrollPos);
-        } else if(scrollPos == 0) {
+        } else if(scrollPos < headeerHeight) {
 			$('.Header').removeClass('is-sticky').addClass('sticky-header');
-			console.log('else', scrollPos);
         }
 	});	
 	
