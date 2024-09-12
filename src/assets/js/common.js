@@ -147,10 +147,12 @@
     =============================*/
     $(window).on('scroll', function () {
         var scrollPos = $(this).scrollTop();
-        if (scrollPos > 400) {
-            $('.sticky-header').addClass('is-sticky');
-        } else {
-            $('.sticky-header').removeClass('is-sticky');
+        if (scrollPos > 100) {
+            $('.Header').removeClass('sticky-header').addClass('is-sticky');
+			console.log('if', scrollPos);
+        } else if(scrollPos == 0) {
+			$('.Header').removeClass('is-sticky').addClass('sticky-header');
+			console.log('else', scrollPos);
         }
 	});	
 	

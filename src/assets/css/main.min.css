@@ -9031,7 +9031,8 @@ figure {
 }
 
 .Header {
-    background-color: #fff
+    background-color: #fff;
+    transition: all .7s ease-in-out;
 }
 
 .Header__logo {
@@ -9068,8 +9069,8 @@ figure {
     width: 100%;
     padding: 1rem 0;
     z-index: 4;
-    -webkit-animation: slideInDown .7s ease-in-out 0s 1 both;
-    animation: slideInDown .7s ease-in-out 0s 1 both;
+    -webkit-animation: slideInDown .7s ease-in-out;
+    animation: slideInDown .7s ease-in-out;
     -webkit-box-shadow: 0 .313rem .563rem .063rem rgba(144, 161, 180, .2);
     box-shadow: 0 .313rem .563rem .063rem rgba(144, 161, 180, .2);
     background-color: #fff
