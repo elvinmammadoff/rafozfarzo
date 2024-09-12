@@ -550,7 +550,6 @@
 
     <!-- Mobile - Burger Right Menu -->
     <script src="src/assets/js/burger-menu.min.js"></script>
-    <script src="src/assets/js/swiper-bundle.min.js"></script>
 
     <!-- Common -->
     <script src="src/assets/js/common.js"></script>
