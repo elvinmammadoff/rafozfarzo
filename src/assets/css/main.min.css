@@ -9062,7 +9062,7 @@ figure {
     padding: 2.25rem 0
 }
 
-.Header.sticky-header.is-sticky {
+.Header.is-sticky {
     position: fixed;
     top: 0;
     left: 0;
