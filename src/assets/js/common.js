@@ -16,6 +16,7 @@
     [ INDEX ]
 	|
     |___ Stage Padding Owl Carousel Slider
+    |___ Swiper slider
     |___ Button Ripple Effect
     |___ Sticky Header
     |___ Form Input Focus Materialize Effect
@@ -82,6 +83,34 @@
 
 
     /* ==========================
+       Swiper: Slider
+    =============================*/
+	new Swiper('.swiper-container', {
+		loop: true,
+		slidesPerView: 1.3,
+		paginationClickable: true,
+		spaceBetween: 20,
+		center: true,
+		breakpoints: {
+			1920: {
+				slidesPerView: 1.3,
+				spaceBetween: 30, 
+				center: true
+			},
+			1028: {
+				slidesPerView: 2,
+				spaceBetween: 30
+			},
+			480: {
+				slidesPerView: 1,
+				spaceBetween: 10
+			}
+		}
+	});
+		
+
+
+    /* ==========================
        Button Ripple Effect
     =============================*/
 	$(".Slider__button").click(function (e) {
@@ -118,10 +147,11 @@
     =============================*/
     $(window).on('scroll', function () {
         var scrollPos = $(this).scrollTop();
-        if (scrollPos > 1) {
-            $('.sticky-header').addClass('is-sticky');
-        } else {
-            $('.sticky-header').removeClass('is-sticky');
+		var headeerHeight = $('.Header').outerHeight();
+        if (scrollPos > headeerHeight) {
+            $('.Header').removeClass('sticky-header').addClass('is-sticky');
+        } else if(scrollPos < headeerHeight) {
+			$('.Header').removeClass('is-sticky').addClass('sticky-header');
         }
 	});	
 	
@@ -253,10 +283,12 @@
     /* ==========================
        Pre-Loader
     =============================*/
-    // will fade loading animation
-    $("#object").delay(600).fadeOut(300);
-    // will fade loading background                 
-	$("#loading").delay(1000).fadeOut(500);	
+    $(window).on('load', function () {
+		// will fade loading animation
+		$("#object").delay(600).fadeOut(300);
+		// will fade loading background                 
+		$("#loading").delay(1000).fadeOut(500);	
+    });
 
 
     /* ==========================
@@ -316,6 +348,8 @@
 	}
 
 	//======= END Init Yandex Map ========
+
+
 	
 
 })(jQuery);

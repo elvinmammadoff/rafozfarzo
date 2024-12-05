@@ -295,130 +295,325 @@
                         <div class="filter__group">
                             <span data-filter="*" class="filter__button active">All</span>
                             <span data-filter=".fashion" class="filter__button">Fashion</span>
-                            <span data-filter=".lifestyle" class="filter__button">Lifestyle</span>
-                            <span data-filter=".nature" class="filter__button">Nature</span>
-                            <span data-filter=".lovestory" class="filter__button">Love Story</span>
-                            <span data-filter=".portraits" class="filter__button">Portraits</span>
+                            <span data-filter=".summer" class="filter__button">Summer</span>
+                            <span data-filter=".brand" class="filter__button">Brand</span>
+                            <span data-filter=".wedding" class="filter__button">Wedding</span>
                         </div>
 
                         <!-- Start .filter__content -->
                         <div class="filter__content row" id="lightgallery">
 
                             <!-- Start .Gallery__item -->
-                            <div class="Gallery__item single-content portraits lovestory lifestyle filter__grid col-sm-12 col-md-4"
-                                data-src="src/assets/img/gallery/Gallery1.jpg">
+                            <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/fashion/gal1.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
                                         <img class="effect-layla__img" alt="Street Photography" title="Street Photography"
-                                            src="src/assets/img/gallery/Gallery1.jpg">
+                                            src="src/assets/img/gallery/fashion/gal1.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Street Photography</h2>
+                                            <h2 class="effect-layla__title">Fashion #01</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
                             </div><!-- End /.Gallery__item -->
 
                             <!-- Start .Gallery__item -->
-                            <div class="Gallery__item single-content lovestory fashion filter__grid col-sm-12 col-md-4"
-                                data-src="src/assets/img/gallery/Gallery2.jpg">
+                            <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/fashion/gal2.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Beauty Female" title="Beauty Female" src="src/assets/img/gallery/Gallery2.jpg">
+                                        <img class="effect-layla__img" alt="Beauty Female" title="Beauty Female" src="src/assets/img/gallery/fashion/gal2.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Beauty Female</h2>
+                                            <h2 class="effect-layla__title">Fashion #02</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
                             </div><!-- End /.Gallery__item -->
 
                             <!-- Start .Gallery__item -->
-                            <div class="Gallery__item single-content portraits nature filter__grid col-sm-12 col-md-4"
-                                data-src="src/assets/img/gallery/Gallery3.jpg">
+                            <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/fashion/gal3.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Pretty Nature" title="Pretty Nature" src="src/assets/img/gallery/Gallery3.jpg">
+                                        <img class="effect-layla__img" alt="Pretty Nature" title="Pretty Nature" src="src/assets/img/gallery/fashion/gal3.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Pretty Nature</h2>
+                                            <h2 class="effect-layla__title">Fashion #03</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
                             </div><!-- End /.Gallery__item -->
 
                             <!-- Start .Gallery__item -->
-                            <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery4.jpg">
+                            <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/fashion/gal4.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Magic Shine" title="Magic Shine" src="src/assets/img/gallery/Gallery4.jpg">
+                                        <img class="effect-layla__img" alt="Magic Shine" title="Magic Shine" src="src/assets/img/gallery/fashion/gal4.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Magic Shine</h2>
+                                            <h2 class="effect-layla__title">Fashion #04</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
                             </div><!-- End /.Gallery__item -->
 
                             <!-- Start .Gallery__item -->
-                            <div class="Gallery__item single-content nature portraits filter__grid col-sm-12 col-md-4"
-                                data-src="src/assets/img/gallery/Gallery5.jpg">
+                            <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/fashion/gal5.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
                                         <img class="effect-layla__img" alt="Lemon Poppy Seed Blondies" title="Lemon Poppy Seed Blondies"
-                                            src="src/assets/img/gallery/Gallery5.jpg">
+                                            src="src/assets/img/gallery/fashion/gal5.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Lemon Poppy Seed Blondies</h2>
+                                            <h2 class="effect-layla__title">Fashion #05</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
                             </div><!-- End /.Gallery__item -->
 
                             <!-- Start .Gallery__item -->
-                            <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/Gallery6.jpg">
+                            <div class="Gallery__item single-content fashion filter__grid col-sm-12 col-md-4" data-src="src/assets/img/gallery/fashion/gal6.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
-                                        <img class="effect-layla__img" alt="Fashion Girl" src="src/assets/img/gallery/Gallery6.jpg">
+                                        <img class="effect-layla__img" alt="Fashion Girl" src="src/assets/img/gallery/fashion/gal6.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Fashion Girl</h2>
+                                            <h2 class="effect-layla__title">Fashion #06</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
                             </div><!-- End /.Gallery__item -->
 
                             <!-- Start .Gallery__item -->
-                            <div class="Gallery__item single-content lifestyle filter__grid col-sm-12 col-md-4"
-                                data-src="src/assets/img/gallery/Gallery7.jpg">
+                            <div class="Gallery__item single-content summer filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/summer/gal1.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
                                         <img class="effect-layla__img" alt="Outdoor Basketball"
-                                            src="src/assets/img/gallery/Gallery7.jpg">
+                                            src="src/assets/img/gallery/summer/gal1.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Outdoor Basketball</h2>
+                                            <h2 class="effect-layla__title">Summer #01</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
                             </div><!-- End /.Gallery__item -->
 
                             <!-- Start .Gallery__item -->
-                            <div class="Gallery__item single-content lifestyle nature filter__grid col-sm-12 col-md-4"
-                                data-src="src/assets/img/gallery/Gallery8.jpg">
+                            <div class="Gallery__item single-content summer filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/summer/gal2.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
                                         <img class="effect-layla__img" alt="Healthy Lifestyle"
-                                            src="src/assets/img/gallery/Gallery8.jpg">
+                                            src="src/assets/img/gallery/summer/gal2.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Healthy Lifestyle</h2>
+                                            <h2 class="effect-layla__title">Summer #02</h2>
                                         </figcaption>
                                     </figure>
                                 </a>
                             </div><!-- End /.Gallery__item -->
 
                             <!-- Start .Gallery__item -->
-                            <div class="Gallery__item single-content lovestory filter__grid col-sm-12 col-md-4"
-                                data-src="src/assets/img/gallery/Gallery9.jpg">
+                            <div class="Gallery__item single-content summer filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/summer/gal3.jpg">
                                 <a href="">
                                     <figure class="effect effect-layla">
                                         <img class="effect-layla__img" alt="Christmas Lights"
-                                            src="src/assets/img/gallery/Gallery9.jpg">
+                                            src="src/assets/img/gallery/summer/gal3.jpg">
                                         <figcaption class="effect__caption effect-layla__caption">
-                                            <h2 class="effect-layla__title">Christmas Lights</h2>
+                                            <h2 class="effect-layla__title">Summer #03</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content summer filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/summer/gal4.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Christmas Lights"
+                                            src="src/assets/img/gallery/summer/gal4.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Summer #04</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content summer filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/summer/gal5.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Christmas Lights"
+                                            src="src/assets/img/gallery/summer/gal5.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Summer #05</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content summer filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/summer/gal6.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Christmas Lights"
+                                            src="src/assets/img/gallery/summer/gal6.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Summer #06</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content brand filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/brand/gal1.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Outdoor Basketball"
+                                            src="src/assets/img/gallery/brand/gal1.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Brand #01</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content brand filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/brand/gal2.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Healthy Lifestyle"
+                                            src="src/assets/img/gallery/brand/gal2.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Brand #02</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content brand filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/brand/gal3.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Christmas Lights"
+                                            src="src/assets/img/gallery/brand/gal3.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Brand #03</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content brand filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/brand/gal4.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Christmas Lights"
+                                            src="src/assets/img/gallery/brand/gal4.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Brand #04</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content brand filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/brand/gal5.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Christmas Lights"
+                                            src="src/assets/img/gallery/brand/gal5.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Brand #05</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content brand filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/brand/gal6.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Christmas Lights"
+                                            src="src/assets/img/gallery/brand/gal6.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Brand #06</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content wedding filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/wedding/gal1.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Outdoor Basketball"
+                                            src="src/assets/img/gallery/wedding/gal1.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Wedding #01</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content wedding filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/wedding/gal2.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Healthy Lifestyle"
+                                            src="src/assets/img/gallery/wedding/gal2.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Wedding #02</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content wedding filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/wedding/gal3.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Christmas Lights"
+                                            src="src/assets/img/gallery/wedding/gal3.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Wedding #03</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content wedding filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/wedding/gal4.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Christmas Lights"
+                                            src="src/assets/img/gallery/wedding/gal4.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Wedding #04</h2>
+                                        </figcaption>
+                                    </figure>
+                                </a>
+                            </div><!-- End /.Gallery__item -->
+
+                            <!-- Start .Gallery__item -->
+                            <div class="Gallery__item single-content wedding filter__grid col-sm-12 col-md-4"
+                                data-src="src/assets/img/gallery/wedding/gal5.jpg">
+                                <a href="">
+                                    <figure class="effect effect-layla">
+                                        <img class="effect-layla__img" alt="Christmas Lights"
+                                            src="src/assets/img/gallery/wedding/gal5.jpg">
+                                        <figcaption class="effect__caption effect-layla__caption">
+                                            <h2 class="effect-layla__title">Wedding #05</h2>
                                         </figcaption>
                                     </figure>
                                 </a>

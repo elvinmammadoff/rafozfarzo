@@ -304,9 +304,10 @@
 
                                 <!-- Start .content__details -->
                                 <div class="content__details">
-                                    <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">Lorem
-                                            Ipsum</a></h3>
-                                    <div class="content__description">January 4, 2018 / Posted Rafig</div>
+                                    <h3 class="content__title">
+                                        <a href="/blog-single.html" title="Lorem Ipsum">Beginners guide to start your photography journey</a>
+                                    </h3>
+                                    <div class="content__description">Mar 28, 2024 / Posted by  Marina Willams</div>
                                     <p class="content__text">
                                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                         Lorem Ipsum has been the industry's standard dummy text ever since.
@@ -328,7 +329,7 @@
                             <!-- Start .Blog__head -->
                             <div class="Blog__header">
                                 <a href="/blog-single.html" title="Blog1" class="link-out"></a>
-                                <img src="src/assets/img/blog/Blog-1.jpg" alt="Blog" title="Blog" class="Blog__img img-fluid img100">
+                                <img src="src/assets/img/blog/Blog-2.jpg" alt="Blog" title="Blog" class="Blog__img img-fluid img100">
                             </div><!-- End /.Blog__head -->
 
                             <!-- Start .Blog__body -->
@@ -336,9 +337,8 @@
 
                                 <!-- Start .content__details -->
                                 <div class="content__details">
-                                    <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">Lorem
-                                            Ipsum</a></h3>
-                                    <div class="content__description">January 4, 2018 / Posted Rafig</div>
+                                    <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">How you should prepare your studio before a shoot</a></h3>
+                                    <div class="content__description">Apr 22, 2024 / Posted by Olivia Rose</div>
                                     <p class="content__text">
                                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                         Lorem Ipsum has been the industry's standard dummy text ever since.
@@ -360,7 +360,7 @@
                             <!-- Start .Blog__head -->
                             <div class="Blog__header">
                                 <a href="/blog-single.html" title="Blog1" class="link-out"></a>
-                                <img src="src/assets/img/blog/Blog-1.jpg" alt="Blog" title="Blog" class="Blog__img img-fluid img100">
+                                <img src="src/assets/img/blog/Blog-3.jpg" alt="Blog" title="Blog" class="Blog__img img-fluid img100">
                             </div><!-- End /.Blog__head -->
 
                             <!-- Start .Blog__body -->
@@ -368,9 +368,8 @@
 
                                 <!-- Start .content__details -->
                                 <div class="content__details">
-                                    <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">Lorem
-                                            Ipsum</a></h3>
-                                    <div class="content__description">January 4, 2018 / Posted Rafig</div>
+                                    <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">Best Location Ideas For Your Child's Photo Shoot</a></h3>
+                                    <div class="content__description">May 4, 2024 / Posted by Justin Burke</div>
                                     <p class="content__text">
                                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                         Lorem Ipsum has been the industry's standard dummy text ever since.
@@ -392,7 +391,7 @@
                             <!-- Start .Blog__head -->
                             <div class="Blog__header">
                                 <a href="/blog-single.html" title="Blog1" class="link-out"></a>
-                                <img src="src/assets/img/blog/Blog-1.jpg" alt="Blog" title="Blog" class="Blog__img img-fluid img100">
+                                <img src="src/assets/img/blog/Blog-4.jpg" alt="Blog" title="Blog" class="Blog__img img-fluid img100">
                             </div><!-- End /.Blog__head -->
 
                             <!-- Start .Blog__body -->
@@ -400,9 +399,8 @@
 
                                 <!-- Start .content__details -->
                                 <div class="content__details">
-                                    <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">Lorem
-                                            Ipsum</a></h3>
-                                    <div class="content__description">January 4, 2018 / Posted Rafig</div>
+                                    <h3 class="content__title"><a href="/blog-single.html" title="Lorem Ipsum">8 Key Differences You Need To Know Before Buying Camera</a></h3>
+                                    <div class="content__description">May 17, 2024 / Posted by Olivia Rose</div>
                                     <p class="content__text">
                                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                         Lorem Ipsum has been the industry's standard dummy text ever since.
