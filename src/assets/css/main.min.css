@@ -46,6 +46,10 @@ html {
     -webkit-tap-highlight-color: transparent
 }
 
+main {
+    flex: 1;
+}
+
 @-ms-viewport {
     width: device-width
 }
